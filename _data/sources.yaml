@@ -51,18 +51,12 @@
   image: https://KwonVitalLab.github.io/images/publications/structECDF.png
   buttons:
     - type: website
-      link: https://sites.google.com/site/structureecdf/
+      link: https://github.com/hyeokhyen/structecdf
 
 # ICCV 2015 Hyperspectral
 - id: doi:10.1109/ICCV.2015.43
   image: https://KwonVitalLab.github.io/images/publications/iccv15.png
-  buttons:
-    - type: website
-      link: https://sites.google.com/view/data-drivendepthmaprefinement/home?pli=1&authuser=1
       
 # CVPR 2015 Depth map
 - id: doi:10.1109/CVPR.2015.7298611
   image: https://KwonVitalLab.github.io/images/publications/cvpr15.png
-  buttons:
-    - type: website
-      link: https://sites.google.com/view/data-drivendepthmaprefinement/home?pli=1&authuser=1

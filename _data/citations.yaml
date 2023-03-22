@@ -165,7 +165,7 @@
   image: https://KwonVitalLab.github.io/images/publications/structECDF.png
   buttons:
   - type: website
-    link: https://sites.google.com/site/structureecdf/
+    link: https://github.com/hyeokhyen/structecdf
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/ICCV.2015.43
@@ -177,9 +177,6 @@
   date: '2015-12-01'
   link: https://doi.org/gkzx4j
   image: https://KwonVitalLab.github.io/images/publications/iccv15.png
-  buttons:
-  - type: website
-    link: https://sites.google.com/view/data-drivendepthmaprefinement/home?pli=1&authuser=1
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/CVPR.2015.7298611
@@ -192,8 +189,5 @@
   date: '2015-06-01'
   link: https://doi.org/grzdxg
   image: https://KwonVitalLab.github.io/images/publications/cvpr15.png
-  buttons:
-  - type: website
-    link: https://sites.google.com/view/data-drivendepthmaprefinement/home?pli=1&authuser=1
   plugin: sources.py
   file: sources.yaml
