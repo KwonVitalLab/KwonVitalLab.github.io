@@ -1,67 +1,68 @@
 # Sensors 2023 XAI4FOG
 - id: doi:10.3390/s23041766
-	image: ../images/publications/xai4fog.png
+  image: ../images/publications/xai4fog.png
 
 # ISWC 2023 IMUTube Subtle
 - id: arXiv:2211.01342
-	image:
+  image: ../images/publications/motion_subtlety_index.png
 
 # GetMobile IMUTube
 - id: doi:10.1145/3486880.3486891
-	title: "Can You See It? Good, So We Can Sense It!"
-	image:
+  title: "Can You See It? Good, So We Can Sense It!"
+  image: ../images/publications/getmobile.png
 
 # IJCAI Workshop 2021
 - id: doi:10.1007/978-981-16-0575-8_4
-	image:
+  image: ../images/publications/ijcai_workshop.png
 
 # IMWUT 21 IMUTube v3
 - id: doi:10.3390/s21248337
-	image:
+  image: ../images/publications/complexDLIMUTube.png
 
 # IMWUT 21 IMUTube v2
 - id: doi:10.1145/3478096
-	title: "Approaching the real-world: Supporting activity recognition training with virtual imu data"
-	image:
-	buttons:
-		- type: website
-			link: https://github.com/hyeokhyen/imutube
+  title: "Approaching the real-world: Supporting activity recognition training with virtual imu data"
+  image: ../images/publications/imutube_v2.png
+  buttons:
+    - type: website
+      link: https://github.com/hyeokhyen/imutube
 
 # IMWUT 20 IMUTube v1
 - id: doi:10.1145/3411841
-	title: "IMUTube: Automatic Extraction of Virtual on-body Accelerometry from Video for Human Activity Recognition."
-	image: ../images/publications/IMUTube Diagrams.jpg
-		- type: website
-			link: https://github.com/hyeokhyen/imutube
+  title: "IMUTube: Automatic Extraction of Virtual on-body Accelerometry from Video for Human Activity Recognition."
+  image: ../images/publications/IMUTube Diagrams.jpg
+  buttons:
+    - type: website
+      link: https://github.com/hyeokhyen/imutube
 
 # Arxiv 20 WiFi
 - id: arXiv:2005.11228
-	image:
+  image: ../images/publications/wifi_community.png
 
 # ISWC 19 labeljitter
 - id: doi:10.1145/3341163.3347744
-	image: ../images/publications/label jitter.png
-	buttons:
-		- type: website
-			link: https://github.com/hyeokhyen/sat
+  image: ../images/publications/label jitter.png
+  buttons:
+    - type: website
+      link: https://github.com/hyeokhyen/sat
 
 # ISWC 18 Structural ECDF
 - id: doi:10.1145/3267242.3267258
-	image: ../images/publications/structECDF.png
-	buttons:
-		- type: website
-			link: https://sites.google.com/site/structureecdf/
+  image: ../images/publications/structECDF.png
+  buttons:
+    - type: website
+      link: https://sites.google.com/site/structureecdf/
 
 # ICCV 2015 Hyperspectral
 - id: doi:10.1109/ICCV.2015.43
-	image: ../images/publications/iccv15.png
-	buttons:
-		- type: website
-			link: https://sites.google.com/view/rgb-guided-hyperspectral-image/home?pli=1&authuser=1
-
+  image: ../images/publications/iccv15.png
+  buttons:
+    - type: website
+      link: https://sites.google.com/view/data-drivendepthmaprefinement/home?pli=1&authuser=1
+      
 # CVPR 2015 Depth map
 - id: doi:10.1109/CVPR.2015.7298611
-	image: ../images/publications/cvpr15.png
-	buttons:
-		- type: website
-			link: https://sites.google.com/view/data-drivendepthmaprefinement/home?pli=1&authuser=1
+  image: ../images/publications/cvpr15.png
+  buttons:
+    - type: website
+      link: https://sites.google.com/view/data-drivendepthmaprefinement/home?pli=1&authuser=1
