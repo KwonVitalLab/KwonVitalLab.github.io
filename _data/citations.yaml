@@ -1,113 +1,199 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: 10.3390/s23041766
+  title: An Explainable Spatial-Temporal Graphical Convolutional Network to Score
+    Freezing of Gait in Parkinsonian Patients
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
-  authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
+  - Hyeokhyen Kwon
+  - Gari D. Clifford
+  - Imari Genias
+  - Doug Bernhard
+  - Christine D. Esper
+  - Stewart A. Factor
+  - J. Lucas McKay
+  publisher: Sensors
+  date: '2023-02-04'
+  link: https://doi.org/grx6hg
+  image: null
   plugin: sources.py
   file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+- id: arXiv:2211.01342
+  title: Fine-grained Human Activity Recognition Using Virtual On-body Acceleration
+    Data
+  authors:
+  - Zikang Leng
+  - Yash Jain
+  - Hyeokhyen Kwon
+  - "Thomas Pl\xF6tz"
+  publisher: arXiv
+  date: '2022-11-03'
+  link: https://arxiv.org/abs/2211.01342
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3486880.3486891
+  title: Can You See It? Good, So We Can Sense It!
+  authors:
+  - Hyeokhyen Kwon
+  - Catherine Tong
+  - Harish Haresamudram
+  - Yan Gao
+  - Gregory D. Abowd
+  - Nicholas D. Lane
+  - Thomas Ploetz
+  publisher: 'GetMobile: Mobile Computing and Communications'
+  date: '2021-09-14'
+  link: https://doi.org/grzdzf
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1007/978-981-16-0575-8_4
+  title: Personalization Models for Human Activity Recognition with Distribution Matching-Based
+    Metrics
+  authors:
+  - Huy Thong Nguyen
+  - Hyeokhyen Kwon
+  - Harish Haresamudram
+  - Andrew F. Peterson
+  - "Thomas Pl\xF6tz"
+  publisher: Communications in Computer and Information Science
+  date: '2021-01-01'
+  link: https://doi.org/grzdx8
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/s21248337
+  title: Complex Deep Neural Networks from Large Scale Virtual IMU Data for Effective
+    Human Activity Recognition Using Wearables
+  authors:
+  - Hyeokhyen Kwon
+  - Gregory D. Abowd
+  - "Thomas Pl\xF6tz"
+  publisher: Sensors
+  date: '2021-12-13'
+  link: https://doi.org/grx6hj
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3478096
+  title: 'Approaching the real-world: Supporting activity recognition training with
+    virtual imu data'
+  authors:
+  - Hyeokhyen Kwon
+  - Bingyao Wang
+  - Gregory D. Abowd
+  - "Thomas Pl\xF6tz"
+  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  date: '2021-09-09'
+  link: https://doi.org/grzdx6
+  image: null
   buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
   - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
-  authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+    link: https://github.com/hyeokhyen/imutube
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+- id: doi:10.1145/3411841
+  title: 'IMUTube: Automatic Extraction of Virtual on-body Accelerometry from Video
+    for Human Activity Recognition.'
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+  - Hyeokhyen Kwon
+  - Catherine Tong
+  - Harish Haresamudram
+  - Yan Gao
+  - Gregory D. Abowd
+  - Nicholas D. Lane
+  - "Thomas Pl\xF6tz"
+  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  date: '2020-09-04'
+  link: https://doi.org/ghdcm7
+  image: null
+  buttons:
+  - type: website
+    link: https://github.com/hyeokhyen/imutube
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2005.11228
+  title: Leveraging WiFi Network Logs to Infer Student Collocation and its Relationship
+    with Academic Performance
+  authors:
+  - V. Das Swain
+  - H. Kwon
+  - S. Sargolzaei
+  - B. Saket
+  - M. Bin Morshed
+  - K. Tran
+  - D. Patel
+  - Y. Tian
+  - J. Philipose
+  - Y. Cui
+  - "T. Pl\xF6tz"
+  - M. De Choudhury
+  - G. D. Abowd
+  publisher: arXiv
+  date: '2021-05-07'
+  link: https://arxiv.org/abs/2005.11228
+  image: null
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3341163.3347744
+  title: Handling annotation uncertainty in human activity recognition
+  authors:
+  - Hyeokhyen Kwon
+  - Gregory D. Abowd
+  - "Thomas Pl\xF6tz"
+  publisher: Proceedings of the 23rd International Symposium on Wearable Computers
+  date: '2019-09-09'
+  link: https://doi.org/ghfp56
+  image: null
+  buttons:
+  - type: website
+    link: https://github.com/hyeokhyen/sat
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3267242.3267258
+  title: Adding structural characteristics to distribution-based accelerometer representations
+    for activity recognition using wearables
+  authors:
+  - Hyeokhyen Kwon
+  - Gregory D. Abowd
+  - "Thomas Pl\xF6tz"
+  publisher: Proceedings of the 2018 ACM International Symposium on Wearable Computers
+  date: '2018-10-08'
+  link: https://doi.org/grzdx2
+  image: null
+  buttons:
+  - type: website
+    link: https://sites.google.com/site/structureecdf/
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ICCV.2015.43
+  title: RGB-Guided Hyperspectral Image Upsampling
+  authors:
+  - Hyeokhyen Kwon
+  - Yu-Wing Tai
+  publisher: 2015 IEEE International Conference on Computer Vision (ICCV)
+  date: '2015-12-01'
+  link: https://doi.org/gkzx4j
+  image: KwonVitalLab.github.io/images/publications/iccv15.png
+  buttons:
+  - type: website
+    link: https://sites.google.com/view/rgb-guided-hyperspectral-image/home?pli=1&authuser=1
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/CVPR.2015.7298611
+  title: Data-driven depth map refinement via multi-scale sparse representation
+  authors:
+  - ' HyeokHyen Kwon'
+  - ' Yu-Wing Tai'
+  - Stephen Lin
+  publisher: 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+  date: '2015-06-01'
+  link: https://doi.org/grzdxg
+  image: KwonVitalLab.github.io/images/publications/cvpr15.png
+  buttons:
+  - type: website
+    link: https://sites.google.com/view/data-drivendepthmaprefinement/home?pli=1&authuser=1
   plugin: sources.py
   file: sources.yaml
