@@ -14,7 +14,7 @@
   publisher: Sensors
   date: '2023-02-04'
   link: https://doi.org/grx6hg
-  image: ../images/publications/xai4fog.png
+  image: https://KwonVitalLab.github.io/images/publications/xai4fog.png
   plugin: sources.py
   file: sources.yaml
 - id: arXiv:2211.01342
@@ -28,7 +28,7 @@
   publisher: arXiv
   date: '2022-11-03'
   link: https://arxiv.org/abs/2211.01342
-  image: ../images/publications/motion_subtlety_index.png
+  image: https://KwonVitalLab.github.io/images/publications/motion_subtlety_index.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3486880.3486891
@@ -44,7 +44,7 @@
   publisher: 'GetMobile: Mobile Computing and Communications'
   date: '2021-09-14'
   link: https://doi.org/grzdzf
-  image: ../images/publications/getmobile.png
+  image: https://KwonVitalLab.github.io/images/publications/getmobile.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1007/978-981-16-0575-8_4
@@ -59,7 +59,7 @@
   publisher: Communications in Computer and Information Science
   date: '2021-01-01'
   link: https://doi.org/grzdx8
-  image: ../images/publications/ijcai_workshop.png
+  image: https://KwonVitalLab.github.io/images/publications/ijcai_workshop.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/s21248337
@@ -72,7 +72,7 @@
   publisher: Sensors
   date: '2021-12-13'
   link: https://doi.org/grx6hj
-  image: ../images/publications/complexDLIMUTube.png
+  image: https://KwonVitalLab.github.io/images/publications/complexDLIMUTube.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3478096
@@ -87,7 +87,7 @@
     Technologies
   date: '2021-09-09'
   link: https://doi.org/grzdx6
-  image: ../images/publications/imutube_v2.png
+  image: https://KwonVitalLab.github.io/images/publications/imutube_v2.png
   buttons:
   - type: website
     link: https://github.com/hyeokhyen/imutube
@@ -108,7 +108,7 @@
     Technologies
   date: '2020-09-04'
   link: https://doi.org/ghdcm7
-  image: ../images/publications/IMUTube Diagrams.jpg
+  image: https://KwonVitalLab.github.io/images/publications/IMUTube Diagrams.jpg
   buttons:
   - type: website
     link: https://github.com/hyeokhyen/imutube
@@ -134,7 +134,7 @@
   publisher: arXiv
   date: '2021-05-07'
   link: https://arxiv.org/abs/2005.11228
-  image: ../images/publications/wifi_community.png
+  image: https://KwonVitalLab.github.io/images/publications/wifi_community.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3341163.3347744
@@ -146,7 +146,7 @@
   publisher: Proceedings of the 23rd International Symposium on Wearable Computers
   date: '2019-09-09'
   link: https://doi.org/ghfp56
-  image: ../images/publications/label jitter.png
+  image: https://KwonVitalLab.github.io/images/publications/label jitter.png
   buttons:
   - type: website
     link: https://github.com/hyeokhyen/sat
@@ -162,7 +162,7 @@
   publisher: Proceedings of the 2018 ACM International Symposium on Wearable Computers
   date: '2018-10-08'
   link: https://doi.org/grzdx2
-  image: ../images/publications/structECDF.png
+  image: https://KwonVitalLab.github.io/images/publications/structECDF.png
   buttons:
   - type: website
     link: https://sites.google.com/site/structureecdf/
@@ -176,7 +176,7 @@
   publisher: 2015 IEEE International Conference on Computer Vision (ICCV)
   date: '2015-12-01'
   link: https://doi.org/gkzx4j
-  image: ../images/publications/iccv15.png
+  image: https://KwonVitalLab.github.io/images/publications/iccv15.png
   buttons:
   - type: website
     link: https://sites.google.com/view/data-drivendepthmaprefinement/home?pli=1&authuser=1
@@ -191,7 +191,7 @@
   publisher: 2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
   date: '2015-06-01'
   link: https://doi.org/grzdxg
-  image: ../images/publications/cvpr15.png
+  image: https://KwonVitalLab.github.io/images/publications/cvpr15.png
   buttons:
   - type: website
     link: https://sites.google.com/view/data-drivendepthmaprefinement/home?pli=1&authuser=1
