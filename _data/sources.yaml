@@ -1,23 +1,69 @@
-- id: doi:10.1371/journal.pcbi.1007128
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  date: 2020-12-4
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
+# Sensors 2023 XAI4FOG
+- id: 10.3390/s23041766
+  image:
+
+# ISWC 2023 IMUTube Subtle
+- id: arXiv:2211.01342
+  image:
+
+# GetMobile IMUTube
+- id: doi:10.1145/3486880.3486891
+  title: "Can You See It? Good, So We Can Sense It!"
+  image:
+
+# IJCAI Workshop 2021
+- id: doi:10.1007/978-981-16-0575-8_4
+  image:
+
+# IMWUT 21 IMUTube v3
+- id: doi:10.3390/s21248337
+  image:
+
+# IMWUT 21 IMUTube v2
+- id: doi:10.1145/3478096
+  title: "Approaching the real-world: Supporting activity recognition training with virtual imu data"
+  image:
   buttons:
-    - type: manubot
-      link: https://greenelab.github.io/meta-review/
-    - type: source
-      text: Manuscript Source
-      link: https://github.com/greenelab/meta-review
     - type: website
-      link: http://manubot.org/
-  tags:
-    - open science
-    - collaboration
-  repo: greenelab/meta-review
+      link: https://github.com/hyeokhyen/imutube
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
+# IMWUT 20 IMUTube v1
+- id: doi:10.1145/3411841
+  title: "IMUTube: Automatic Extraction of Virtual on-body Accelerometry from Video for Human Activity Recognition."
+  image:
+  buttons:
+    - type: website
+      link: https://github.com/hyeokhyen/imutube
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+# Arxiv 20 WiFi
+- id: arXiv:2005.11228
+  image:
+
+
+# ISWC 19 labeljitter
+- id: doi:10.1145/3341163.3347744
+  image:
+  buttons:
+    - type: website
+      link: https://github.com/hyeokhyen/sat
+
+# ISWC 18 Structural ECDF
+- id: doi:10.1145/3267242.3267258
+  image:
+  buttons:
+    - type: website
+      link: https://sites.google.com/site/structureecdf/
+
+# ICCV 2015 Hyperspectral
+- id: doi:10.1109/ICCV.2015.43
+  image: KwonVitalLab.github.io/images/publications/iccv15.png
+  buttons:
+    - type: website
+      link: https://sites.google.com/view/rgb-guided-hyperspectral-image/home?pli=1&authuser=1
+
+# CVPR 2015 Depth map
+- id: doi:10.1109/CVPR.2015.7298611
+  image: KwonVitalLab.github.io/images/publications/cvpr15.png
+  buttons:
+    - type: website
+      link: https://sites.google.com/view/data-drivendepthmaprefinement/home?pli=1&authuser=1
