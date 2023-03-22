@@ -9,7 +9,7 @@ nav:
 
 [Machine Learning for Human Activity Recognition](#machine-learning-for-human-activity-recognition)
 
-[Multi-modal Sensing and Edge Computing Framework for Health Assessments](#multi-modal-sensing-and-edge-computing-framework)
+[Edge Computing and Machine Learning Framework Using Multi-modal Ambient, Mobile, and Wearable Sensors](#edge-computing-and-machine-learning-framework-using-multi-modal-ambient-mobile-and-wearable-sensors)
 
 [Behavior Analytics for Health Assessments](#behavior-analytics-for-health-assessments)
 
@@ -38,7 +38,7 @@ Building human activity recognition model involves training a machine learning m
 
 {% include section.html %}
 
-## Multi-modal Sensing and Edge Computing Framework
+## Edge Computing and Machine Learning Framework Using Multi-modal Ambient, Mobile, and Wearable Sensors
 
 Soon to come. _Stay tuned_
 
