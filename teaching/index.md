@@ -6,6 +6,7 @@ nav:
 ---
 
 # Teaching
+{:.center}
 
 {% include section.html %}
 

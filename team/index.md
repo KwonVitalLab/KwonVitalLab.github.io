@@ -6,6 +6,7 @@ nav:
 ---
 
 # Team
+{:.center}
 
 {% include section.html %}
 

@@ -6,6 +6,7 @@ nav:
 ---
 
 # Publications
+{:.center}
 
 {% include section.html %}
 
