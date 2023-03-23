@@ -6,19 +6,48 @@ nav:
 ---
 
 # Career
+{:.center}
 
 Our research will be designing efficient ML systems on the network edge using distributed on- and off-body sensors to tackle mental and brain health challenges. Multidisciplinary research will involve machine learning, computer vision, acoustic sensing, wearables, and human activity recognition. The collaboration will span the fields of biomedical engineering/informatics, computer science, and medicine.
 
 We are looking for motivated and hard-working students or PostDocs with strong backgrounds in the aforementioned research areas who will join my group. 
 
-[PostDoc](#postdoc)
+{%
+  include button.html
+  type="link"
+  icon=""
+  text="PostDoc"
+  link="career/#postdoc"
+%}
 
-[Ph.D. Student](#phd-student)
+{%
+  include button.html
+  type="link"
+  icon=""
+  text="Ph.D. Student"
+  link="career/#phd-student"
+%}
 
-[Master's Student](#masters-student)
+{%
+  include button.html
+  type="link"
+  icon=""
+  text="Master's Student"
+  link="career/#masters-student"
+%}
 
-[Undergraduate Student](#undergraduate-student)
+{%
+  include button.html
+  type="link"
+  icon=""
+  text="Undergraduate Student"
+  link="career/#undergraduate-student"
+%}
 
+<!-- [PostDoc](#postdoc) -->
+<!-- [Ph.D. Student](#phd-student) -->
+<!-- [Master's Student](#masters-student) -->
+<!-- [Undergraduate Student](#undergraduate-student) -->
 
 {% include section.html %}
 

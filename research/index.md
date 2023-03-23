@@ -6,12 +6,40 @@ nav:
 ---
 
 # Research Projects
+{:.center}
 
-[Machine Learning for Human Activity Recognition](#machine-learning-for-human-activity-recognition)
+{%
+  include button.html
+  type="link"
+  icon=""
+  text="Human Activity Recognition"
+  link="research/#machine-learning-for-human-activity-recognition"
+%}
+
+{%
+  include button.html
+  type="link"
+  icon=""
+  text="Machine Learning on Edge"
+  link="research/#edge-computing-and-machine-learning-framework-using-multi-modal-ambient-mobile-and-wearable-sensors"
+%}
+
+{%
+  include button.html
+  type="link"
+  icon=""
+  text="Health Analytics"
+  link="research/#behavior-analytics-for-health-assessments"
+%}
+
+<!-- [Machine Learning for Human Activity Recognition](#machine-learning-for-human-activity-recognition) 
 
 [Edge Computing and Machine Learning Framework Using Multi-modal Ambient, Mobile, and Wearable Sensors](#edge-computing-and-machine-learning-framework-using-multi-modal-ambient-mobile-and-wearable-sensors)
 
 [Behavior Analytics for Health Assessments](#behavior-analytics-for-health-assessments)
+-->
+
+
 
 {% include section.html %}
 
