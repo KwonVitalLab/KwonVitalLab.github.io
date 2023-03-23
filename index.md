@@ -9,6 +9,7 @@ Machine Learning for Beha**Vi**or and Heal**T**h **A**na**L**ytics (**ViTAL**) L
 {:.center}
 
 | 2023-02-03 | : Invited talk for XAI for Freezing-of-Gait in Parkinsonism at [Coulter BME](https://bme.gatech.edu/bme/) Seminar Series. | 
+| 2023-01-11 | : Our research in AI, Edge Computing, and Parkinson's Disease is discussed in a [Podcast with Oracle Research](https://open.spotify.com/episode/5BqhO5SM7EeU4gUGWtOJot). | 
 | 2022-10-19 | : Invited talk for Human Activity Recognition in Daily Living and Clinical Environments at [TED@Kookmin Univ](https://ted.kookmin.ac.kr/Home). | 
 | 2022-01-20 | : Invited talk for IMUTube at [HCI@KAIST](https://hci.kaist.ac.kr/) | 
 
@@ -25,7 +26,6 @@ td, th {
 
 | 2023-02-04 | : [XAI4FOG](https://www.mdpi.com/1424-8220/23/4/1766) is published at Sensors | 
 | 2023-01-18 | : XAI4FOG is now online at medRxiv. | 
-| 2023-01-11 | : Our research in AI, Edge Computing, and Parkinson's Disease is discussed in a [Podcast with Oracle Research](https://open.spotify.com/episode/5BqhO5SM7EeU4gUGWtOJot). | 
 | 2022-06-09 | : Awarded [Oracle for Research Project Award](https://go.oracle.com/research-project-award?elqCampaignId=314509&src1=:em:eo:ie:pt:::) | 
 | 2022-04-12 | : Named a finalist for the [Oracle for Research Fellows program](https://blogs.oracle.com/research/post/research-fellows-program) | 
 | 2022-03-09 | : IMUTube is introduced in [Oracle for Research Blog](https://blogs.oracle.com/research/post/georgia-institute-of-technology-uses-oracle-cloud-to-convert-videos-into-behavioral-data) | 
