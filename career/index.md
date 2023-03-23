@@ -11,6 +11,15 @@ Our research will be designing efficient ML systems on the network edge using di
 
 We are looking for motivated and hard-working students or PostDocs with strong backgrounds in the aforementioned research areas who will join my group. 
 
+[PostDoc](#postdoc)
+
+[Ph.D. Student](#phd-student)
+
+[Master's Student](#masters-student)
+
+[Undergraduate Student](#undergraduate-student)
+
+
 {% include section.html %}
 
 ## PostDoc
