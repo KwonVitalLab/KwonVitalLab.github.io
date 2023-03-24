@@ -24,6 +24,14 @@ We are looking for motivated and hard-working students or PostDocs with strong b
   include button.html
   type="link"
   icon=""
+  text="Internships"
+  link="career/#internships"
+%}
+
+{%
+  include button.html
+  type="link"
+  icon=""
   text="Ph.D. Student"
   link="career/#phd-student"
 %}
@@ -74,6 +82,11 @@ Candidates are required to have a strong background in at least one of the follo
 
 If you are interested in working in ViTAL lab and consider having relevant skill sets, please apply to [Emory Careers](https://faculty-emory.icims.com/jobs/108198/post-doctoral-fellow---department-of-biomedical-informatics/job?mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) or contact [Hyeok](mailto:hyeokhyen.kwon@dbmi.emory.edu).
 Let's have a chat! 
+
+## Internships
+
+Please reach out to [Hyeok](mailto:hyeokhyen.kwon@dbmi.emory.edu) so that we can discuss research or engineering opportunities in our lab.
+If you bring exciting research ideas, we will also find a way to connect them with our ongoing projects.
 
 {% include section.html %}
 
