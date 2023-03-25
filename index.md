@@ -5,7 +5,7 @@ Machine Learning for Beha**Vi**or and Heal**T**h **A**na**L**ytics (**ViTAL**) L
 
 {% include section.html %}
 
-# Talks
+# Talks $\mathtt{\&}$ Media
 {:.center}
 
 | 2023-02-03 | : Invited talk for XAI for Freezing-of-Gait in Parkinsonism at [Coulter BME](https://bme.gatech.edu/bme/) Seminar Series. | 
