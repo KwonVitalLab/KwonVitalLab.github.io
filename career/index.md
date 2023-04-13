@@ -1,5 +1,5 @@
 ---
-title: Career
+title: Join
 nav:
   order: 5
   tooltip: Musings and miscellany
@@ -10,7 +10,7 @@ nav:
 
 Our research will be designing efficient ML systems on the network edge using distributed on- and off-body sensors to tackle mental and brain health challenges. Multidisciplinary research will involve machine learning, computer vision, acoustic sensing, wearables, and human activity recognition. The collaboration will span the fields of biomedical engineering/informatics, computer science, and medicine.
 
-We are looking for motivated and hard-working students, PostDocs, or Research Associates with strong backgrounds in the aforementioned research areas who will join my group. 
+We are looking for motivated and hard-working students, PostDocs, or Research Associates with strong backgrounds in the aforementioned research areas who will join my group. Students from both Georgia Tech and Emory can work with our team!
 
 {%
   include button.html
@@ -94,20 +94,46 @@ We are looking for candidates who plan to work with us in person for at least a 
 
 ## Ph.D. Student
 
-<!--- [Computer Science at Georgia Tech](https://www.ic.gatech.edu/) ---> 
-<!--- [Bimedical Engineering at Georgia Tech-Emory](https://bme.gatech.edu/bme/) ---> 
+If you are already admitted to following Ph.D. programs from Georgia Tech or Emory:
+- [Computer Science at Georgia Tech](https://www.ic.gatech.edu/)
+- [Electrical and Computer Engineering at Georgia Tech](https://ece.gatech.edu/)
+- [Bimedical Engineering at Georgia Tech-Emory](https://bme.gatech.edu/bme/)
+- [Computer Science at Emory](https://cs.emory.edu/graduate/general-information/app-info/)
+- [Biomedical Informatics at Emory](https://med.emory.edu/departments/biomedical-informatics/education/phd.html)
 
-If you are already admitted to Ph.D program in [Computer Science at Emory](https://cs.emory.edu/graduate/general-information/app-info/) or [Biomedical Informatics at Emory](https://med.emory.edu/departments/biomedical-informatics/education/phd.html), please reach out to [Hyeok](mailto:hyeokhyen.kwon@dbmi.emory.edu).
-Otherwise, please first apply through the admission processes for each program!
+Please reach out to [Hyeok](mailto:hyeokhyen.kwon@dbmi.emory.edu).
+
+If you are from another department not in the list. It is okay, we can chat and see if we have a good fit! Please contact [Hyeok](mailto:hyeokhyen.kwon@dbmi.emory.edu).
+
+Otherwise, please first apply through the admission processes for each program! I highly recommend you to apply for [Biomedical Informatics at Emory](https://med.emory.edu/departments/biomedical-informatics/education/phd.html). Our department is growing rapidly! Please contact [Hyeok](mailto:hyeokhyen.kwon@dbmi.emory.edu) once you are admitted!
 
 ## Master's Student
 
-If you are already a Master's student from Georgia Tech or Emory, please reach out to [Hyeok](mailto:hyeokhyen.kwon@dbmi.emory.edu) well in advance of the semester so that we can discuss research or engineering opportunities in our lab.
+If you are already admitted to following Master's programs from Georgia Tech or Emory:
+- [Computer Science at Georgia Tech](https://www.ic.gatech.edu/)
+- [Electrical and Computer Engineering at Georgia Tech](https://ece.gatech.edu/)
+- [Bimedical Engineering at Georgia Tech-Emory](https://bme.gatech.edu/bme/)
+- [Computer Science at Emory](https://cs.emory.edu/graduate/general-information/app-info/)
+- [Biomedical Informatics at Emory](https://med.emory.edu/departments/biomedical-informatics/education/masters.html)
+
+Please reach out to [Hyeok](mailto:hyeokhyen.kwon@dbmi.emory.edu) well in advance of the semester so that we can discuss research or engineering opportunities in our lab.
 If you bring exciting research ideas, we will also find a way to connect them with our ongoing projects.
-Otherwise, please apply through [Master's in Computer Science and Biomedical Infomatics](https://med.emory.edu/departments/biomedical-informatics/education/masters.html) program first. Please contact [Hyeok](mailto:hyeokhyen.kwon@dbmi.emory.edu) once you are admitted!
+
+If you are from another department not in the list. It is okay, we can chat and see if we have a good fit! Please contact [Hyeok](mailto:hyeokhyen.kwon@dbmi.emory.edu).
+
+Otherwise, please first apply through the admission processes for each program! I highly reccomend you to apply for [Master's in Computer Science and Biomedical Infomatics](https://med.emory.edu/departments/biomedical-informatics/education/masters.html) program first. Please contact [Hyeok](mailto:hyeokhyen.kwon@dbmi.emory.edu) once you are admitted!
 
 
 ## Undergraduate Student
 
-If you are already an undergraduate student from Georgia Tech or Emory, please reach out to [Hyeok](mailto:hyeokhyen.kwon@dbmi.emory.edu) well in advance of the semester so that we can discuss research or engineering opportunities in our lab.
+If you are already a undergraduate student from Georgia Tech or Emory:
+- [Computer Science at Georgia Tech](https://www.ic.gatech.edu/)
+- [Electrical and Computer Engineering at Georgia Tech](https://ece.gatech.edu/)
+- [Bimedical Engineering at Georgia Tech-Emory](https://bme.gatech.edu/bme/)
+- [Computer Science at Emory](https://cs.emory.edu/graduate/general-information/app-info/)
+- [Biomedical Informatics at Emory](https://med.emory.edu/departments/biomedical-informatics/education/phd.html)
+
+Please reach out to [Hyeok](mailto:hyeokhyen.kwon@dbmi.emory.edu) well in advance of the semester so that we can discuss research or engineering opportunities in our lab.
 If you bring exciting research ideas, we will also find a way to connect them with our ongoing projects.
+
+If you are from another department not in the list. It is okay, we can chat and see if we have a good fit! Please contact [Hyeok](mailto:hyeokhyen.kwon@dbmi.emory.edu).
