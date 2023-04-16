@@ -10,5 +10,15 @@ nav:
 
 {% include section.html %}
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$)" %}
+<!-- Director -->
+{% include list.html data="members" component="portrait" filters="role: director" %}
+
+<!-- MS Students -->
+{% include section.html %}
+{% include list.html data="members" component="portrait" filters="role: masters" %}
+
+<!-- Undergrad students -->
+{% include section.html %}
+{% include list.html data="members" component="portrait" filters="role: undergrad" %}
+
+<!-- Alumnis -->
