@@ -2,6 +2,10 @@
 
 # team member roles
 
+director:
+  icon: fa-solid fa-microscope
+  description: Director
+
 pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
@@ -13,6 +17,10 @@ postdoc:
 phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
+
+masters:
+  icon: fa-solid fa-graduation-cap
+  description: MS Student
 
 undergrad:
   icon: fa-solid fa-user-graduate
