@@ -1,7 +1,7 @@
 ---
 ---
 
-Machine Learning for Beha**Vi**or and Heal**T**h **A**na**L**ytics (**ViTAL**) Lab at Emory Biomedical Informatics strives to develop artificial intelligence systems that are inclusive, accessible, fair, and reliable that will effectively improve the healthcare system. Our mission is to develop efficient computing and machine learning systems on the network edge using distributed ambient, mobile, and mobile devices to monitor patients' conditions in everyday life. 
+Machine Learning for Beha**Vi**or and Heal**T**h **A**na**L**ytics (**ViTAL**) Lab at Emory Biomedical Informatics strives to develop artificial intelligence systems that are inclusive, accessible, fair, and reliable that will effectively improve the healthcare system. Our mission is to develop efficient computing and machine learning systems on the network edge using distributed ambient, mobile, and wearable devices to monitor patients' conditions in everyday life. 
 
 {% include section.html %}
 
@@ -24,6 +24,7 @@ td, th {
 }
 </style>
 
+| 2023-04-24 | : We presented [XAI4FOG](https://www.aan.com/MSA/Public/Events/AbstractDetails/54892) and [XAI4PDsubtypes](https://www.aan.com/MSA/Public/Events/AbstractDetails/54898) at [American Academy of Neurology Annual Meeting (AANAM)](https://www.aan.com/events/annual-meeting) | 
 | 2023-02-04 | : [XAI4FOG](https://www.mdpi.com/1424-8220/23/4/1766) is published at Sensors | 
 | 2023-01-18 | : XAI4FOG is now online at medRxiv. | 
 | 2022-06-09 | : Awarded [Oracle for Research Project Award](https://go.oracle.com/research-project-award?elqCampaignId=314509&src1=:em:eo:ie:pt:::) | 
