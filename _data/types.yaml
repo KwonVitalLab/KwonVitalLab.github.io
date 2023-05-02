@@ -18,13 +18,25 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
+phd-ece-gt:
+  icon: fa-solid fa-graduation-cap
+  description: PhD Student, ECE, GaTech
+
 masters:
   icon: fa-solid fa-graduation-cap
   description: MS Student
 
+masters-cs-gt:
+  icon: fa-solid fa-graduation-cap
+  description: MS Student, CS, GaTech
+
 undergrad:
   icon: fa-solid fa-user-graduate
   description: Undergraduate Student
+
+undergrad-cs-gt:
+  icon: fa-solid fa-user-graduate
+  description: Undergrad Student, CS, GaTech
 
 programmer:
   icon: fa-solid fa-code
