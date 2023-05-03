@@ -1,7 +1,7 @@
 ---
 name: Vidhi Talera
 image: 
-role: masters-cs-gt
+role: na
 aliases:
   - Vidhi Talera
 links:
