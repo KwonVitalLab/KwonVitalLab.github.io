@@ -18,11 +18,9 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: phd*" %}
 
 <!-- MS Students -->
-{% include section.html %}
 {% include list.html data="members" component="portrait" filters="role: masters*" %}
 
 <!-- Undergrad students -->
-{% include section.html %}
 {% include list.html data="members" component="portrait" filters="role: undergrad*" %}
 
 <!-- Alumnis -->
