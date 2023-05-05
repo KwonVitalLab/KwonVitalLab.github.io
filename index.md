@@ -8,7 +8,7 @@ Machine Learning for Beha**Vi**or and Heal**T**h **A**na**L**ytics (**ViTAL**) L
 # Talks $\mathtt{\&}$ Media
 {:.center}
 
-| 2023-02-03 | : Invited talk for Ubiquitous Intelligent System in Healthcare at [AI Colloquium @ DGIST](https://ai-dgist.github.io/). | 
+| 2023-05-02 | : Invited talk for Ubiquitous Intelligent System in Healthcare at [AI Colloquium @ DGIST](https://ai-dgist.github.io/). | 
 | 2023-02-03 | : Invited talk for XAI for Freezing-of-Gait in Parkinsonism at [Coulter BME](https://bme.gatech.edu/bme/) Seminar Series. | 
 | 2023-01-11 | : Our research in AI, Edge Computing, and Parkinson's Disease is discussed in a [Podcast with Oracle Research](https://open.spotify.com/episode/5BqhO5SM7EeU4gUGWtOJot). | 
 | 2022-10-19 | : Invited talk for Human Activity Recognition in Daily Living and Clinical Environments at [TED@Kookmin Univ](https://ted.kookmin.ac.kr/Home). | 
