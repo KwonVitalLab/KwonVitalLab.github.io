@@ -1,3 +1,18 @@
+# CEP-EP6 Camera-based Tracking
+- id: arXiv:2305.05062
+  image: https://KwonVitalLab.github.io/images/publications/cep_ep6_camera_mot.png
+
+# ChatGPT-IMUTube
+- id: arXiv:2305.03187
+  image: https://KwonVitalLab.github.io/images/publications/gpt-iswc.png
+
+# AAN - FOG
+- id: doi:10.1212/WNL.0000000000203857
+  image: https://KwonVitalLab.github.io/images/publications/aan_fog_2023.png
+
+# AAN - Subtype
+# TODO 
+
 # Sensors 2023 XAI4FOG
 - id: doi:10.3390/s23041766
   image: https://KwonVitalLab.github.io/images/publications/xai4fog.png
