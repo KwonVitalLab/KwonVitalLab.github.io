@@ -61,7 +61,7 @@
   publisher: Monday, April 24
   date: '2023-04-25'
   link: https://doi.org/gr74sx
-  image: https://KwonVitalLab.github.io/images/publications/aan_subtype_2023
+  image: https://KwonVitalLab.github.io/images/publications/aan_subtype_2023.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/s23041766
