@@ -48,6 +48,22 @@
   image: https://KwonVitalLab.github.io/images/publications/aan_fog_2023.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1212/WNL.0000000000203887
+  title: Phenotyping Motor-subtypes of Parkinsonism from Full-body Kinematics using
+    Machine Learning (P6-11.007)
+  authors:
+  - Naiji Gong
+  - Hyeokhyen Kwon
+  - Gari Clifford
+  - Christine Esper
+  - Stewart Factor
+  - Johnathan McKay
+  publisher: Monday, April 24
+  date: '2023-04-25'
+  link: https://doi.org/gr74sx
+  image: https://KwonVitalLab.github.io/images/publications/aan_subtype_2023
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.3390/s23041766
   title: An Explainable Spatial-Temporal Graphical Convolutional Network to Score
     Freezing of Gait in Parkinsonian Patients
