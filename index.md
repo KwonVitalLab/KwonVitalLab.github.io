@@ -8,11 +8,14 @@ Machine Learning for Beha**Vi**or and Heal**T**h **A**na**L**ytics (**ViTAL**) L
 # Talks $\mathtt{\&}$ Media
 {:.center}
 
+| 2023-05-02 | : My collaborative work with Emory Motion Analysis Lab is featured in [Oracle for Research Blog](https://blogs.oracle.com/research/post/emory-university-uses-oracle-cloud-to-monitor-disorders-like-parkinsons?source=:so:tw:or:awr:ore:::OfR_Social_ParkinsonsResearchEmory_CS&SC=:so:tw:or:awr:ore:::OfR_Social_ParkinsonsResearchEmory_CS&pcode=). | 
 | 2023-05-02 | : Invited talk for Ubiquitous Intelligent System in Healthcare at [AI Colloquium @ DGIST](https://ai-dgist.github.io/). | 
 | 2023-02-03 | : Invited talk for XAI for Freezing-of-Gait in Parkinsonism at [Coulter BME](https://bme.gatech.edu/bme/) Seminar Series. | 
 | 2023-01-11 | : Our research in AI, Edge Computing, and Parkinson's Disease is discussed in a [Podcast with Oracle Research](https://open.spotify.com/episode/5BqhO5SM7EeU4gUGWtOJot). | 
 | 2022-10-19 | : Invited talk for Human Activity Recognition in Daily Living and Clinical Environments at [TED@Kookmin Univ](https://ted.kookmin.ac.kr/Home). | 
+| 2022-03-09 | : IMUTube is introduced in [Oracle for Research Blog](https://blogs.oracle.com/research/post/georgia-institute-of-technology-uses-oracle-cloud-to-convert-videos-into-behavioral-data) | 
 | 2022-01-20 | : Invited talk for IMUTube at [HCI@KAIST](https://hci.kaist.ac.kr/) | 
+| 2021-09-15 | : IMUTube is featured in [GetMobile (a flagship magazine of ACM SIGMOBILE)](https://dl.acm.org/doi/abs/10.1145/3486880.3486891) | 
 
 {% include section.html %}
 
@@ -30,11 +33,9 @@ td, th {
 | 2023-01-18 | : XAI4FOG is now online at medRxiv. | 
 | 2022-06-09 | : Awarded [Oracle for Research Project Award](https://go.oracle.com/research-project-award?elqCampaignId=314509&src1=:em:eo:ie:pt:::) | 
 | 2022-04-12 | : Named a finalist for the [Oracle for Research Fellows program](https://blogs.oracle.com/research/post/research-fellows-program) | 
-| 2022-03-09 | : IMUTube is introduced in [Oracle for Research Blog](https://blogs.oracle.com/research/post/georgia-institute-of-technology-uses-oracle-cloud-to-convert-videos-into-behavioral-data) | 
 | 2022-03-03 | : [IMUTube Patent](https://patents.google.com/patent/US20220066544A1/en) is published. | 
 | 2021-12-13 | : [Complex Deep Model for HAR with IMUTube (Sensors 2021)](https://www.mdpi.com/1424-8220/21/24/8337) is online. | 
 | 2021-09-24 | : I was named a finalist for [Gaetano Borriello Outstanding Student Award](https://ubicomp.org/sc/) at [Ubicomp 2021](https://ubicomp.org/ubicomp2021/) | 
-| 2021-09-15 | : IMUTube is featured in [GetMobile (a flagship magazine of ACM SIGMOBILE)](https://dl.acm.org/doi/abs/10.1145/3486880.3486891) | 
 | 2021-09-20 | : I successfully defended my Ph.D. Dissertation. | 
 | 2021-09-14 | : [Extended IMUTube system (IMWUT 2021) paper](https://dl.acm.org/doi/10.1145/3478096) is online. | 
 | 2021-02-22 | : Awarded [Oracle for Research Project Award](https://go.oracle.com/research-project-award?elqCampaignId=314509&src1=:em:eo:ie:pt:::) | 
