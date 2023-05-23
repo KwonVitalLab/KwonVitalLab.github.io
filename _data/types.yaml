@@ -23,11 +23,11 @@ phd-ece-gt:
   description: PhD Student, ECE, GaTech
 
 masters:
-  icon: fa-solid fa-graduation-cap
+  icon: fa-solid fa-user-graduate
   description: MS Student
 
 masters-cs-gt:
-  icon: fa-solid fa-graduation-cap
+  icon: fa-solid fa-user-graduate
   description: MS Student, CS, GaTech
 
 undergrad:
@@ -37,6 +37,10 @@ undergrad:
 undergrad-cs-gt:
   icon: fa-solid fa-user-graduate
   description: Undergrad Student, CS, GaTech
+
+undergrad-cs-emory:
+  icon: fa-solid fa-user-graduate
+  description: Undergrad Student, CS, Emory
 
 programmer:
   icon: fa-solid fa-code
