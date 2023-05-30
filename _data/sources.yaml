@@ -9,10 +9,12 @@
 # AAN - FOG
 - id: doi:10.1212/WNL.0000000000203857
   image: https://KwonVitalLab.github.io/images/publications/aan_fog_2023.png
+  publisher: Neurology
 
 # AAN - Subtype
 - id: doi:10.1212/WNL.0000000000203887
   image: https://KwonVitalLab.github.io/images/publications/aan_subtype_2023.png
+  publisher: Neurology
 
 # Sensors 2023 XAI4FOG
 - id: doi:10.3390/s23041766
@@ -30,6 +32,7 @@
 # IJCAI Workshop 2021
 - id: doi:10.1007/978-981-16-0575-8_4
   image: https://KwonVitalLab.github.io/images/publications/ijcai_workshop.png
+  publisher: Deep Learning for Human Activity Recognition Second International Workshop, DL-HAR 2020, Held in Conjunction with IJCAI-PRICAI 2020
 
 # IMWUT 21 IMUTube v3
 - id: doi:10.3390/s21248337
