@@ -20,7 +20,7 @@ nav:
   include button.html
   type="link"
   icon=""
-  text="Machine Learning on Edge"
+  text="Machine Learning with Edge and Cloud Computing"
   link="research/#edge-computing-and-machine-learning-framework-using-multi-modal-ambient-mobile-and-wearable-sensors"
 %}
 
@@ -76,13 +76,21 @@ Building human activity recognition model involves training a machine learning m
 
 ## Edge Computing and Machine Learning Framework Using Multi-modal Ambient, Mobile, and Wearable Sensors
 
-### Distributed Multi-view Camera System for Behavior Recognition Using Edge, Fog, Cloud Computing System.
+### Distributed Multi-view Camera System for Behavior Recognition Using Edge, Fog, and Cloud Computing System.
 
 {% include figure.html image="images/research/cep_ep6_camera_mot.png" width="60%" %}
 
 Localization of individuals in a built environment is a growing research topic. Estimating the positions, face orientation (or gaze direction) and trajectories of people through space has many uses, such as in crowd management, security, and healthcare. In this work, we present an open-source, low-cost, scalable and privacy-preserving edge computing framework for multi-person localization, i.e. estimating the positions, orientations, and trajectories of multiple people in an indoor space. Our computing framework consists of 38 Tensor Processing Unit (TPU)-enabled edge computing camera systems placed in the ceiling of the indoor therapeutic space. The edge compute systems are connected to an on-premise fog server through a secure and private network. A multi-person detection algorithm and a pose estimation model run on the edge TPU in real-time to collect features which are used, instead of raw images, for downstream computations. This ensures the privacy of individuals in the space, reduces data transmission/storage and improves scalability. We implemented a Kalman filter-based multi-person tracking method and a state-of-the-art body orientation estimation method to determine the positions and facing orientations of multiple people simultaneously in the indoor space. For our study site with size of 18,000 square feet, our system demonstrated an average localization error of 1.41 meters, a multiple-object tracking accuracy score of 62%, and a mean absolute body orientation error of 29°, which is sufficient for understanding group activity behaviors in indoor environments. Additionally, our study provides practical guidance for deploying the proposed system by analyzing various elements of the camera installation with respect to tracking accuracy.
 
 - Kwon et al. (2023). Indoor Localization and Multi-person Tracking Using Privacy Preserving Distributed Camera Network with Edge Computing. 	arXiv:2305.05062 
+
+### Wearable-based Behavior Recognition Using Edge, Fog, and Cloud Computing System
+
+{% include figure.html image="images/research/cep_ep6_ble_imu_mot.png" width="40%" %}
+
+Spatial navigation of indoor space usage patterns reveals important cues about the cognitive health of individuals. In this work, we present a low-cost, scalable, open-source edge computing system using Bluetooth Low Energy (BLE) and Inertial Measurement Unit sensors (IMU) for tracking indoor movements for a large indoor facility (over 1600 $m^2$) that was designed to facilitate therapeutic activities for individuals with Mild Cognitive Impairment. The facility is instrumented with 39 edge computing systems with an on-premise fog server, and subjects carry BLE beacon and IMU sensors on-body. We proposed an adaptive trilateration approach that considers the temporal density of hits from the BLE beacon to surrounding edge devices to handle inconsistent coverage of edge devices in large spaces with varying signal strength that leads to intermittent detection of beacons. The proposed BLE-based localization is further enhanced by fusing with an IMU-based tracking method using a dead-reckoning technique. Our experiment results, achieved in a real clinical environment, suggest that an ordinary medical facility can be transformed into a smart space that enables automatic assessment of the individual patients' movements.
+
+- Kiarash et al. (2023). Indoor Localization using Bluetooth and Inertial Motion Sensors in Distributed Edge and Cloud Computing Environment. arXiv:2305.19342 
 
 {% include section.html %}
 
