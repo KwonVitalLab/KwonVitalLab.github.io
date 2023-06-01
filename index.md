@@ -8,7 +8,7 @@ Machine Learning for Beha**Vi**or and Heal**T**h **A**na**L**ytics (**ViTAL**) L
 # Talks $\mathtt{\&}$ Media
 {:.center}
 
-| 2023-05-10 | : My collaborative work with Emory Motion Analysis Lab is featured in [Oracle for Research Blog](https://blogs.oracle.com/research/post/emory-university-uses-oracle-cloud-to-monitor-disorders-like-parkinsons?source=:so:tw:or:awr:ore:::OfR_Social_ParkinsonsResearchEmory_CS&SC=:so:tw:or:awr:ore:::OfR_Social_ParkinsonsResearchEmory_CS&pcode=). | 
+| 2023-05-10 | : Our collaborative work with Emory Motion Analysis Lab is featured in [Oracle for Research Blog](https://blogs.oracle.com/research/post/emory-university-uses-oracle-cloud-to-monitor-disorders-like-parkinsons?source=:so:tw:or:awr:ore:::OfR_Social_ParkinsonsResearchEmory_CS&SC=:so:tw:or:awr:ore:::OfR_Social_ParkinsonsResearchEmory_CS&pcode=). | 
 | 2023-05-02 | : Invited talk for Ubiquitous Intelligent System in Healthcare at [AI Colloquium @ DGIST](https://ai-dgist.github.io/). | 
 | 2023-02-03 | : Invited talk for XAI for Freezing-of-Gait in Parkinsonism at [Coulter BME](https://bme.gatech.edu/bme/) Seminar Series. | 
 | 2023-01-11 | : Our research in AI, Edge Computing, and Parkinson's Disease is discussed in a [Podcast with Oracle Research](https://open.spotify.com/episode/5BqhO5SM7EeU4gUGWtOJot). | 
