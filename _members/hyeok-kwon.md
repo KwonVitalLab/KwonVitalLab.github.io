@@ -1,6 +1,6 @@
 ---
 name: Hyeokhyen Kwon, Ph.D.
-image: images/members/hyeok-kwon-2.jpg
+image: images/members/hyeok-kwon-2.jpeg
 role: director
 aliases:
   - Hyeok Kwon
