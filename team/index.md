@@ -12,9 +12,15 @@ nav:
 
 <!-- Director -->
 {% include list.html data="members" component="portrait" filters="role: director" %}
+{% include section.html %}
+
+<!-- PostDocs -->
+{% include list.html data="members" component="portrait" filters="role: postdoc" %}
+
+<!-- Software Engineers -->
+{% include list.html data="members" component="portrait" filters="role: software-engineer" %}
 
 <!-- PhD Students -->
-{% include section.html %}
 {% include list.html data="members" component="portrait" filters="role: phd*" %}
 
 <!-- MS Students -->
