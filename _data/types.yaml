@@ -14,6 +14,10 @@ postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
 
+software-engineer:
+  icon: fa-solid fa-code
+  description: Software Engineer
+
 phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
@@ -41,10 +45,6 @@ undergrad-cs-gt:
 undergrad-cs-emory:
   icon: fa-solid fa-user-graduate
   description: Undergrad Student, CS, Emory
-
-programmer:
-  icon: fa-solid fa-code
-  description: Programmer
 
 mascot:
   icon: fa-solid fa-dog
