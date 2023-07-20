@@ -8,6 +8,7 @@ Machine Learning for Beha**Vi**or and Heal**T**h **A**na**L**ytics (**ViTAL**) L
 # Talks $\mathtt{\&}$ Media
 {:.center}
 
+| 2023/07/20 | : Interview with Oracle for Research team about my research in AI x Parkinson's Disease, a colloborative project with Emory Motion Analysis Lab, is featured in [Oracle for Research Blog](https://blogs.oracle.com/research/post/emory-university-uses-oracle-cloud-to-monitor-disorders-like-parkinsons-disease). | 
 | 2023/06/21 | : Invited talk for "What can movement tell us about behavior? - The potential for AI in psychiatry" at [Emory Psychiatry and Behavioral Sciences Grand Rounds](https://med.emory.edu/departments/psychiatry/education/general_residency/training_at_emory/grand_rounds.html). | 
 | 2023/05/10 | : Our collaborative work with Emory Motion Analysis Lab is featured in [Oracle for Research Blog](https://blogs.oracle.com/research/post/emory-university-uses-oracle-cloud-to-monitor-disorders-like-parkinsons?source=:so:tw:or:awr:ore:::OfR_Social_ParkinsonsResearchEmory_CS&SC=:so:tw:or:awr:ore:::OfR_Social_ParkinsonsResearchEmory_CS&pcode=). | 
 | 2023/05/02 | : Invited talk for Ubiquitous Intelligent System in Healthcare at [AI Colloquium @ DGIST](https://ai-dgist.github.io/). | 
