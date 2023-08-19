@@ -12,8 +12,8 @@ nav:
 {%
   include button.html
   type="email"
-  text="hyeokhyen.kwon[at]dbmi.emory.edu"
-  link="hyeokhyen.kwon@dbmi.emory.edu"
+  text="hyeokhyen.kwon[at]emory.edu"
+  link="hyeokhyen.kwon@emory.edu"
 %}
 
 Rm 4105, 4th Floor, Emory Woodruff Memorial Research Building (101 Woodruff Cir, Atlanta, GA 30322)
