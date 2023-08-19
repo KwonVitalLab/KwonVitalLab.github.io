@@ -1,7 +1,7 @@
 ---
 name: Jabin Gong
 image: images/members/jabin_pic.png
-role: undergrad-cs-gt
+role: alumni
 aliases:
   - Jabin Gong
 links:

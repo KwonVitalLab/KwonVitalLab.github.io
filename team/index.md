@@ -28,5 +28,10 @@ nav:
 
 <!-- Undergrad students -->
 {% include list.html data="members" component="portrait" filters="role: undergrad*" %}
+{% include section.html %}
 
-<!-- Alumnis -->
+<!-- Alumni -->
+## Alumni
+{:.center}
+
+- N. Jabin Gong (BS, Gatech CS) - School of Medicine, Stony Brook
