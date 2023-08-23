@@ -15,8 +15,7 @@ def main(entry):
         raise Exception('No "gsid" key')
 
     # get api key
-    # api_key = os.environ.get("GOOGLE_SCHOLAR_API_KEY")
-    api_key = "51f53b7cf661fab0b765147751d1f7df05343c077c8297710219f4ccc544e57e"
+    api_key = os.environ.get("GOOGLE_SCHOLAR_API_KEY")
     if not api_key:
         raise Exception('No "GOOGLE_SCHOLAR_API_KEY" env var')
 
