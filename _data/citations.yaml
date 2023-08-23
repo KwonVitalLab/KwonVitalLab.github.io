@@ -1,5 +1,28 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1140/epjds/s13688-023-00398-2
+  title: Leveraging WiFi network logs to infer student collocation and its relationship
+    with academic performance
+  authors:
+  - Vedant Das Swain
+  - Hyeokhyen Kwon
+  - Sonia Sargolzaei
+  - Bahador Saket
+  - Mehrab Bin Morshed
+  - Kathy Tran
+  - Devashru Patel
+  - Yexin Tian
+  - Joshua Philipose
+  - Yulai Cui
+  - "Thomas Pl\xF6tz"
+  - Munmun De Choudhury
+  - Gregory D. Abowd
+  publisher: EPJ Data Science
+  date: '2023-07-07'
+  link: https://doi.org/gsmzhc
+  image: https://KwonVitalLab.github.io/images/publications/wifi_community.png
+  plugin: sources.py
+  file: sources.yaml
 - id: arXiv:2305.19342
   title: Indoor Localization using Bluetooth and Inertial Motion Sensors in Distributed
     Edge and Cloud Computing Environment
