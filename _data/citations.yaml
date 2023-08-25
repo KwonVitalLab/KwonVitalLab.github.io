@@ -33,9 +33,8 @@
   date: '2023-01-18'
   link: https://doi.org/grx6hh
   orcid: 0000-0002-5693-3278
-  plugin: sources.py
-  file: sources.yaml
-  image: https://KwonVitalLab.github.io/images/publications/xai4fog.png
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1145/3544793.3560337
   title: On the Effectiveness of Virtual IMU Data for Eating Detection with Wrist
     Sensors
