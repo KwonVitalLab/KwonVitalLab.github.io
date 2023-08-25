@@ -1,6 +1,6 @@
 ---
 name: Yuqing (Scarlett) Duan
-image: images/members/scarlett-duan.jpg
+image: images/members/scarlett-duan.JPG
 role: masters-cs-emory
 aliases:
   - Scarlett Duan
