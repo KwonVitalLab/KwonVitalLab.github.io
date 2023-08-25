@@ -1,9 +1,9 @@
 ---
-name: Thomthy Odonga
+name: Timothy Odonga
 image: images/members/timothy-odonga.jpg
 role: phd-csi-emory
 aliases:
-  - Thomthy Odonga
+  - Timothy Odonga
 links:
   orcid:
 ---
