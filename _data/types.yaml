@@ -18,17 +18,17 @@ software-engineer:
   icon: fa-solid fa-code
   description: Software Engineer, BMI, Emory
 
-phd:
+phd-csi-emory:
   icon: fa-solid fa-graduation-cap
-  description: PhD Student
+  description: PhD Student, CSI, Emory
 
 phd-ece-gt:
   icon: fa-solid fa-graduation-cap
   description: PhD Student, ECE, GaTech
 
-masters:
+masters-cs-emory:
   icon: fa-solid fa-user-graduate
-  description: MS Student
+  description: MS Student, CSI, Emory
 
 masters-cs-gt:
   icon: fa-solid fa-user-graduate
@@ -41,6 +41,10 @@ undergrad:
 undergrad-cs-gt:
   icon: fa-solid fa-user-graduate
   description: Undergrad Student, CS, GaTech
+
+undergrad-bio-gt:
+  icon: fa-solid fa-user-graduate
+  description: Undergrad Student, Biology, GaTech
 
 undergrad-cs-emory:
   icon: fa-solid fa-user-graduate
