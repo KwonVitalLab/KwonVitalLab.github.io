@@ -8,7 +8,7 @@ links:
   orcid: 
 ---
 
-[at] emory.edu
+barun.das [at] dbmi.emory.edu
 
 Software Enginner, Department of Biomedical Informatics, School of Medicine, Emory University
 
