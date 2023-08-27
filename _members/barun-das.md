@@ -10,7 +10,7 @@ links:
 
 barun.das [at] dbmi.emory.edu
 
-Software Enginner, Department of Biomedical Informatics, School of Medicine, Emory University
+Software Engineer, Department of Biomedical Informatics, School of Medicine, Emory University
 
 I am a machine learning researcher interested in the practical applications of deep learning. I recently graduated from Georgia Tech with an MS in Computer Science, and I am looking to gain more real-world research experience.
 At Georgia Tech, I worked on a multimodal action recognition setting, where we combined vision and narration to improve activity recognition performance. This was done in a semi-supervised paradigm which eliminated the need for accurate, frame-level annotations. This meant that our method was significantly cheaper compared to traditional action recognition paradigms, where the datasets must be painstakingly annotated so that the model can learn from it.
