@@ -95,7 +95,7 @@ We are looking for candidates who plan to work with us in person for at least a 
 ## Ph.D. Student
 
 If you are already admitted to following Ph.D. programs from Georgia Tech or Emory:
-- [Computer Science at Georgia Tech](https://www.ic.gatech.edu/)
+<!-- - [Computer Science at Georgia Tech](https://www.ic.gatech.edu/) -->
 - [Electrical and Computer Engineering at Georgia Tech](https://ece.gatech.edu/)
 - [Bimedical Engineering at Georgia Tech-Emory](https://bme.gatech.edu/bme/)
 - [Computer Science at Emory](https://cs.emory.edu/graduate/general-information/app-info/)
@@ -110,7 +110,7 @@ Otherwise, please first apply through the admission processes for each program! 
 ## Master's Student
 
 If you are already admitted to following Master's programs from Georgia Tech or Emory:
-- [Computer Science at Georgia Tech](https://www.ic.gatech.edu/)
+<!-- - [Computer Science at Georgia Tech](https://www.ic.gatech.edu/) -->
 - [Electrical and Computer Engineering at Georgia Tech](https://ece.gatech.edu/)
 - [Bimedical Engineering at Georgia Tech-Emory](https://bme.gatech.edu/bme/)
 - [Computer Science at Emory](https://cs.emory.edu/graduate/general-information/app-info/)
