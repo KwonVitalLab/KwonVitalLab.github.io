@@ -21,13 +21,13 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: software-engineer" %}
 
 <!-- PhD Students -->
-{% include list.html data="members" component="portrait" filters="role: phd*" %}
+{% include list.html data="members" component="portrait" filters="role: phd-*" %}
 
 <!-- MS Students -->
-{% include list.html data="members" component="portrait" filters="role: masters*" %}
+{% include list.html data="members" component="portrait" filters="role: masters-*" %}
 
 <!-- Undergrad students -->
-{% include list.html data="members" component="portrait" filters="role: undergrad*" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad-*" %}
 {% include section.html %}
 
 <!-- Alumni -->
