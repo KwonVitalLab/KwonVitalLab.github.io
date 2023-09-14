@@ -1,7 +1,7 @@
 ---
 name: Fatim Majumder
 image: images/members/fatim-majumder.jpg
-role: undergrad-cs-emory
+role: na
 aliases:
   - Fatim Majumder
 links:
