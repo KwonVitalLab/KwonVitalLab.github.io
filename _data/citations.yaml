@@ -10,10 +10,9 @@
   publisher: Proceedings of the 2023 International Symposium on Wearable Computers
   date: '2023-10-08'
   link: https://doi.org/gstgzw
-  orcid: 0000-0002-5693-3278
+  image: https://KwonVitalLab.github.io/images/publications/gpt-iswc.png
   plugin: sources.py
   file: sources.yaml
-  image: https://KwonVitalLab.github.io/images/publications/gpt-iswc.png
 - id: doi:10.1145/3594738.3611364
   title: On the Utility of Virtual On-body Acceleration Data for Fine-grained Human
     Activity Recognition
@@ -25,74 +24,9 @@
   publisher: Proceedings of the 2023 International Symposium on Wearable Computers
   date: '2023-10-08'
   link: https://doi.org/gstgzx
-  orcid: 0000-0002-5693-3278
-  plugin: sources.py
-  file: sources.yaml
   image: https://KwonVitalLab.github.io/images/publications/motion_subtlety_index.png
-- id: doi:10.3390/s23041766
-  title: An Explainable Spatial-Temporal Graphical Convolutional Network to Score
-    Freezing of Gait in Parkinsonian Patients
-  authors:
-  - Hyeokhyen Kwon
-  - Gari D. Clifford
-  - Imari Genias
-  - Doug Bernhard
-  - Christine D. Esper
-  - Stewart A. Factor
-  - J. Lucas McKay
-  publisher: Sensors
-  date: '2023-02-04'
-  link: https://doi.org/grx6hg
-  orcid: 0000-0002-5693-3278
   plugin: sources.py
   file: sources.yaml
-  image: https://KwonVitalLab.github.io/images/publications/xai4fog.png
-- id: doi:10.1101/2023.01.13.23284535
-  title: An explainable spatial-temporal graphical convolutional network to score
-    freezing of gait in parkinsonian patients
-  authors:
-  - Hyeokhyen Kwon
-  - Gari D. Clifford
-  - Imari Genias
-  - Doug Bernhard
-  - Christine D. Esper
-  - Stewart A. Factor
-  - J. Lucas McKay
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-18'
-  link: https://doi.org/grx6hh
-  orcid: 0000-0002-5693-3278
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1145/3544793.3560337
-  title: On the Effectiveness of Virtual IMU Data for Eating Detection with Wrist
-    Sensors
-  authors:
-  - Yash Jain
-  - Hyeokhyen Kwon
-  - Thomas Ploetz
-  publisher: Proceedings of the 2022 ACM International Joint Conference on Pervasive
-    and Ubiquitous Computing
-  date: '2022-09-11'
-  link: https://doi.org/gsmzhh
-  orcid: 0000-0002-5693-3278
-  plugin: sources.py
-  file: sources.yaml
-  image: https://KwonVitalLab.github.io/images/publications/motion_subtlety_index.png
-- id: doi:10.3390/s21248337
-  title: Complex Deep Neural Networks from Large Scale Virtual IMU Data for Effective
-    Human Activity Recognition Using Wearables
-  authors:
-  - Hyeokhyen Kwon
-  - Gregory D. Abowd
-  - "Thomas Pl\xF6tz"
-  publisher: Sensors
-  date: '2021-12-13'
-  link: https://doi.org/grx6hj
-  orcid: 0000-0002-5693-3278
-  plugin: sources.py
-  file: sources.yaml
-  image: https://KwonVitalLab.github.io/images/publications/complexDLIMUTube.png
 - id: doi:10.1140/epjds/s13688-023-00398-2
   title: Leveraging WiFi network logs to infer student collocation and its relationship
     with academic performance
@@ -185,6 +119,37 @@
   image: https://KwonVitalLab.github.io/images/publications/aan_subtype_2023.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.3390/s23041766
+  title: An Explainable Spatial-Temporal Graphical Convolutional Network to Score
+    Freezing of Gait in Parkinsonian Patients
+  authors:
+  - Hyeokhyen Kwon
+  - Gari D. Clifford
+  - Imari Genias
+  - Doug Bernhard
+  - Christine D. Esper
+  - Stewart A. Factor
+  - J. Lucas McKay
+  publisher: Sensors
+  date: '2023-02-04'
+  link: https://doi.org/grx6hg
+  image: https://KwonVitalLab.github.io/images/publications/xai4fog.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3544793.3560337
+  title: On the Effectiveness of Virtual IMU Data for Eating Detection with Wrist
+    Sensors
+  authors:
+  - Yash Jain
+  - Hyeokhyen Kwon
+  - Thomas Ploetz
+  publisher: Proceedings of the 2022 ACM International Joint Conference on Pervasive
+    and Ubiquitous Computing
+  date: '2022-09-11'
+  link: https://doi.org/gsmzhh
+  image: https://KwonVitalLab.github.io/images/publications/motion_subtlety_index.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3486880.3486891
   title: Can You See It? Good, So We Can Sense It!
   authors:
@@ -215,6 +180,19 @@
   date: '2021-01-01'
   link: https://doi.org/grzdx8
   image: https://KwonVitalLab.github.io/images/publications/ijcai_workshop.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/s21248337
+  title: Complex Deep Neural Networks from Large Scale Virtual IMU Data for Effective
+    Human Activity Recognition Using Wearables
+  authors:
+  - Hyeokhyen Kwon
+  - Gregory D. Abowd
+  - "Thomas Pl\xF6tz"
+  publisher: Sensors
+  date: '2021-12-13'
+  link: https://doi.org/grx6hj
+  image: https://KwonVitalLab.github.io/images/publications/complexDLIMUTube.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3478096
