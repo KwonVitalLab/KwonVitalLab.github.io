@@ -5,7 +5,26 @@ Machine Learning for Beha**Vi**or and Heal**T**h **A**na**L**ytics (**ViTAL**) L
 
 {% include section.html %}
 
-# Talks $\mathtt{\&}$ Media
+{%
+  include button.html
+  type="link"
+  icon=""
+  text="Talks $\mathtt{\&}$ Media"
+  link="#talks-mathtt-media"
+%}
+
+{%
+  include button.html
+  type="link"
+  icon=""
+  text="News"
+  link="#news"
+%}
+
+
+{% include section.html %}
+
+## Talks $\mathtt{\&}$ Media
 {:.center}
 
 | 2023/08/14 | : Our research in the application of ML for Parkinson's Disease is introduced in [Oracle's Customer page](https://www.oracle.com/customers/emory-university/) as a successful example for a collaboration between [Oracle](https://www.oracle.com/) and [Emory University](https://www.emory.edu/home/index.html) | 
@@ -23,7 +42,7 @@ Machine Learning for Beha**Vi**or and Heal**T**h **A**na**L**ytics (**ViTAL**) L
 
 {% include section.html %}
 
-# News
+## News
 {:.center}
 
 <style>
