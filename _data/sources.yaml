@@ -32,9 +32,6 @@
 - id: doi:10.3390/s23041766
   image: https://KwonVitalLab.github.io/images/publications/xai4fog.png
 
-- id: doi:10.1101/2023.01.13.23284535
-  image: https://KwonVitalLab.github.io/images/publications/xai4fog.png
-
 # ISWC 2022 IMUTube Subtle
 - id: doi:10.1145/3544793.3560337
   image: https://KwonVitalLab.github.io/images/publications/motion_subtlety_index.png
