@@ -1,18 +1,22 @@
+# ISWC 2023 ChatGPT-IMUTube
+- id: doi:10.1145/3594738.3611361
+  image: https://KwonVitalLab.github.io/images/publications/gpt-iswc.png
+
+# ISWC 2023 IMUTube Subtle
+- id: doi:10.1145/3594738.3611364
+  image: https://KwonVitalLab.github.io/images/publications/motion_subtlety_index.png
+
 # WiFi Academic performance
 - id: doi:10.1140/epjds/s13688-023-00398-2
   image: https://KwonVitalLab.github.io/images/publications/wifi_community.png
 
-# CEP-EP6 BLE-IMU-based Tracking
+# Arxiv CEP-EP6 BLE-IMU-based Tracking
 - id: arXiv:2305.19342
   image: https://KwonVitalLab.github.io/images/publications/cep_ep6_ble_imu_mot.png
 
-# CEP-EP6 Camera-based Tracking
+# Arxiv CEP-EP6 Camera-based Tracking
 - id: arXiv:2305.05062
   image: https://KwonVitalLab.github.io/images/publications/cep_ep6_camera_mot.png
-
-# ChatGPT-IMUTube
-- id: arXiv:2305.03187
-  image: https://KwonVitalLab.github.io/images/publications/gpt-iswc.png
 
 # AAN - FOG
 - id: doi:10.1212/WNL.0000000000203857
@@ -31,10 +35,7 @@
 - id: doi:10.1101/2023.01.13.23284535
   image: https://KwonVitalLab.github.io/images/publications/xai4fog.png
 
-# ISWC 2023 IMUTube Subtle
-- id: arXiv:2211.01342
-  image: https://KwonVitalLab.github.io/images/publications/motion_subtlety_index.png
-
+# ISWC 2022 IMUTube Subtle
 - id: doi:10.1145/3544793.3560337
   image: https://KwonVitalLab.github.io/images/publications/motion_subtlety_index.png
 
@@ -67,10 +68,6 @@
   buttons:
     - type: website
       link: https://github.com/hyeokhyen/imutube
-
-# Arxiv 20 WiFi
-- id: arXiv:2005.11228
-  image: https://KwonVitalLab.github.io/images/publications/wifi_community.png
 
 # ISWC 19 labeljitter
 - id: doi:10.1145/3341163.3347744

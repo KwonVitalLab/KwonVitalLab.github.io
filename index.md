@@ -32,6 +32,8 @@ td, th {
 }
 </style>
 
+| 2023/10/08 | : ChapGPT and wearables for human activity recognition is published at [ISWC](https://dl.acm.org/doi/10.1145/3594738.3611361) and is presented in [Ubicomp/ISWC 2023](https://www.ubicomp.org/ubicomp-iswc-2023/). First work in my group to explore the potential of generative AI and human activity recognition!| 
+| 2023/10/08 | : IMUTube for fine-grained human activity recognition is published at [ISWC](https://dl.acm.org/doi/10.1145/3594738.3611364) and is presented in [Ubicomp/ISWC 2023](https://www.ubicomp.org/ubicomp-iswc-2023/). Pushing forward with cross-modal human activity recognition for even more complex problems!| 
 | 2023/04/24 | : We presented [XAI4FOG](https://www.aan.com/MSA/Public/Events/AbstractDetails/54892) and [XAI4PDsubtypes](https://www.aan.com/MSA/Public/Events/AbstractDetails/54898) at [American Academy of Neurology Annual Meeting (AANAM)](https://www.aan.com/events/annual-meeting) | 
 | 2023/02/04 | : [XAI4FOG](https://www.mdpi.com/1424-8220/23/4/1766) is published at Sensors | 
 | 2023/01/18 | : XAI4FOG is now online at medRxiv. | 
