@@ -50,6 +50,10 @@ undergrad-cs-emory:
   icon: fa-solid fa-user-graduate
   description: Undergrad Student, CS, Emory
 
+undergrad-cs-bio-emory:
+  icon: fa-solid fa-user-graduate
+  description: Undergrad Student, CS and Biology, Emory
+
 undergrad-physics-math-emory:
   icon: fa-solid fa-user-graduate
   description: Undergrad Student, Physics and Math, Emory
