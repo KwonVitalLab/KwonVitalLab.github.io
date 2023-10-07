@@ -3,16 +3,6 @@
 
 Machine Learning for Beha**Vi**or and Heal**T**h **A**na**L**ytics (**ViTAL**) Lab at Emory Biomedical Informatics strives to develop artificial intelligence systems that are inclusive, accessible, fair, and reliable that will effectively improve the healthcare system. Our mission is to develop efficient computing and machine learning systems on the network edge using distributed ambient, mobile, and wearable devices to monitor patients' conditions in everyday life. 
 
-{% include section.html %}
-
-{%
-  include button.html
-  type="link"
-  icon=""
-  text="Talks $\mathtt{\&}$ Media"
-  link="#talks-mathtt-media"
-%}
-
 {%
   include button.html
   type="link"
@@ -21,24 +11,13 @@ Machine Learning for Beha**Vi**or and Heal**T**h **A**na**L**ytics (**ViTAL**) L
   link="#news"
 %}
 
-
-{% include section.html %}
-
-## Talks $\mathtt{\&}$ Media
-{:.center}
-
-| 2023/08/14 | : Our research in the application of ML for Parkinson's Disease is introduced in [Oracle's Customer page](https://www.oracle.com/customers/emory-university/) as a successful example for a collaboration between [Oracle](https://www.oracle.com/) and [Emory University](https://www.emory.edu/home/index.html) | 
-| 2023/07/21 | : Invited as a speaker for [STEM Career Talk Concert: Artificial Intelligence](https://www.kwise.org/blog/5260/) presented by [Korean-American Women in Science & Enginnering (KWiSE)](https://www.kwise.org/) and [Korea Foundation for Women in Science, Engineering, and Technology (WISET)](https://www.wiset.or.kr/). | 
-| 2023/07/20 | : Interview with Oracle for Research team about my research in AI x Parkinson's Disease, a collaborative project with Emory Motion Analysis Lab, is featured in [Oracle for Research Blog](https://blogs.oracle.com/research/post/emory-university-uses-oracle-cloud-to-monitor-disorders-like-parkinsons-disease). | 
-| 2023/06/21 | : Invited talk for "What can movement tell us about behavior? - The potential for AI in psychiatry" at [Emory Psychiatry and Behavioral Sciences Grand Rounds](https://med.emory.edu/departments/psychiatry/education/general_residency/training_at_emory/grand_rounds.html). | 
-| 2023/05/10 | : Our collaborative work with Emory Motion Analysis Lab is featured in [Oracle for Research Blog](https://blogs.oracle.com/research/post/emory-university-uses-oracle-cloud-to-monitor-disorders-like-parkinsons?source=:so:tw:or:awr:ore:::OfR_Social_ParkinsonsResearchEmory_CS&SC=:so:tw:or:awr:ore:::OfR_Social_ParkinsonsResearchEmory_CS&pcode=). | 
-| 2023/05/02 | : Invited talk for Ubiquitous Intelligent System in Healthcare at [AI Colloquium @ DGIST](https://ai-dgist.github.io/). | 
-| 2023/02/03 | : Invited talk for XAI for Freezing-of-Gait in Parkinsonism at [Coulter BME](https://bme.gatech.edu/bme/) Seminar Series. | 
-| 2023/01/11 | : Our research in AI, Edge Computing, and Parkinson's Disease is discussed in a [Podcast with Oracle Research](https://open.spotify.com/episode/5BqhO5SM7EeU4gUGWtOJot). | 
-| 2022/10/19 | : Invited talk for Human Activity Recognition in Daily Living and Clinical Environments at [TED@Kookmin Univ](https://ted.kookmin.ac.kr/Home). | 
-| 2022/03/09 | : IMUTube is introduced in [Oracle for Research Blog](https://blogs.oracle.com/research/post/georgia-institute-of-technology-uses-oracle-cloud-to-convert-videos-into-behavioral-data) | 
-| 2022/01/20 | : Invited talk for IMUTube at [HCI@KAIST](https://hci.kaist.ac.kr/) | 
-| 2021/09/15 | : IMUTube is featured in [GetMobile (a flagship magazine of ACM SIGMOBILE)](https://dl.acm.org/doi/abs/10.1145/3486880.3486891) | 
+{%
+  include button.html
+  type="link"
+  icon=""
+  text="Talks $\mathtt{\&}$ Media"
+  link="#talks-mathtt-media"
+%}
 
 {% include section.html %}
 
@@ -69,3 +48,21 @@ td, th {
 | 2019/09/06 | : [Label jitter (ISWC 2019)](https://github.com/hyeokhyen/sat) code, model, dataset and paper are online | 
 | 2018/10/10 | : [Structure ECDF (ISWC 2018)](https://sites.google.com/site/structureecdf/) code and paper are online | 
 | 2016/05/02 | : Awarded [Samsung Ph.D. Scholarship](http://www.ssscholarship.com/) | 
+
+{% include section.html %}
+
+## Talks $\mathtt{\&}$ Media
+{:.center}
+
+| 2023/08/14 | : Our research in the application of ML for Parkinson's Disease is introduced in [Oracle's Customer page](https://www.oracle.com/customers/emory-university/) as a successful example for a collaboration between [Oracle](https://www.oracle.com/) and [Emory University](https://www.emory.edu/home/index.html) | 
+| 2023/07/21 | : Invited as a speaker for [STEM Career Talk Concert: Artificial Intelligence](https://www.kwise.org/blog/5260/) presented by [Korean-American Women in Science & Enginnering (KWiSE)](https://www.kwise.org/) and [Korea Foundation for Women in Science, Engineering, and Technology (WISET)](https://www.wiset.or.kr/). | 
+| 2023/07/20 | : Interview with Oracle for Research team about my research in AI x Parkinson's Disease, a collaborative project with Emory Motion Analysis Lab, is featured in [Oracle for Research Blog](https://blogs.oracle.com/research/post/emory-university-uses-oracle-cloud-to-monitor-disorders-like-parkinsons-disease). | 
+| 2023/06/21 | : Invited talk for "What can movement tell us about behavior? - The potential for AI in psychiatry" at [Emory Psychiatry and Behavioral Sciences Grand Rounds](https://med.emory.edu/departments/psychiatry/education/general_residency/training_at_emory/grand_rounds.html). | 
+| 2023/05/10 | : Our collaborative work with Emory Motion Analysis Lab is featured in [Oracle for Research Blog](https://blogs.oracle.com/research/post/emory-university-uses-oracle-cloud-to-monitor-disorders-like-parkinsons?source=:so:tw:or:awr:ore:::OfR_Social_ParkinsonsResearchEmory_CS&SC=:so:tw:or:awr:ore:::OfR_Social_ParkinsonsResearchEmory_CS&pcode=). | 
+| 2023/05/02 | : Invited talk for Ubiquitous Intelligent System in Healthcare at [AI Colloquium @ DGIST](https://ai-dgist.github.io/). | 
+| 2023/02/03 | : Invited talk for XAI for Freezing-of-Gait in Parkinsonism at [Coulter BME](https://bme.gatech.edu/bme/) Seminar Series. | 
+| 2023/01/11 | : Our research in AI, Edge Computing, and Parkinson's Disease is discussed in a [Podcast with Oracle Research](https://open.spotify.com/episode/5BqhO5SM7EeU4gUGWtOJot). | 
+| 2022/10/19 | : Invited talk for Human Activity Recognition in Daily Living and Clinical Environments at [TED@Kookmin Univ](https://ted.kookmin.ac.kr/Home). | 
+| 2022/03/09 | : IMUTube is introduced in [Oracle for Research Blog](https://blogs.oracle.com/research/post/georgia-institute-of-technology-uses-oracle-cloud-to-convert-videos-into-behavioral-data) | 
+| 2022/01/20 | : Invited talk for IMUTube at [HCI@KAIST](https://hci.kaist.ac.kr/) | 
+| 2021/09/15 | : IMUTube is featured in [GetMobile (a flagship magazine of ACM SIGMOBILE)](https://dl.acm.org/doi/abs/10.1145/3486880.3486891) | 
