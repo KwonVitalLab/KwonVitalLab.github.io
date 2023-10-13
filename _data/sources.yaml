@@ -5,6 +5,8 @@
 # ISWC 2023 ChatGPT-IMUTube
 - id: doi:10.1145/3594738.3611361
   image: https://KwonVitalLab.github.io/images/publications/gpt-iswc.png
+  tags: 
+    - 🏆 Best Paper Finalist and Honorable Mention in Ubicomp/ISWC 2023
 
 # ISWC 2023 IMUTube Subtle
 - id: doi:10.1145/3594738.3611364
@@ -35,6 +37,9 @@
 # Sensors 2023 XAI4FOG
 - id: doi:10.3390/s23041766
   image: https://KwonVitalLab.github.io/images/publications/xai4fog.png
+  tags: 
+    - 🏆 Finalist for the Oracle for Research Fellows program
+    - 🏆 Oracle for Research Project Award
 
 # ISWC 2022 IMUTube Subtle
 - id: doi:10.1145/3544793.3560337
@@ -61,6 +66,8 @@
   buttons:
     - type: website
       link: https://github.com/hyeokhyen/imutube
+  tags:
+    - 🏆 Finalist for Gaetano Borriello Outstanding Student Award at Ubicomp 2021
 
 # IMWUT 20 IMUTube v1
 - id: doi:10.1145/3411841
@@ -69,6 +76,9 @@
   buttons:
     - type: website
       link: https://github.com/hyeokhyen/imutube
+  tags: 
+    - 🏆 Oracle for Research Project Award
+    - 💡 Patent published.
 
 # ISWC 19 labeljitter
 - id: doi:10.1145/3341163.3347744

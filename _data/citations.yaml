@@ -11,7 +11,7 @@
   - J. Lucas McKay
   - Hyeokhyen Kwon
   publisher: Sensors
-  date: '2023-10-09'
+  date: '2023-01-01'
   link: https://doi.org/gst2pf
   image: https://KwonVitalLab.github.io/images/publications/aan_subtype_2023.png
   plugin: sources.py
@@ -27,6 +27,8 @@
   date: '2023-10-08'
   link: https://doi.org/gstgzw
   image: https://KwonVitalLab.github.io/images/publications/gpt-iswc.png
+  tags:
+  - "\U0001F3C6 Best Paper Finalist and Honorable Mention in Ubicomp/ISWC 2023"
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3594738.3611364
@@ -150,6 +152,9 @@
   date: '2023-02-04'
   link: https://doi.org/grx6hg
   image: https://KwonVitalLab.github.io/images/publications/xai4fog.png
+  tags:
+  - "\U0001F3C6 Finalist for the Oracle for Research Fellows program"
+  - "\U0001F3C6 Oracle for Research Project Award"
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3544793.3560337
@@ -227,6 +232,9 @@
   buttons:
   - type: website
     link: https://github.com/hyeokhyen/imutube
+  tags:
+  - "\U0001F3C6 Finalist for Gaetano Borriello Outstanding Student Award at Ubicomp\
+    \ 2021"
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3411841
@@ -248,6 +256,9 @@
   buttons:
   - type: website
     link: https://github.com/hyeokhyen/imutube
+  tags:
+  - "\U0001F3C6 Oracle for Research Project Award"
+  - "\U0001F4A1 Patent published."
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1145/3341163.3347744
