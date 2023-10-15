@@ -4,6 +4,9 @@ image: images/members/barun-das.jpg
 role: software-engineer
 aliases:
   - Barun Das
+links:
+  linkedin: barun-das
+  website-profile: https://barunkgp.github.io/
 ---
 
 barun.das [at] dbmi.emory.edu
