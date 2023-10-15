@@ -7,6 +7,7 @@ aliases:
 links:
   orcid: 0000-0002-3676-5027
   linkedin: soheil-saghafi
+  google-scholar: BwoF8wsAAAAJ
 ---
 
 soheil.saghafi [at] emory.edu
