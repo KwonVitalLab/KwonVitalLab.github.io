@@ -108,6 +108,12 @@ search:
 
 # social media
 
+website-profile:
+  icon: fa-solid fa-globe
+  text: Website
+  tooltip: Website
+  link: $VALUE
+
 orcid:
   icon: fa-brands fa-orcid
   text: ORCID
