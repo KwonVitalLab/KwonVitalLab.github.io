@@ -4,6 +4,9 @@ image: images/members/soheil-saghafi.jpeg
 role: postdoc
 aliases:
   - Soheil Saghafi
+links:
+  orcid: 0000-0002-3676-5027
+  linkedin: soheil-saghafi
 ---
 
 soheil.saghafi [at] emory.edu
