@@ -8,20 +8,16 @@ links:
   orcid: 0000-0002-5693-3278
   linkedin: hyeokhyen-kwon-ph-d-bab043aa
   twitter: HyeokhyenKwon
+  google-scholar: OwLXC4YAAAAJ
 ---
 
-hyeokhyen.kwon [at] dbmi.emory.edu
+hyeokhyen.kwon [at] emory.edu
 
 Assistant Professor, Department of Biomedical Informatics, School of Medicine, Emory University
 
 Visiting Scientist, School of Interactive Computing, College of Computing, Georgia Institute of Technology
 
 [Curriculum_Vitae](https://www.dropbox.com/s/s3qszalv3js3xpz/Curriculum_Vitae___Hyeokhyen_Kwon.pdf?dl=0)
-
-[Google Scholar](https://scholar.google.com/citations?user=1t4fsxYAAAAJ&hl=en&oi=ao)
-
-[Linkedin](https://www.linkedin.com/in/hyeokhyen-kwon-ph-d-bab043aa/)
-
 
 Human-Centered Artificial Intelligence Researcher
 {:.center}
