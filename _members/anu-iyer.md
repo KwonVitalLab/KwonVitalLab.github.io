@@ -5,7 +5,7 @@ role: undergrad-bio-gt
 aliases:
   - Anu Iyer
 links:
-  orcid: 
+  linkedin: anuiyer-researcher 
 ---
 
 aiyer350 [at] gatech.edu

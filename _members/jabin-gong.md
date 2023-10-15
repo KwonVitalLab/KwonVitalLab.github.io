@@ -4,8 +4,6 @@ image: images/members/jabin_pic.png
 role: alumni
 aliases:
   - Jabin Gong
-links:
-  orcid: 
 ---
 
 ngong6 [at] gatech.edu

@@ -4,8 +4,6 @@ image: images/members/barun-das.jpg
 role: software-engineer
 aliases:
   - Barun Das
-links:
-  orcid: 
 ---
 
 barun.das [at] dbmi.emory.edu

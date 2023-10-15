@@ -4,8 +4,6 @@ image: images/members/shoibolina-kaushik.jpg
 role: masters-cs-emory
 aliases:
   - Shoibolina Kaushik
-links:
-  orcid: 
 ---
 
 shoibolina.kaushik@emory.edu [at] emory.edu

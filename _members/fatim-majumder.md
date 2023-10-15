@@ -4,8 +4,6 @@ image: images/members/fatim-majumder.jpg
 role: na
 aliases:
   - Fatim Majumder
-links:
-  orcid: 
 ---
 
 fatim.majumder [at] emory.edu

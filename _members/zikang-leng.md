@@ -5,7 +5,7 @@ role: undergrad-cs-gt
 aliases:
   - Zikang Leng
 links:
-  orcid: 
+  linkedin: zikang-leng 
 ---
 
 zleng7 [at] gatech.edu

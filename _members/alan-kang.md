@@ -4,8 +4,6 @@ image: images/members/alan-kang.jpeg
 role: undergrad-cs-bio-emory
 aliases:
   - Alan Kang
-links:
-  orcid: 
 ---
 
 alan.kang [at] emory.edu

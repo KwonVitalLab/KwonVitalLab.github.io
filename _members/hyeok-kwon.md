@@ -6,6 +6,8 @@ aliases:
   - Hyeok Kwon
 links:
   orcid: 0000-0002-5693-3278
+  linkedin: hyeokhyen-kwon-ph-d-bab043aa
+  twitter: HyeokhyenKwon
 ---
 
 hyeokhyen.kwon [at] dbmi.emory.edu

@@ -4,8 +4,6 @@ image: images/members/scarlett-duan.JPG
 role: masters-cs-emory
 aliases:
   - Scarlett Duan
-links:
-  orcid: 
 ---
 
 yuqing.duan [at] emory.edu

@@ -4,8 +4,6 @@ image: images/members/matthew-ortega.jpg
 role: undergrad-physics-math-emory
 aliases:
   - Matthew Ortega
-links:
-  orcid: 
 ---
 
 matthew.ortega [at] emory.edu
