@@ -4,6 +4,8 @@ image: images/members/chaitra-hedge.jpeg
 role: phd-ece-gt
 aliases:
   - Chaitra Hedge
+links:
+  linkedin: chegde
 ---
 
 chedge [at] gatech.edu
