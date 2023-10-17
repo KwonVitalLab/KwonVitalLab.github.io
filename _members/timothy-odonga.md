@@ -5,6 +5,7 @@ role: phd-csi-emory
 aliases:
   - Timothy Odonga
 links:
+  orcid: 0000-0001-8607-119X
   linkedin: timothy-odonga-11882a60
 ---
 
