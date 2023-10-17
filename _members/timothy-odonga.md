@@ -4,6 +4,8 @@ image: images/members/timothy-odonga.jpg
 role: phd-csi-emory
 aliases:
   - Timothy Odonga
+links:
+  linkedin: timothy-odonga-11882a60
 ---
 
 timothy.odonga [at] emory.edu
