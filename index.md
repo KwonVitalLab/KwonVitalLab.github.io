@@ -29,7 +29,7 @@ td, th {
    border: none!important;
 }
 </style>
-
+| 2023/10/22 | : 📖 Our [FingerSpeller](https://dl.acm.org/doi/10.1145/3597638.3614491) is published in [ASSET 2023](https://assets23.sigaccess.org/)! We demonstrate by smart rings can be used for camera-free text entry for American sign language fingerspelling!| 
 | 2023/10/11 | : 🏆 Our [IMUGPT](https://dl.acm.org/doi/10.1145/3594738.3611361) was recognized as finalist for best paper award and honorable mention for [Ubicomp/ISWC 2023](https://www.ubicomp.org/ubicomp-iswc-2023/)! | 
 | 2023/10/09 | : 📖 Our collaboration with [Emory Brain Health Motion Analysis Lab](https://www.facebook.com/BrainHealthMotionLab/) developed [AI model](https://www.mdpi.com/1424-8220/23/19/8330) that can classifying the subtypes in Parkinson's Disease. This is the first work that looks into whole-body kinematics to "explain" complex movements in PD subtypes for our patients from [Jean and Paul Amos Parkinson’s Disease and Movement Disorders Program](https://med.emory.edu/departments/neurology/programs_centers/parkinsons_movement/index.html)! | 
 | 2023/10/08 | : 📖 Our [IMUGPT](https://dl.acm.org/doi/10.1145/3594738.3611361) work integrating Generative AI x Cross-modality x Wearable-based Human Activity Recognition is published at [ISWC](https://dl.acm.org/doi/10.1145/3594738.3611361) and is presented in [Ubicomp/ISWC 2023](https://www.ubicomp.org/ubicomp-iswc-2023/). First work in my group to explore the potential of generative AI and human activity recognition!| 
