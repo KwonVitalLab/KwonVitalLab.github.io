@@ -96,7 +96,7 @@ Spatial navigation of indoor space usage patterns reveals important cues about t
 
 ## Behavior Analytics for Health Assessments
 
-### Parkinson's Disease
+### Movement Disorder Assessment with Kinematics Dataset
 
 {% include figure.html image="images/research/xai4fog.png" width="60%" %}
 
