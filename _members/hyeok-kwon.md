@@ -19,7 +19,7 @@ Visiting Scientist, School of Interactive Computing, College of Computing, Georg
 
 [Curriculum_Vitae](https://www.dropbox.com/s/s3qszalv3js3xpz/Curriculum_Vitae___Hyeokhyen_Kwon.pdf?dl=0)
 
-Human-Centered Artificial Intelligence Researcher
+**Human-Centered Artificial Intelligence Researcher for Health**
 {:.center}
 
 Hyeokhyen Kwon, or Hyeok, is an Assistant Professor in the Department of Biomedical Informatics in Emory University School of Medicine. His research focuses on designing efficient, secure, and privacy-preserving machine learning systems on the network edge using distributed on- and off-body sensors to tackle brain health challenges. His applications lie at the intersection of computer vision, speech analytics, ubiquitous computing, and human activity recognition. He has published in top-tiered journals and conferences, such as, CVPR, ICCV, Ubicomp/ISWC, IMWUT, and Sensors. His Ph.D. research received Samsung Ph.D. Fellowship and an Oracle for Research Award, and he was named a finalist in the Gaetano Borriello Outstanding Student Award at Ubicomp/ISWC 2021, as well as a finalist in Oracle for Research Fellow. During his PostDoc at Emory BMI, he also received the Oracle for Research Award.
