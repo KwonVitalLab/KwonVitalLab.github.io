@@ -63,7 +63,7 @@ The development of robust, generalized models in human activity recognition (HAR
 
 - Zikang Leng, Hyeokhyen Kwon, and Thomas Ploetz. 2023. Generating Virtual On-body Accelerometer Data from Virtual Textual Descriptions for Human Activity Recognition. In Proceedings of the 2023 International Symposium on Wearable Computers (ISWC '23). Association for Computing Machinery, New York, NY, USA, 39–43. https://doi.org/10.1145/3594738.3611361
 
-### Robust Human Activity Recognition Model with Wearable Sensors
+### Robust Human Activity Recognition Model with Uncertainty Modeling
 
 {% include figure.html image="images/research/label jitter.png" width="80%" %}
 
