@@ -5,7 +5,11 @@ role: undergrad-cs-gt
 aliases:
   - Zikang Leng
 links:
+  orcid: 0000-0001-6789-4780
   linkedin: zikang-leng 
+  twitter: zikangLeng
+  google-scholar: P6qXmC8AAAAJ
+  website-profile: https://zikangleng.github.io/
 ---
 
 zleng7 [at] gatech.edu
