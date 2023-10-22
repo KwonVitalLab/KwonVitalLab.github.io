@@ -81,12 +81,12 @@ Candidates are required to have a strong background in at least one of the follo
 - A strong sense of responsibility to complete research in a timely manner is required.
 
 We are looking for candidates who plan to work with us in person for at least a year.
-If you are interested in working in ViTAL lab and consider having relevant skill sets, please apply to [Emory Careers](https://faculty-emory.icims.com/jobs/108198/post-doctoral-fellow---department-of-biomedical-informatics/job?mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) or contact [Hyeok](mailto:hyeokhyen.kwon@dbmi.emory.edu).
+If you are interested in working in ViTAL lab and consider having relevant skill sets, please apply to [Emory Careers](https://faculty-emory.icims.com/jobs/108198/post-doctoral-fellow---department-of-biomedical-informatics/job?mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) or contact [Hyeok](mailto:hyeokhyen.kwon@emory.edu).
 Let's have a chat! 
 
 ## Internships/Research Associate
 
-Please reach out to [Hyeok](mailto:hyeokhyen.kwon@dbmi.emory.edu) so that we can discuss research or engineering opportunities in our lab.
+Please reach out to [Hyeok](mailto:hyeokhyen.kwon@emory.edu) so that we can discuss research or engineering opportunities in our lab.
 If you bring exciting research ideas, we will also find a way to connect them with our ongoing projects.
 We are looking for candidates who plan to work with us in person for at least a year.
 
@@ -101,11 +101,11 @@ If you are already admitted to following Ph.D. programs from Georgia Tech or Emo
 - [Computer Science at Emory](https://cs.emory.edu/graduate/general-information/app-info/)
 <!-- - [Biomedical Informatics at Emory](https://med.emory.edu/departments/biomedical-informatics/education/phd.html) -->
 
-Please reach out to [Hyeok](mailto:hyeokhyen.kwon@dbmi.emory.edu).
+Please reach out to [Hyeok](mailto:hyeokhyen.kwon@emory.edu).
 
-If you are from another department not in the list. It is okay, we can chat and see if we have a good fit! Please contact [Hyeok](mailto:hyeokhyen.kwon@dbmi.emory.edu).
+If you are from another department not in the list. It is okay, we can chat and see if we have a good fit! Please contact [Hyeok](mailto:hyeokhyen.kwon@emory.edu).
 
-Otherwise, please first apply through the admission processes for each program! I highly recommend you to apply for [Computer Science at Emory with BMI core](https://med.emory.edu/departments/biomedical-informatics/education/phd.html). Our department is growing rapidly! Please contact [Hyeok](mailto:hyeokhyen.kwon@dbmi.emory.edu) once you are admitted!
+Otherwise, please first apply through the admission processes for each program! I highly recommend you to apply for [Computer Science at Emory with BMI core](https://med.emory.edu/departments/biomedical-informatics/education/phd.html). Our department is growing rapidly! Please contact [Hyeok](mailto:hyeokhyen.kwon@emory.edu) once you are admitted!
 
 ## Master's Student
 
@@ -116,12 +116,12 @@ If you are already admitted to following Master's programs from Georgia Tech or 
 - [Computer Science at Emory](https://cs.emory.edu/graduate/general-information/app-info/)
 <!-- - [Biomedical Informatics at Emory](https://med.emory.edu/departments/biomedical-informatics/education/masters.html) -->
 
-Please reach out to [Hyeok](mailto:hyeokhyen.kwon@dbmi.emory.edu) well in advance of the semester so that we can discuss research or engineering opportunities in our lab.
+Please reach out to [Hyeok](mailto:hyeokhyen.kwon@emory.edu) well in advance of the semester so that we can discuss research or engineering opportunities in our lab.
 If you bring exciting research ideas, we will also find a way to connect them with our ongoing projects.
 
-If you are from another department not in the list. It is okay, we can chat and see if we have a good fit! Please contact [Hyeok](mailto:hyeokhyen.kwon@dbmi.emory.edu).
+If you are from another department not in the list. It is okay, we can chat and see if we have a good fit! Please contact [Hyeok](mailto:hyeokhyen.kwon@emory.edu).
 
-Otherwise, please first apply through the admission processes for each program! I highly reccomend you to apply for [Master's in Computer Science and Biomedical Infomatics](https://med.emory.edu/departments/biomedical-informatics/education/masters.html) program first. Please contact [Hyeok](mailto:hyeokhyen.kwon@dbmi.emory.edu) once you are admitted!
+Otherwise, please first apply through the admission processes for each program! I highly reccomend you to apply for [Master's in Computer Science and Biomedical Infomatics](https://med.emory.edu/departments/biomedical-informatics/education/masters.html) program first. Please contact [Hyeok](mailto:hyeokhyen.kwon@emory.edu) once you are admitted!
 
 
 ## Undergraduate Student
@@ -133,7 +133,7 @@ If you are already a undergraduate student from Georgia Tech or Emory:
 - [Computer Science at Emory](https://cs.emory.edu/graduate/general-information/app-info/)
 <!-- - [Biomedical Informatics at Emory](https://med.emory.edu/departments/biomedical-informatics/education/phd.html) -->
 
-Please reach out to [Hyeok](mailto:hyeokhyen.kwon@dbmi.emory.edu) well in advance of the semester so that we can discuss research or engineering opportunities in our lab.
+Please reach out to [Hyeok](mailto:hyeokhyen.kwon@emory.edu) well in advance of the semester so that we can discuss research or engineering opportunities in our lab.
 If you bring exciting research ideas, we will also find a way to connect them with our ongoing projects.
 
-If you are from another department not in the list. It is okay, we can chat and see if we have a good fit! Please contact [Hyeok](mailto:hyeokhyen.kwon@dbmi.emory.edu).
+If you are from another department not in the list. It is okay, we can chat and see if we have a good fit! Please contact [Hyeok](mailto:hyeokhyen.kwon@emory.edu).
