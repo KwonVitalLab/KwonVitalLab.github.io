@@ -14,9 +14,12 @@
 - id: doi:10.3390/s23198330
   image: https://KwonVitalLab.github.io/images/publications/aan_subtype_2023.png
 
-# ISWC 2023 ChatGPT-IMUTube
+# ISWC 2023 IMUGPT
 - id: doi:10.1145/3594738.3611361
   image: https://KwonVitalLab.github.io/images/publications/gpt-iswc.png
+  buttons:
+    - type: website
+      link: https://github.com/ZikangLeng/IMUGPT
   tags: 
     - 🏆 Best Paper Finalist and Honorable Mention in Ubicomp/ISWC 2023
 
