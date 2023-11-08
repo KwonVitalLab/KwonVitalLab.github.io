@@ -133,9 +133,9 @@ github:
   link: https://github.com/$VALUE
 
 twitter:
-  icon: fa-brands fa-twitter
-  text: Twitter
-  tooltip: Twitter
+  icon: fa-brands fa-x-twitter
+  text: X/Twitter
+  tooltip: X/Twitter
   link: https://twitter.com/$VALUE
 
 facebook:
