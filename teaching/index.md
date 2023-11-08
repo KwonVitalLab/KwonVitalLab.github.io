@@ -10,7 +10,8 @@ nav:
 
 {% include section.html %}
 
-- Spring 2024: [BMI 534 - Introduction to Machine Learning / CS 534 - Machine Learning](./2024-Spring/index.md)
+<!-- - Spring 2024: [BMI 534 - Introduction to Machine Learning / CS 534 - Machine Learning](/teaching/2024-Spring) -->
+- Spring 2024: BMI 534 - Introduction to Machine Learning / CS 534 - Machine Learning
 
 - Fall 2023: BMI 500 - Introduction to Ethical Data Science and Informatics
 
