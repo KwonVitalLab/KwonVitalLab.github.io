@@ -47,7 +47,7 @@ exclude:
   - README.md
   - LICENSE.md
   - CITATION.cff
-email: hyeokhyen.kwon@dbmi.emory.edu
+email: hyeokhyen.kwon@emory.edu
 github: KwonVitalLab
 twitter: KwonVitalLab
-youtube: KwonVitalLab
+# youtube: KwonVitalLab
