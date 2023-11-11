@@ -95,8 +95,7 @@ The detailed version of the syllabus with instructions on each component and gra
 ## University Policies and Academic Integrity
 
 All class work is governed by the College Honor Code and Departmental Policy.
-It is acceptable and encouraged to discuss homework with other students.
-However, this should be noted on your submitted homework and _all code and writeup_ must be written by yourself.
+Your submitted homework and _all code and writeup_ must be written by yourself.
 Any code and writeup that is found to be similar are grounds for an honor code investigation by the Director of Graduate Studies, Laney Graduate School, and the honor council.
 Additional extensions on assignments will be granted with appropriate documentation from the Office of Undergraduate Education (OUE)
 
