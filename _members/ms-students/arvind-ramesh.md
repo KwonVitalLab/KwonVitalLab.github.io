@@ -1,9 +1,9 @@
 ---
-name: Ravind Ramesh
+name: Arvind Ramesh
 image: images/members/arvind-ramesh.jpg
 role: masters-ece-gt
 aliases:
-  - Ravind Ramesh
+  - Arvind Ramesh
 links:
   orcid: 0000-0003-0668-5357
   linkedin: arvind-r-ramesh
