@@ -6,12 +6,12 @@ footer: null
 header-dark: false
 footer-dark: false
 links:
-  email: hyeokhyen.kwon@dbmi.emory.edu
+  email: hyeokhyen.kwon@emory.edu
   orcid: 0000-0002-5693-3278
-  google-scholar: 1t4fsxYAAAAJ
+  google-scholar: OwLXC4YAAAAJ
   github: KwonVitalLab
   twitter: HyeokhyenKwon
-  youtube: null
+  # youtube: null
 defaults:
   - scope:
       path: ""
