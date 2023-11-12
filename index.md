@@ -15,9 +15,18 @@ Machine Learning for Beha**Vi**or and Heal**T**h **A**na**L**ytics (**ViTAL**) L
   include button.html
   type="link"
   icon=""
-  text="Talks $\mathtt{\&}$ Media"
+  text="Media"
   link="#talks-mathtt-media"
 %}
+
+{%
+  include button.html
+  type="link"
+  icon=""
+  text="Acknowledgements"
+  link="#talks-mathtt-media"
+%}
+
 
 {% include section.html %}
 
@@ -70,3 +79,15 @@ td, th {
 | 2022/03/09 | : 🖋 IMUTube is introduced in [Oracle for Research Blog](https://blogs.oracle.com/research/post/georgia-institute-of-technology-uses-oracle-cloud-to-convert-videos-into-behavioral-data) | 
 | 2022/01/20 | : 🎙 Invited talk for IMUTube at [HCI@KAIST](https://hci.kaist.ac.kr/) | 
 | 2021/09/15 | : 🖋 IMUTube is featured in [GetMobile (a flagship magazine of ACM SIGMOBILE)](https://dl.acm.org/doi/abs/10.1145/3486880.3486891) | 
+
+{% include section.html %}
+
+## Acknoledgements & Sponsors
+{:.center}
+
+Our work is sponsored by
+{:.center}
+
+{% include portrait.html name="The James M. Cox Foundation" lookup="https://www.coxenterprises.com/our-impact/james-m-cox-foundation" image="images/sponsors/cox.jpeg" style="small" %}
+
+{% include portrait.html name="National Institutes of Health" lookup="https://www.nih.gov/" image="images/sponsors/nih.jpg" style="small" %}
