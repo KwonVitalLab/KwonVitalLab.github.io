@@ -34,4 +34,4 @@ nav:
 ## Alumni
 {:.center}
 
-- N. Jabin Gong (BS, Gatech CS, 2023) - School of Medicine, Stony Brook
+{% include portrait.html name="N. Jabin gong (BS, Gatech CS, 2023)" lookup="jabin-gong" image="images/members/jabin_pic.png" style="small" %}
