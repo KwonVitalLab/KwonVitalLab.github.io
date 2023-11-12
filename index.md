@@ -91,3 +91,5 @@ Our work is sponsored by
 {% include portrait.html name="The James M. Cox Foundation" lookup="https://www.coxenterprises.com/our-impact/james-m-cox-foundation" image="images/sponsors/cox.jpeg" style="small" %}
 
 {% include portrait.html name="National Institutes of Health" lookup="https://www.nih.gov/" image="images/sponsors/nih.jpg" style="small" %}
+
+{% include portrait.html name="Oracle Research" lookup="https://www.oracle.com/research/" image="images/sponsors/oracle.webp" style="small" %}
