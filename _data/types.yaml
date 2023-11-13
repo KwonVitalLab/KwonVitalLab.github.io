@@ -38,9 +38,9 @@ masters-ece-gt:
   icon: fa-solid fa-user-graduate
   description: MS Student, ECE, GaTech
 
-undergrad:
-  icon: fa-solid fa-user-graduate
-  description: Undergraduate Student
+# undergrad:
+#   icon: fa-solid fa-user-graduate
+#   description: Undergraduate Student
 
 undergrad-cs-gt:
   icon: fa-solid fa-user-graduate
