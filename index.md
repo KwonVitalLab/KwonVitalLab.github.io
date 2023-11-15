@@ -38,6 +38,7 @@ td, th {
    border: none!important;
 }
 </style>
+| 2023/11/15 | : 🌌 [Barun Das](https://kwonvitallab.github.io/members/phd-students/barun-das.html) and [Timothy Odonga](https://kwonvitallab.github.io/members/phd-students/timothy-odonga.html) presented their work in Behavior Sensing in Mild Cognitive Impairment and Explainable AI in Parkinson's Disease at the poster session at the [Emory Health AI Symposium](https://med.emory.edu/departments/radiology/research/research-labs/madabhushi-lab/ai-health-symposium-agenda.html). | 
 | 2023/10/22 | : 📖 Our [FingerSpeller](https://dl.acm.org/doi/10.1145/3597638.3614491) is published in [ASSET 2023](https://assets23.sigaccess.org/)! We demonstrate how smart rings can be used for camera-free text entry for American sign language fingerspelling!| 
 | 2023/10/11 | : 🏆 Our [IMUGPT](https://github.com/ZikangLeng/IMUGPT) was recognized as finalist for best paper award and honorable mention for [Ubicomp/ISWC 2023](https://www.ubicomp.org/ubicomp-iswc-2023/)! | 
 | 2023/10/09 | : 📖 Our collaboration with [Emory Brain Health Motion Analysis Lab](https://www.facebook.com/BrainHealthMotionLab/) developed [AI model](https://www.mdpi.com/1424-8220/23/19/8330) that can classifying the subtypes in Parkinson's Disease. This is the first work that looks into whole-body kinematics to "explain" complex movements in PD subtypes for our patients from [Jean and Paul Amos Parkinson’s Disease and Movement Disorders Program](https://med.emory.edu/departments/neurology/programs_centers/parkinsons_movement/index.html)! | 
@@ -66,6 +67,7 @@ td, th {
 ## Talks $\mathtt{\&}$ Media
 {:.center}
 
+| 2023/11/15 | : 🖋 [Dr. Kwon](https://kwonvitallab.github.io/members/hyeok-kwon.html) is featured in [Emory Wheel](https://emorywheel.com/emory-expands-to-recognize-ai-revolution/) regarding his visions in Fair AI for behavior sensing | 
 | 2023/10/09 | : 🎙 We had the privilege of presenting at the [GenAI4PC Symposium](https://www.ubicomp.org/ubicomp-iswc-2023/program/workshops-and-symposia/genai4pc-symposium/) during [Ubicomp/ISWC 2023](https://www.ubicomp.org/ubicomp-iswc-2023/), where we discussed our current and future research concerning the profound impact of [generative AI on pervasive and ubiquitous computing for human sensing](https://arxiv.org/abs/2310.12085). Kudos to [Zikang Leng](https://kwonvitallab.github.io/members/zikang-leng.html) for his excellent work!
 | 2023/08/14 | : 🖋 Our research in the application of ML for Parkinson's Disease is introduced in [Oracle's Customer page](https://www.oracle.com/customers/emory-university/) as a successful example for a collaboration between [Oracle](https://www.oracle.com/) and [Emory University](https://www.emory.edu/home/index.html) | 
 | 2023/07/21 | : 🎙 Invited as a speaker for [STEM Career Talk Concert: Artificial Intelligence](https://www.kwise.org/blog/5260/) presented by [Korean-American Women in Science & Enginnering (KWiSE)](https://www.kwise.org/) and [Korea Foundation for Women in Science, Engineering, and Technology (WISET)](https://www.wiset.or.kr/). | 
