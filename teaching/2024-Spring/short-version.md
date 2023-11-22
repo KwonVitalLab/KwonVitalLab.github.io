@@ -7,6 +7,9 @@ description: Short version
 # BMI 534 - Introduction to Machine Learning
 # CS 534 - Machine Learning
 
+{:.center}
+**The course is cross-listed in both BMI534 and CS534, so please register for the one with available seats.**
+
 This is a summarized version of the syllabus. The detailed version of the syllabus will be available on the Emory Canvas.
 
 ### Instructor:

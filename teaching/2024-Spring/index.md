@@ -7,9 +7,10 @@ description: Long version
 # BMI 534 - Introduction to Machine Learning
 # CS 534 - Machine Learning
 
+{:.center}
+**The course is cross-listed in both BMI534 and CS534, so please register for the one with available seats.**
 
 ### Instructor:
-
 
 Hyeokhyen Kwon, Ph.D. \
 Assistant Professor \
