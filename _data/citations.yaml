@@ -60,7 +60,7 @@
   - J. Lucas McKay
   - Hyeokhyen Kwon
   publisher: Sensors
-  date: '2023-10-09'
+  date: '2023-01-01'
   link: https://doi.org/gst2pf
   image: https://KwonVitalLab.github.io/images/publications/aan_subtype_2023.png
   plugin: sources.py
@@ -138,12 +138,12 @@
   image: https://KwonVitalLab.github.io/images/publications/cep_ep6_ble_imu_mot.png
   plugin: sources.py
   file: sources.yaml
-- id: arXiv:2305.05062
-  title: Indoor Localization and Multi-person Tracking Using Privacy Preserving Distributed
-    Camera Network with Edge Computing
+- id: doi:10.1109/JISPIN.2023.3337189
+  title: A Feasibility Study on Indoor Localization and Multi-person Tracking Using
+    Sparsely Distributed Camera Network with Edge Computing
   authors:
   - Hyeokhyen Kwon
-  - Chaitra Hedge
+  - Chaitra Hegde
   - Yashar Kiarashi
   - Venkata Siva Krishna Madala
   - Ratan Singh
@@ -151,10 +151,13 @@
   - Robert Tweedy
   - Leandro Miletto Tonetto
   - Craig M. Zimring
+  - Matthew Doiron
+  - Amy D. Rodriguez
+  - Allan I. Levey
   - Gari D. Clifford
-  publisher: arXiv
-  date: '2023-05-10'
-  link: https://arxiv.org/abs/2305.05062
+  publisher: IEEE Journal of Indoor and Seamless Positioning and Navigation
+  date: '2023-01-01'
+  link: https://doi.org/gs65gm
   image: https://KwonVitalLab.github.io/images/publications/cep_ep6_camera_mot.png
   plugin: sources.py
   file: sources.yaml
