@@ -38,6 +38,8 @@ td, th {
    border: none!important;
 }
 </style>
+| 2023/11/30 | : 📖 Our Graph Trilateration for BLE-based indoor localization using sparsely distributed BLE beacons in a large and complex building is published in [Sensors](https://www.mdpi.com/1424-8220/23/23/9517)! This technology will be used for passive monitoring of activities of older adults living with cognitive impairments! | 
+| 2023/11/28 | : 📖 Our Privacy-preserving vision-based indoor localization, multi-person tracking, and facing orientation estimation technique using sparsely distributed multi-view cameras in a large and complex building is published in [J-ISPIN](https://ieeexplore.ieee.org/document/10329418)! This technology will be used for passive monitoring of activities of older adults living with cognitive impairments.| 
 | 2023/11/14 | : 🌌 [Barun Das](https://kwonvitallab.github.io/members/phd-students/barun-das.html) and [Timothy Odonga](https://kwonvitallab.github.io/members/phd-students/timothy-odonga.html) presented their work in Behavior Sensing in Mild Cognitive Impairment and Explainable AI in Parkinson's Disease at the poster session at the [Emory Health AI Symposium](https://med.emory.edu/departments/radiology/research/research-labs/madabhushi-lab/ai-health-symposium-agenda.html). | 
 | 2023/10/22 | : 📖 Our [FingerSpeller](https://dl.acm.org/doi/10.1145/3597638.3614491) is published in [ASSET 2023](https://assets23.sigaccess.org/)! We demonstrate how smart rings can be used for camera-free text entry for American sign language fingerspelling!| 
 | 2023/10/11 | : 🏆 Our [IMUGPT](https://github.com/ZikangLeng/IMUGPT) was recognized as finalist for best paper award and honorable mention for [Ubicomp/ISWC 2023](https://www.ubicomp.org/ubicomp-iswc-2023/)! | 

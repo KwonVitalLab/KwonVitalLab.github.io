@@ -120,21 +120,26 @@
   image: https://KwonVitalLab.github.io/images/publications/wifi_community.png
   plugin: sources.py
   file: sources.yaml
-- id: arXiv:2305.19342
-  title: Indoor Localization using Bluetooth and Inertial Motion Sensors in Distributed
-    Edge and Cloud Computing Environment
+- id: doi:10.3390/s23239517
+  title: Graph Trilateration for Indoor Localization in Sparsely Distributed Edge
+    Computing Devices in Complex Environments Using Bluetooth Technology
   authors:
   - Yashar Kiarashi
-  - Chaitra Hedge
+  - Soheil Saghafi
+  - Barun Das
+  - Chaitra Hegde
   - Venkata Siva Krishna Madala
   - ArjunSinh Nakum
   - Ratan Singh
   - Robert Tweedy
+  - Matthew Doiron
+  - Amy D. Rodriguez
+  - Allan I. Levey
   - Gari D. Clifford
   - Hyeokhyen Kwon
-  publisher: arXiv
-  date: '2023-06-01'
-  link: https://arxiv.org/abs/2305.19342
+  publisher: Sensors
+  date: '2023-11-30'
+  link: https://doi.org/gs7mx3
   image: https://KwonVitalLab.github.io/images/publications/cep_ep6_ble_imu_mot.png
   plugin: sources.py
   file: sources.yaml
