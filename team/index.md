@@ -44,5 +44,11 @@ nav:
 <!-- Social Photo -->
 {% capture content %}
 ![image]({{ "/images/socials/dinner-2023.12.06.jpeg" | relative_url }})
+
+![image]({{ "/images/socials/BMI_party-2023.12.07/decoration-wall.jpg" | relative_url }})
+
+![image]({{ "/images/socials/BMI_party-2023.12.07/soheil-sepideh.jpg" | relative_url }})
+
+![image]({{ "/images/socials/BMI_party-2023.12.07/tv.jpg" | relative_url }})
 {% endcapture %}
 {% include grid.html content=content %}
