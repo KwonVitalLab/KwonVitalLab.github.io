@@ -39,3 +39,10 @@ nav:
 {% include portrait.html name="N. Jabin Gong (BS, Gatech CS, 2023)<br>- School of Medicine, Stony Brook" image="images/members/jabin_pic.png" %}
 <!-- {% include portrait.html name="N. Jabin gong (BS, Gatech CS, 2023)" lookup="jabin-gong" image="images/members/jabin_pic.png" style="small" %} -->
 
+{% include section.html %}
+
+<!-- Social Photo -->
+{% capture content %}
+![image]({{ "/images/socials/dinner-2023.12.06.jpeg" | relative_url }})
+{% endcapture %}
+{% include grid.html content=content %}
