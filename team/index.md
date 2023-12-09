@@ -47,7 +47,11 @@ nav:
 
 ![image]({{ "/images/socials/BMI_party-2023.12.07/decoration-wall.jpg" | relative_url }})
 
+![image]({{ "/images/socials/CEP-2023.12.08/lunch.png" | relative_url }})
+
 ![image]({{ "/images/socials/BMI_party-2023.12.07/soheil-sepideh.jpg" | relative_url }})
+
+![image]({{ "/images/socials/CEP-2023.12.08/cep-board.png" | relative_url }})
 
 ![image]({{ "/images/socials/BMI_party-2023.12.07/tv.jpg" | relative_url }})
 {% endcapture %}
