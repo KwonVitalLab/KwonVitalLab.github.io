@@ -42,6 +42,9 @@ nav:
 {% include section.html %}
 
 <!-- Social Photo -->
+## Team Gathering
+{:.center}
+
 {% capture content %}
 ![image]({{ "/images/socials/dinner-2023.12.06.jpeg" | relative_url }})
 
