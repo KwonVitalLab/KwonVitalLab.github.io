@@ -1,7 +1,7 @@
 ---
 ---
 
-Machine Learning for Beha**Vi**or and Heal**T**h **A**na**L**ytics (**ViTAL**) Lab at Emory Biomedical Informatics strives to develop artificial intelligence (AI) systems that are inclusive, accessible, fair, and reliable that will effectively improve the healthcare system. Our mission is to develop computing and machine learning systems using distributed ambient, mobile, and wearable devices using edge and cloud computing to monitor patients' conditions in everyday life. We are intesteded in deploying and testing AI systems in real world clinical and daily living environments.
+Machine Learning for Beha**Vi**or and Heal**T**h **A**na**L**ytics (**ViTAL**) Lab at Emory Biomedical Informatics strives to develop artificial intelligence (AI) systems that are inclusive, accessible, fair, and reliable that will effectively improve the healthcare system. Our mission is to develop computing and machine learning systems using distributed ambient, mobile, and wearable devices using edge and cloud computing to monitor patients' conditions in everyday life. We are invested in deploying and testing AI systems in real-world clinical and daily living environments actively collaborating with stakeholders in healthcare.
 
 {%
   include button.html
