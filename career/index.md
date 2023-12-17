@@ -8,7 +8,7 @@ nav:
 # Career
 {:.center}
 
-Our research will be designing efficient ML systems on the network edge using distributed on- and off-body sensors to tackle mental and brain health challenges. Multidisciplinary research will involve machine learning, computer vision, acoustic sensing, wearables, and human activity recognition. The collaboration will span the fields of biomedical engineering/informatics, computer science, and medicine.
+Our research will be designing ML systems on the distributed on- and off-body sensors to tackle mental and brain health challenges. Multidisciplinary research will involve machine learning, computer vision, acoustic sensing, wearables, and human activity recognition. The collaboration will span the fields of biomedical engineering/informatics, computer science, and medicine.
 
 We are looking for motivated and hard-working students, PostDocs, or Research Associates with strong backgrounds in the aforementioned research areas who will join my group. Students from both Georgia Tech and Emory can work with our team!
 
@@ -61,7 +61,7 @@ We are looking for motivated and hard-working students, PostDocs, or Research As
 
 ## PostDoc
 
-The postdoctoral fellow will help design efficient machine learning systems for human movement and behavior analysis on the network edge using distributed on- and off-body sensors (camera, microphone, or wearables) to tackle mental and brain health challenges. 
+The postdoctoral fellow will help design machine learning systems for human movement and behavior analysis using distributed on- and off-body sensors (camera, microphone, or wearables) to tackle mental and brain health challenges. 
 
 MINIMUM QUALIFICATIONS: 
 
