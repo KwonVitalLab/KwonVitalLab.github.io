@@ -60,8 +60,9 @@ This course will introduce students to fundamental theory and algorithms in mach
 ### Communication & Course Materials:
 
 
-- **Emory Canvas:** \
-The class syllabus, schedule, lecture slides, homework handouts/files, discussion, and grades are posted on this platform. Please ask all questions under the discussions section of Canvas. You are encouraged to answer other students’ questions when you know the answer. Do not ask or answer questions that are exactly homework questions.
+- **Google Drive:** \
+The class syllabus, schedule, lecture slides, homework handouts/files, discussion, and grades are posted on this platform. 
+<!-- Please ask all questions under the discussions section of Canvas. You are encouraged to answer other students’ questions when you know the answer. Do not ask or answer questions that are exactly homework questions. -->
 
 
 - **Email:** \
@@ -95,7 +96,8 @@ The final grade will be determined by a weighted average of all the graded items
 - **Class participation, punctuality, and attendance (10%):** \
   This is not based on attendance, even if you show up for all classes you can still get a 0. The goal is to encourage class participation and active dialogue. \
     This can be achieved in several different fashions:
-    - Asking questions in class, during office hours (TAs or instructor), or on Canvas discussion
+    - Asking questions in class, during office hours (TAs or instructor)
+    <!-- , or on Canvas discussion -->
     - Answering my questions in class
     - Participating in-class exercises and group projects.
     - Reviewing the lecture slides and corresponding readings/references after each class
@@ -138,7 +140,7 @@ The final grade will be determined by a weighted average of all the graded items
   You will work in groups of 2-3 for the final project.
 
   *Evaluation*: \
-  Each team has four deliverables on Canvas:
+  Each team has four deliverables:
     - Proposal (15%)
     - Spotlight: a short “madness” presentation (10%)
     - Final presentation (25%)
@@ -215,7 +217,7 @@ The final grade will be determined by a weighted average of all the graded items
 
 
   - Format \
-    Slides with content that motivate the problem, the approach, and the experimental results. A PDF version of the slides will be submitted to Canvas.
+    Slides with content that motivate the problem, the approach, and the experimental results. A PDF version of the slides will be submitted to Google Drive.
 
 
   - Grading \
