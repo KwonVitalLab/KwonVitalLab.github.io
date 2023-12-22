@@ -43,23 +43,23 @@ masters-ece-gt:
 #   description: Undergraduate Student
 
 undergrad-cs-gt:
-  icon: fa-solid fa-user-graduate
+  icon: fa-solid fa-pen-nib
   description: Undergrad Student, CS, GaTech
 
 undergrad-bio-gt:
-  icon: fa-solid fa-user-graduate
+  icon: fa-solid fa-pen-nib
   description: Undergrad Student, Biology, GaTech
 
 undergrad-cs-emory:
-  icon: fa-solid fa-user-graduate
+  icon: fa-solid fa-pen-nib
   description: Undergrad Student, CS, Emory
 
 undergrad-cs-bio-emory:
-  icon: fa-solid fa-user-graduate
+  icon: fa-solid fa-pen-nib
   description: Undergrad Student, CS and Biology, Emory
 
 undergrad-physics-math-emory:
-  icon: fa-solid fa-user-graduate
+  icon: fa-solid fa-pen-nib
   description: Undergrad Student, Physics and Math, Emory
 
 mascot:
