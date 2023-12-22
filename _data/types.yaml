@@ -112,6 +112,12 @@ search:
 
 # social media
 
+curriculum-vitae:
+  icon: fa-solid fa-address-card
+  text: CV
+  tooltip: Curriculum Vitae
+  link: $VALUE
+
 website-profile:
   icon: fa-solid fa-globe
   text: Website

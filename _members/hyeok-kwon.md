@@ -9,6 +9,7 @@ links:
   linkedin: hyeokhyen-kwon-ph-d-bab043aa
   twitter: HyeokhyenKwon
   google-scholar: OwLXC4YAAAAJ
+  curriculum-vitae: https://www.dropbox.com/scl/fi/kw4aj9ifnodourf4teyfx/Curriculum_Vitae___Hyeokhyen_Kwon.pdf?rlkey=9mvqjnmltydqfbyb8w8o5rkd2&dl=0
 ---
 
 hyeokhyen.kwon [at] emory.edu
@@ -17,7 +18,7 @@ Assistant Professor, Department of Biomedical Informatics, School of Medicine, E
 
 Visiting Scientist, School of Interactive Computing, College of Computing, Georgia Institute of Technology
 
-[Curriculum_Vitae](https://www.dropbox.com/scl/fi/kw4aj9ifnodourf4teyfx/Curriculum_Vitae___Hyeokhyen_Kwon.pdf?rlkey=9mvqjnmltydqfbyb8w8o5rkd2&dl=0)
+<!-- [Curriculum_Vitae](https://www.dropbox.com/scl/fi/kw4aj9ifnodourf4teyfx/Curriculum_Vitae___Hyeokhyen_Kwon.pdf?rlkey=9mvqjnmltydqfbyb8w8o5rkd2&dl=0) -->
 
 **Human-Centered Artificial Intelligence Researcher for Health**
 {:.center}
