@@ -18,7 +18,7 @@ Department of Biomedical Informatics \
 Office: Rm 4105, 4th Floor, Emory Woodruff Memorial Research Building (101 Woodruff Cir, Atlanta, GA 30322)
 
 
-Teaching Assistant: TBD ([mail](mailto:mail_TBD))
+Teaching Assistant: Seyedeh Somayyeh Mousavi ([mail](mailto:seyedeh.somayyeh.mousavi@emory.edu))
 
 
 ## Course Overview
@@ -60,9 +60,9 @@ This course will introduce students to fundamental theory and algorithms in mach
 ### Communication & Course Materials:
 
 
-- **Google Drive:** \
+- **Canvas:** \
 The class syllabus, schedule, lecture slides, homework handouts/files, discussion, and grades are posted on this platform. 
-<!-- Please ask all questions under the discussions section of Canvas. You are encouraged to answer other students’ questions when you know the answer. Do not ask or answer questions that are exactly homework questions. -->
+Please ask all questions under the discussions section of Canvas. You are encouraged to answer other students’ questions when you know the answer. Do not ask or answer questions that are exactly homework questions.
 
 
 - **Email:** \
@@ -70,10 +70,8 @@ If there are private matters specific to you (e.g., special accommodations, requ
 
 
 - **Office Hours**
-  - Hyeokhyen Kwon: TBD
-  - TA-TBD: TBD
-
-
+  - Instructor (Hyeokhyen Kwon): Mon. 1 - 3 pm @ Instuctor's office.
+  - TA (Seyedeh Somayyeh Mousavi): TBD
 
 
 ### Textbook(s):
@@ -96,8 +94,7 @@ The final grade will be determined by a weighted average of all the graded items
 - **Class participation, punctuality, and attendance (10%):** \
   This is not based on attendance, even if you show up for all classes you can still get a 0. The goal is to encourage class participation and active dialogue. \
     This can be achieved in several different fashions:
-    - Asking questions in class, during office hours (TAs or instructor)
-    <!-- , or on Canvas discussion -->
+    - Asking questions in class, during office hours (TAs or instructor), or on Canvas discussion
     - Answering my questions in class
     - Participating in-class exercises and group projects.
     - Reviewing the lecture slides and corresponding readings/references after each class
@@ -217,7 +214,7 @@ The final grade will be determined by a weighted average of all the graded items
 
 
   - Format \
-    Slides with content that motivate the problem, the approach, and the experimental results. A PDF version of the slides will be submitted to Google Drive.
+    Slides with content that motivate the problem, the approach, and the experimental results. A PDF version of the slides will be submitted to Canvas.
 
 
   - Grading \

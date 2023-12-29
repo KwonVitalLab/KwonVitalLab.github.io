@@ -10,7 +10,7 @@ description: Short version
 {:.center}
 **The course is cross-listed in both BMI534 and CS534, so please register for the one with available seats.**
 
-This is a summarized version of the syllabus. The detailed version of the syllabus will be available on the Course Google Drive.
+This is a summarized version of the syllabus. The detailed version of the syllabus will be available on the Course Canvas.
 
 ### Instructor:
 
@@ -62,9 +62,9 @@ This course will introduce students to fundamental theory and algorithms in mach
 ### Communication & Course Materials:
 
 
-- **Google Drive:** \
+- **Canvas:** \
 The class syllabus, schedule, lecture slides, homework handouts/files, discussion, and grades are posted on this platform. 
-<!-- Please ask all questions under the discussions section of Canvas. You are encouraged to answer other students’ questions when you know the answer. Do not ask or answer questions that are exactly homework questions. -->
+Please ask all questions under the discussions section of Canvas. You are encouraged to answer other students’ questions when you know the answer. Do not ask or answer questions that are exactly homework questions.
 
 
 - **Email:** \
@@ -94,7 +94,7 @@ Homeworks   | 35%    |
 Midterm   | 15%    |
 Project   | 40%    |
 
-The detailed version of the syllabus with instructions on each component and grading policy will be uploaded on Google Drive.
+The detailed version of the syllabus with instructions on each component and grading policy will be uploaded on Canvas.
 
 ## University Policies and Academic Integrity
 
@@ -103,7 +103,7 @@ Your submitted homework and _all code and writeup_ must be written by yourself.
 Any code and writeup that is found to be similar are grounds for an honor code investigation by the Director of Graduate Studies, Laney Graduate School, and the honor council.
 Additional extensions on assignments will be granted with appropriate documentation from the Office of Undergraduate Education (OUE)
 
-A syllabus with details of policies will be uploaded on Google Drive.
+A syllabus with details of policies will be uploaded on Canvas.
 
 
 ## (Tentative) Course Schedule
