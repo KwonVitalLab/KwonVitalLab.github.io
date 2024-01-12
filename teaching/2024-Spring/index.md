@@ -88,7 +88,17 @@ If there are private matters specific to you (e.g., special accommodations, requ
 ## Expectations & Grading:
 
 
-The final grade will be determined by a weighted average of all the graded items. Final grades may be curved up so that the class mean falls at least in a B range. The class median, mean, and standard deviation will be announced for each assignment and exam so that you have an idea of where you stand.
+The final grade will be determined by a weighted average of all the graded items. 
+
+Component   | Weight |
+--------- | ------ |
+Participation   |  10% |
+Homeworks   | 35%    |
+Midterm   | 15%    |
+Project   | 40%    |
+
+
+Final grades may be curved up so that the class mean falls at least in a B range. The class median, mean, and standard deviation will be announced for each assignment and exam so that you have an idea of where you stand.
 
 
 - **Class participation, punctuality, and attendance (10%):** \
@@ -125,9 +135,9 @@ The final grade will be determined by a weighted average of all the graded items
 
 
   *Topic*: \
-  The project topic is open-ended, but needs to be within the scope of the *biomedical application* of machine learning. \
+  The project topic is open-ended, but needs to be within the scope of the machine learning. \
   It can be an application project or an algorithmic project (developing a new learning algorithm or a novel variant of an existing state-of-the-art). \
-  Each team can select any biomedical problem and dataset, provided that the problem and tasks haven't been solved in the latest papers for the dataset.
+  Each team can select any problem and dataset, provided that the problem and tasks haven't been solved in the latest papers for the dataset.
   This means that for your proposed topic, you will need to study state-of-the-art papers and provide a justification for why it is interesting. \
   There is a strong preference for using a publicly available dataset. If you intend to collect the needed data yourself, keep in mind this is only one part of the expected project work and can often take considerable time. \
   Also, the topic can be related to your research interest, but *DO NOT* select graduate research mentored by your advisor as your topic.
