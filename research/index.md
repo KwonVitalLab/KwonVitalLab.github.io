@@ -20,9 +20,18 @@ nav:
   include button.html
   type="link"
   icon=""
-  text="Machine Learning with Edge and Cloud Computing"
-  link="research/#edge-computing-and-machine-learning-framework-using-multi-modal-ambient-mobile-and-wearable-sensors"
+  text="Smart Hospital with AI"
+  link="research/#smart-hospital-using-edge-computing-and-machine-learning-framework-with-multi-modal-ambient-mobile-and-wearable-sensors"
 %}
+
+{%
+  include button.html
+  type="link"
+  icon=""
+  text="Telehealth and AI"
+  link="research/#transforming-telehealth-platforms-using-artificial-intelligence-and-cloud-computing"
+%}
+
 
 {%
   include button.html
@@ -74,7 +83,7 @@ Building human activity recognition model involves training a machine learning m
 
 {% include section.html %}
 
-## Edge Computing and Machine Learning Framework Using Multi-modal Ambient, Mobile, and Wearable Sensors
+## Smart Hospital using Edge Computing and Machine Learning Framework with Multi-modal Ambient, Mobile, and Wearable Sensors
 
 ### Distributed Multi-view Camera System for Behavior Recognition Using Edge, Fog, and Cloud Computing System.
 
@@ -94,6 +103,18 @@ Spatial navigation of indoor space usage patterns reveals important cues about t
 
 {% include section.html %}
 
+## Transforming Telehealth Platforms using Artificial Intelligence and Cloud Computing
+
+### Multi-modal Machine Learning System for Assessing Remote Interviews
+
+{% include figure.html image="images/research/multi-modal-MH.png" width="60%" %}
+
+The current clinical practice of psychiatric evaluation suffers from subjectivity and bias, and requires highly skilled professionals that are often unavailable or unaffordable. Objective digital biomarkers have shown the potential to address these issues. In this work, we investigated whether behavioral and physiological signals, extracted from remote interviews, provided complimentary information for assessing psychiatric disorders. Time series of multimodal features were derived from four conceptual modes: facial expression, vocal expression, linguistic expression, and cardiovascular modulation. The features were extracted from simultaneously recorded audio and video of remote interviews using task-specific and foundation models. Averages, standard deviations, and hidden Markov model-derived statistics of these features were computed from 73 subjects. Four binary classification tasks were defined: detecting 1) any clinically-diagnosed psychiatric disorder, 2) major depressive disorder, 3) self-rated depression, and 4) self-rated anxiety. Each modality was evaluated individually and in combination. Multimodal features extracted from remote interviews revealed informative characteristics of clinically diagnosed and self-rated mental health status. The proposed multimodal approach has the potential to facilitate objective, remote, and low-cost assessment for low-burden automated mental health services.
+
+- Jiang, Zifan, Salman Seyedi, Emily Lynn Griner, Ahmed Abbasi, Ali Bahrami Rad, Hyeokhyen Kwon, Robert O. Cotes, and Gari D. Clifford. "Multimodal mental health assessment with remote interviews using facial, vocal, linguistic, and cardiovascular patterns." medRxiv (2023): 2023-09.
+- Jiang, Zifan, Salman Seyedi, Emily Griner, Ahmed Abbasi, Ali Bahrami Rad, Hyeokhyen Kwon, Robert O. Cotes, and Gari D. Clifford. "Evaluating and mitigating unfairness in multimodal remote mental health assessments." medRxiv (2023): 2023-11.
+
+
 ## Behavior Analytics for Health Assessments
 
 ### Movement Disorder Assessment with Kinematics Dataset
@@ -106,12 +127,7 @@ Freezing of gait (FOG) is a poorly understood heterogeneous gait disorder seen i
 
 ### Mental Health Assessment with Remote Interviews
 
-{% include figure.html image="images/research/multi-modal-MH.png" width="60%" %}
-
-The current clinical practice of psychiatric evaluation suffers from subjectivity and bias, and requires highly skilled professionals that are often unavailable or unaffordable. Objective digital biomarkers have shown the potential to address these issues. In this work, we investigated whether behavioral and physiological signals, extracted from remote interviews, provided complimentary information for assessing psychiatric disorders. Time series of multimodal features were derived from four conceptual modes: facial expression, vocal expression, linguistic expression, and cardiovascular modulation. The features were extracted from simultaneously recorded audio and video of remote interviews using task-specific and foundation models. Averages, standard deviations, and hidden Markov model-derived statistics of these features were computed from 73 subjects. Four binary classification tasks were defined: detecting 1) any clinically-diagnosed psychiatric disorder, 2) major depressive disorder, 3) self-rated depression, and 4) self-rated anxiety. Each modality was evaluated individually and in combination. Multimodal features extracted from remote interviews revealed informative characteristics of clinically diagnosed and self-rated mental health status. The proposed multimodal approach has the potential to facilitate objective, remote, and low-cost assessment for low-burden automated mental health services.
-
-- Jiang, Zifan, Salman Seyedi, Emily Lynn Griner, Ahmed Abbasi, Ali Bahrami Rad, Hyeokhyen Kwon, Robert O. Cotes, and Gari D. Clifford. "Multimodal mental health assessment with remote interviews using facial, vocal, linguistic, and cardiovascular patterns." medRxiv (2023): 2023-09.
-- Jiang, Zifan, Salman Seyedi, Emily Griner, Ahmed Abbasi, Ali Bahrami Rad, Hyeokhyen Kwon, Robert O. Cotes, and Gari D. Clifford. "Evaluating and mitigating unfairness in multimodal remote mental health assessments." medRxiv (2023): 2023-11.
+Refer ["Multi-modal AI System"](/research/#multi-modal-machine-learning-system-for-assessing-remote-interviews)
 
 ### Cognitive Impairment
 
