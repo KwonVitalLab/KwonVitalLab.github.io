@@ -114,6 +114,7 @@ The current clinical practice of psychiatric evaluation suffers from subjectivit
 - Jiang, Zifan, Salman Seyedi, Emily Lynn Griner, Ahmed Abbasi, Ali Bahrami Rad, Hyeokhyen Kwon, Robert O. Cotes, and Gari D. Clifford. "Multimodal mental health assessment with remote interviews using facial, vocal, linguistic, and cardiovascular patterns." medRxiv (2023): 2023-09.
 - Jiang, Zifan, Salman Seyedi, Emily Griner, Ahmed Abbasi, Ali Bahrami Rad, Hyeokhyen Kwon, Robert O. Cotes, and Gari D. Clifford. "Evaluating and mitigating unfairness in multimodal remote mental health assessments." medRxiv (2023): 2023-11.
 
+{% include section.html %}
 
 ## Behavior Analytics for Health Assessments
 
