@@ -13,14 +13,14 @@ nav:
   type="link"
   icon=""
   text="Human Activity Recognition"
-  link="research/#machine-learning-for-human-activity-recognition"
+  link="research/#generative-ai-and-cross-modality-techniques-for-human-activity-recognition"
 %}
 
 {%
   include button.html
   type="link"
   icon=""
-  text="Smart Hospital with AI"
+  text="Smart Hospital with Ubiquitous AI"
   link="research/#smart-hospital-using-edge-computing-and-machine-learning-framework-with-multi-modal-ambient-mobile-and-wearable-sensors"
 %}
 
@@ -28,8 +28,8 @@ nav:
   include button.html
   type="link"
   icon=""
-  text="Telehealth and AI"
-  link="research/#transforming-telehealth-platforms-using-artificial-intelligence-and-cloud-computing"
+  text="Telehealth with Fair AI"
+  link="research/#intelligent-telehealth-platforms-with-fair-artificial-intelligence-and-cloud-computing"
 %}
 
 
@@ -37,7 +37,7 @@ nav:
   include button.html
   type="link"
   icon=""
-  text="Health Analytics"
+  text="Health Analytics with XAI"
   link="research/#behavior-analytics-for-health-assessments"
 %}
 
@@ -52,7 +52,7 @@ nav:
 
 {% include section.html %}
 
-## Machine Learning for Human Activity Recognition
+## Generative AI and Cross-modality Techniques for Human Activity Recognition
 
 ### Opportunistic Use of Video Data for Wearable-based Human Activity Recognition
 
@@ -103,28 +103,29 @@ Spatial navigation of indoor space usage patterns reveals important cues about t
 
 {% include section.html %}
 
-## Transforming Telehealth Platforms using Artificial Intelligence and Cloud Computing
+## Intelligent Telehealth Platforms with Fair Artificial Intelligence and Cloud Computing
 
 ### Multi-modal Machine Learning System for Assessing Remote Interviews
 
 {% include figure.html image="images/research/multi-modal-MH.png" width="60%" %}
 
-The current clinical practice of psychiatric evaluation suffers from subjectivity and bias, and requires highly skilled professionals that are often unavailable or unaffordable. Objective digital biomarkers have shown the potential to address these issues. In this work, we investigated whether behavioral and physiological signals, extracted from remote interviews, provided complimentary information for assessing psychiatric disorders. Time series of multimodal features were derived from four conceptual modes: facial expression, vocal expression, linguistic expression, and cardiovascular modulation. The features were extracted from simultaneously recorded audio and video of remote interviews using task-specific and foundation models. Averages, standard deviations, and hidden Markov model-derived statistics of these features were computed from 73 subjects. Four binary classification tasks were defined: detecting 1) any clinically-diagnosed psychiatric disorder, 2) major depressive disorder, 3) self-rated depression, and 4) self-rated anxiety. Each modality was evaluated individually and in combination. Multimodal features extracted from remote interviews revealed informative characteristics of clinically diagnosed and self-rated mental health status. The proposed multimodal approach has the potential to facilitate objective, remote, and low-cost assessment for low-burden automated mental health services.
+This research addresses the challenges in current psychiatric evaluations, which often suffer from subjectivity, bias, and the need for highly skilled professionals. The study explores the use of objective digital biomarkers, derived from behavioral and physiological signals in remote interviews, for psychiatric disorder assessment. These signals include facial and vocal expressions, linguistic content, and cardiovascular modulation. The study used a multimodal approach, evaluating each modality individually and in combination, to assess mental health status. This approach aims to make mental health assessments more objective, remote, and cost-effective. The research also critically examines the fairness of these automated mental health assessment tools across different demographics (race, gender, education level, and age). Despite their growing importance, especially in telehealth, these tools can carry biases that may lead to unfair treatment of certain groups. The study systematically evaluated and discussed the need for reporting and mitigating these biases to build trust and ensure appropriate application in clinical settings. Using a developed multimodal mental health assessment system, the study analyzed how various features (facial expressions, voice acoustics, linguistic expressions, and cardiovascular patterns) affected fairness across demographics. The findings indicated that no single modality was consistently fair for all groups. Although methods to mitigate unfairness improved fairness levels, they also highlighted a trade-off between performance and fairness. This calls for a broader moral discussion and further investigation into the ethics and application of automated mental health assessment tools.
 
-- Jiang, Zifan, Salman Seyedi, Emily Lynn Griner, Ahmed Abbasi, Ali Bahrami Rad, Hyeokhyen Kwon, Robert O. Cotes, and Gari D. Clifford. "Multimodal mental health assessment with remote interviews using facial, vocal, linguistic, and cardiovascular patterns." medRxiv (2023): 2023-09.
+- Jiang, Z., Seyedi, S., Griner, E., Abbasi, A., Rad, A.B., Kwon, H., Cotes, R.O. and Clifford, G.D., 2024. Multimodal Mental Health Digital Biomarker Analysis from Remote Interviews using Facial, Vocal, Linguistic, and Cardiovascular Patterns. IEEE Journal of Biomedical and Health Informatics.
 - Jiang, Zifan, Salman Seyedi, Emily Griner, Ahmed Abbasi, Ali Bahrami Rad, Hyeokhyen Kwon, Robert O. Cotes, and Gari D. Clifford. "Evaluating and mitigating unfairness in multimodal remote mental health assessments." medRxiv (2023): 2023-11.
 
 {% include section.html %}
 
 ## Behavior Analytics for Health Assessments
 
-### Movement Disorder Assessment with Kinematics Dataset
+### Explainable Artificial Intelligence for Movement Disorder Assessment with Kinematics Dataset
 
 {% include figure.html image="images/research/xai4fog.png" width="60%" %}
 
-Freezing of gait (FOG) is a poorly understood heterogeneous gait disorder seen in patients with parkinsonism which contributes to significant morbidity and social isolation. FOG is currently measured with scales that are typically performed by movement disorders specialists (i.e., MDS-UPDRS), or through patient-completed questionnaires (N-FOG-Q), both of which are inadequate in addressing the heterogeneous nature of the disorder and are unsuitable for use in clinical trials. Moreover, prior studies that investigated machine-learning-based techniques to objectively phenotype FOG primarily used spectral analyses of kinematic data from few on-body locations during gait assessments, which lack details to capture complex whole-body movements. To overcome those limitations, we devise a method using explainable artificial intelligence models that can measure FOG objectively and accurately, hence improving our ability to identify it and accurately evaluate new therapies. The proposed model was able to explain how kinematic movements are associated with each FOG severity level that were highly consistent with the features, in which movement disorders specialists are trained to identify as characteristics of freezing. Overall, the proposed technique demonstrates that deep learning models’ capability to capture complex movement patterns in kinematic data can automatically and objectively score FOG with high accuracy. These models have the potential to discover novel kinematic biomarkers for FOG that can be used for hypothesis generation and potentially as clinical trial outcome measures.
+Traditional methods for diagnosing and assessing Parkinson’s disease (PD) often involve thorough physical examinations by specialists in movement disorders. These methods, including the use of scales like MDS-UPDRS or patient questionnaires (N-FOG-Q), can be subjective and vary between different raters. Particularly challenging is assessing Freezing of Gait (FOG), a complex aspect of parkinsonism that significantly affects quality of life. PD is also known to manifest in different motor subtypes, mainly tremor dominant (TD) and postural instability/gait difficulty (PIGD), each presenting unique challenges in balance and gait. Previous studies have employed machine learning to analyze kinematic data from body movements during gait assessments, but these often lacked the detail necessary to fully capture the complexity of whole-body movements in PD. To address this, a new method using explainable artificial intelligence models has been developed. These models can objectively and accurately measure PD, mirroring the assessment capabilities of human specialists. They show promise in accurately identifying FOG severity levels and PD subtypes, thereby aiding in the early identification of motor subtypes and predicting disease progression. Moreover, these models can potentially discover new kinematic biomarkers for PD, offering valuable insights for clinical trials and hypothesis generation.
 
 - Kwon, H., Clifford, G. D., Genias, I., Bernhard, D., Esper, C. D., Factor, S. A., & McKay, J. L. (2023). An explainable spatial-temporal graphical convolutional network to score freezing of gait in parkinsonian patients. Sensors, 23(4), 1766.
+- Gong, N. J., Clifford, G. D., Esper, C. D., Factor, S. A., McKay, J. L., & Kwon, H. (2023). Classifying Tremor Dominant and Postural Instability and Gait Difficulty Subtypes of Parkinson’s Disease from Full-Body Kinematics. Sensors, 23(19), 8330.
 
 ### Mental Health Assessment with Remote Interviews
 
