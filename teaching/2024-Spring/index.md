@@ -340,7 +340,7 @@ It is your responsibility to understand the [Laney Graduate School Honor Code](h
   assignments will be considered a violation of the honor code.
 
 
-- Midterm* 
+- Midterm: 
 
   The use of electronic devices during quizzes is forbidden and any incidents will be reported as honor code violations.
 
