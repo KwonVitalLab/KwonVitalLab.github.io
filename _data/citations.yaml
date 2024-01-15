@@ -48,9 +48,9 @@
   image: https://KwonVitalLab.github.io/images/publications/fingerspelling.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2023.09.11.23295212
-  title: Multimodal mental health assessment with remote interviews using facial,
-    vocal, linguistic, and cardiovascular patterns
+- id: doi:10.1109/JBHI.2024.3352075
+  title: Multimodal Mental Health Digital Biomarker Analysis from Remote Interviews
+    using Facial, Vocal, Linguistic, and Cardiovascular Patterns
   authors:
   - Zifan Jiang
   - Salman Seyedi
@@ -60,9 +60,9 @@
   - Hyeokhyen Kwon
   - Robert O. Cotes
   - Gari D. Clifford
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-09-12'
-  link: https://doi.org/gswc6m
+  publisher: IEEE Journal of Biomedical and Health Informatics
+  date: '2024-01-01'
+  link: https://doi.org/gtdjgn
   image: https://KwonVitalLab.github.io/images/publications/multi-modal-MH.png
   plugin: sources.py
   file: sources.yaml
@@ -161,8 +161,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JISPIN.2023.3337189
-  title: A Feasibility Study on Indoor Localization and Multiperson Tracking Using
-    Sparsely Distributed Camera Network With Edge Computing
+  title: A Feasibility Study on Indoor Localization and Multi-person Tracking Using
+    Sparsely Distributed Camera Network with Edge Computing
   authors:
   - Hyeokhyen Kwon
   - Chaitra Hegde
