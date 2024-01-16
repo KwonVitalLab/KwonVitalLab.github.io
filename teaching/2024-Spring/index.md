@@ -69,10 +69,13 @@ Please ask all questions under the discussions section of Canvas. You are encour
 If there are private matters specific to you (e.g., special accommodations, requesting alternative arrangements, etc.) or confidential matters you want to report, please email with the subject heading starting with “[CS534]”. I probably will not respond immediately but will try to respond within 24 hours(during specific busy periods I may need 48 hours). It is best to avoid last-minute questions that require immediate attention (e.g., before a deadline!). Plan accordingly.
 
 
-- **Office Hours**
-  - Instructor (Hyeokhyen Kwon): Mon. 1 - 3 pm @ Instuctor's office.
-  - TA (Seyedeh Somayyeh Mousavi): TBD
+- **Office Hours:**
+  - Instructor (Hyeokhyen Kwon): Mon. 1 - 3 pm @ Instuctor's office / [Zoom](https://zoom.us/j/2097437412?pwd=NXVuYkwwQlVIUlhEM2Z3dGkwT1I0dz09)
+  - TA (Seyedeh Somayyeh Mousavi): Thursdays (3-5 pm) @ BMI classroom / [Zoom](https://emory.zoom.us/j/92409485328)
 
+- **Remote Attendance:** \
+  - You can attend remotely only if necessary. This has to be communicated with the instructor and TA at least a week before. 
+  - [Zoom](https://emory.zoom.us/j/99927610990)
 
 ### Textbook(s):
 - Required
