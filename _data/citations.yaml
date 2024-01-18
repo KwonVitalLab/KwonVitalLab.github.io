@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1109/JISPIN.2024.3354248
+  title: Indoor Group Identification and Localization Using Privacy-Preserving Edge
+    Computing Distributed Camera Network
+  authors:
+  - Chaitra Hegde
+  - Yashar Kiarashi
+  - Amy D. Rodriguez
+  - Allan I. Levey
+  - Matthew Doiron
+  - Hyeokhyen Kwon
+  - Gari D. Clifford
+  publisher: IEEE Journal of Indoor and Seamless Positioning and Navigation
+  date: '2024-01-01'
+  link: https://doi.org/gtd2zq
+  image: https://KwonVitalLab.github.io/images/publications/grp-loc.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2023.11.21.23298803
   title: Evaluating and mitigating unfairness in multimodal remote mental health assessments
   authors:
@@ -161,8 +178,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JISPIN.2023.3337189
-  title: A Feasibility Study on Indoor Localization and Multiperson Tracking Using
-    Sparsely Distributed Camera Network With Edge Computing
+  title: A Feasibility Study on Indoor Localization and Multi-person Tracking Using
+    Sparsely Distributed Camera Network with Edge Computing
   authors:
   - Hyeokhyen Kwon
   - Chaitra Hegde
