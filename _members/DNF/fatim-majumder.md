@@ -1,7 +1,7 @@
 ---
 name: Fatim Majumder
 image: images/members/fatim-majumder.jpg
-role: na
+role: dnf
 aliases:
   - Fatim Majumder
 ---

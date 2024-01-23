@@ -1,7 +1,7 @@
 ---
 name: Vidhi Talera
 image: 
-role: na
+role: dnf
 aliases:
   - Vidhi Talera
 ---
