@@ -30,6 +30,7 @@ td, th {
    border: none!important;
 }
 </style>
+| 2024/02/09 | : 🏆 [Zikang Leng](https://zikangleng.github.io/), who is 3rd year GT CS undergrad student, received [Provost’s Academic Excellence Award](https://loveaward.oue.gatech.edu/provost-excellence-award/)! This award is for a student representing the most outstanding scholastic record from their college. Congratulations 🎉 ! | 
 | 2024/01/16 | : 📖 Our edge computing and ambient AI system now continuously identify, localize, and track group activities in large therapeutic buildings, which work is published in [J-ISPIN](https://ieeexplore.ieee.org/document/10400779). Stay tuned for our next work uncovering the behavior biomarkers related to social interaction in mild cognitive impairment! | 
 | 2024/01/10 | : 📖 Our multi-modal ML model that transforms telehealth platforms into intelligent system for quantifying psychiatric disorders from remote interviews is published in [JBHI](https://ieeexplore.ieee.org/document/10387689). We demonstrate how foundation models can extract useful digital biomarkers from facial, vocal expressions, linguistic, and cardiovascular patterns in our subjects. | 
 | 2023/11/30 | : 📖 Our Graph Trilateration for BLE-based indoor localization using sparsely distributed BLE beacons in a large and complex building is published in [Sensors](https://www.mdpi.com/1424-8220/23/23/9517)! This technology will be used for passive monitoring of activities of older adults living with cognitive impairments! | 
