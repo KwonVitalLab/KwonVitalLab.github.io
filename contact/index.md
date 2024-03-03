@@ -27,7 +27,7 @@ Rm 4105, 4th Floor, Emory Woodruff Memorial Research Building (101 Woodruff Cir,
 %}
 
 <!-- Photo -->
-{% include figure.html image="images/contact/BMI.png" width="50%" %}
+<!-- {% include figure.html image="images/contact/BMI.png" width="50%" %} -->
 
 
 {% capture content %}
