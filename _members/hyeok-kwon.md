@@ -15,6 +15,7 @@ links:
 hyeokhyen.kwon [at] emory.edu
 
 - Assistant Professor, [Department of Biomedical Informatics, School of Medicine, Emory University](https://med.emory.edu/departments/biomedical-informatics/index.html)
+- Assistant Professor, [Computer Science and Informatics Ph.D. Program, Emory University](https://computerscience.emory.edu/graduate/index.html) 
 - Program Faculty, [Department of Biomedical Engineering, Emory University and Georgia Institute of Technology](https://bme.gatech.edu/bme/)
 - Visiting Scientist, [School of Interactive Computing, College of Computing, Georgia Institute of Technology](https://www.ic.gatech.edu/)
 
