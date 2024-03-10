@@ -83,8 +83,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1109/JBHI.2024.3352075
-  title: Multimodal Mental Health Digital Biomarker Analysis from Remote Interviews
-    using Facial, Vocal, Linguistic, and Cardiovascular Patterns
+  title: Multimodal Mental Health Digital Biomarker Analysis From Remote Interviews
+    Using Facial, Vocal, Linguistic, and Cardiovascular Patterns
   authors:
   - Zifan Jiang
   - Salman Seyedi
@@ -95,7 +95,7 @@
   - Robert O. Cotes
   - Gari D. Clifford
   publisher: IEEE Journal of Biomedical and Health Informatics
-  date: '2024-01-01'
+  date: '2024-03-01'
   link: https://doi.org/gtdjgn
   image: https://KwonVitalLab.github.io/images/publications/multi-modal-MH.png
   plugin: sources.py
