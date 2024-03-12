@@ -38,6 +38,11 @@ masters-ece-gt:
   icon: fa-solid fa-user-graduate
   description: MS Student, ECE, GaTech
 
+masters-bme-gt:
+  icon: fa-solid fa-user-graduate
+  description: MS Student, BME, GaTech
+
+
 # undergrad:
 #   icon: fa-solid fa-user-graduate
 #   description: Undergraduate Student
