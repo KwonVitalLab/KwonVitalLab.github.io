@@ -14,6 +14,9 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: director" %}
 {% include section.html %}
 
+<!-- Research Scientist -->
+{% include list.html data="members" component="portrait" filters="role: research-scientist" %}
+
 <!-- PostDocs -->
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
 
