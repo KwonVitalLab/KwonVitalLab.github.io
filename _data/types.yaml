@@ -10,6 +10,10 @@ pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
+research-scientist:
+  icon: fa-solid fa-glasses
+  description: Research Scientist, BMI, Emory
+
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher, BMI, Emory
