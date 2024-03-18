@@ -20,6 +20,9 @@ nav:
 <!-- PostDocs -->
 {% include list.html data="members" component="portrait" filters="role: postdoc" %}
 
+<!-- Clinical Research Coordinator -->
+{% include list.html data="members" component="portrait" filters="role: clinical-reseaerch-coordinator" %}
+
 <!-- Software Engineers -->
 {% include list.html data="members" component="portrait" filters="role: software-engineer" %}
 
