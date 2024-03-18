@@ -18,6 +18,10 @@ postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Fellow, BMI, Emory
 
+clinical-reseaerch-coordinator:
+  icon: fa-solid fa-user-doctor
+  description: Clinical Research Coordinator, BMI, Emory
+
 software-engineer:
   icon: fa-solid fa-code
   description: Software Engineer, BMI, Emory
