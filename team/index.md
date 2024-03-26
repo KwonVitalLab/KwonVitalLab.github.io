@@ -48,10 +48,12 @@ nav:
 {% include section.html %}
 
 <!-- Social Photo -->
-## Team Gathering
+## Team Photo
 {:.center}
 
 {% capture content %}
+![image]({{ "/images/awards/Zekang-iswc-2023.JPG" | relative_url }})
+
 ![image]({{ "/images/socials/dinner-2023.12.06.jpeg" | relative_url }})
 
 ![image]({{ "/images/socials/BMI_party-2023.12.07/decoration-wall.jpg" | relative_url }})
