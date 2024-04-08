@@ -124,7 +124,7 @@ Final grades may be curved up so that the class mean falls at least in a B range
   Homework is due electronically at 11:59 PM ET on the date specified. Each student receives six 24-hour “late days” that can be used on any of the 5 homework throughout the semester. No more than 3 late days may be used on any single homework. If you have no more late days remaining, you will receive zero credit for any late homework. Additional extensions on homework will be granted with appropriate documentation.
 
 
-  Solutions for written homework will be reviewed in class after all students submit homework, including late submissions.
+  <!-- Solutions for written homework will be reviewed in class after all students submit homework, including late submissions. -->
 
 
 - **Midterm (15%):** \
