@@ -2,7 +2,7 @@
 title: Join
 nav:
   order: 5
-  tooltip: Musings and miscellany
+  tooltip: Career
 ---
 
 # Career
