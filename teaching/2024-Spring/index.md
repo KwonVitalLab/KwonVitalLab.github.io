@@ -388,12 +388,12 @@ The reading material listed below is optional and the lecture plan may deviate o
 19  | 3/27  | Prototype methods + Challenges with High-dimensional Data + Demensionality Reduction | KNN, Curse of dimensionality, sparse representation | Ch. 13 - 14; Ch. 18 (Hastie et al.)<br>Ch. 3.2 - 3.3 (Daumé III)<br>Ch. 5 (Welling)<br> Ch. 19.1 - 19.2; Ch. 23 (Shalev-Shwartz & Ben-David)<br>[Stanford PCA notes](http://cs229.stanford.edu/notes/cs229-notes10.pdf) | |
 20  | 4/1  | Dimensionality Reduction | Principal component analysis, locally-linear embedding, manifold learning | Ch. 14 (Hastie et al.) | |
 21  | 4/3  | Clustering + Mixture modeling | K-means, spectral clustering, expectation maximization | Ch. 14 (Hastie et al.) | **Homework #5 out (Due 4/16)** |
-22  | 4/8  | Deep Learning | | | |
-23  | 4/10  | Deep Learning | |
-24  | 4/15  | Emerging Topics and Application (Human Activity Recognition) | |
-25  | 4/17  | Emerging Topics and Application (Generative Artificial Intelligence) | |
+22  | 4/8  | Reinforcement Learning | Markov Decision Process | | |
+23  | 4/10  | Reinforcement Learning | Q-Learning |
+24  | 4/15  | Bayesian Network | Probabilistic Graphical Model |
+25  | 4/17  | Filtering + Time-series Analysis | Kalman Filter, Hidden Markov Model |
 21  | 4/22  | **Midterm Exam** | |
-27  | 4/24  | Project Presentations | |
+27  | 4/24  | Ethics in AI | |
 28  | 4/29  | Project Presentations | | | **Final Report Due 5/10** |
 
 
