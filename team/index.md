@@ -52,11 +52,14 @@ nav:
 {:.center}
 
 {% capture content %}
-![image]({{ "/images/socials/bme_star_ai_2024/arya_lauhitya.jpeg" | relative_url }})
+<!-- ![image]({{ "/images/socials/bme_star_ai_2024/arya_lauhitya.jpeg" | relative_url }}) -->
+![image]({{ "/images/socials/bme_star_ai_2024/arya_lauhitya-blur.png" | relative_url }})
 
-![image]({{ "/images/socials/bme_star_ai_2024/ketan_shoibolina.jpg" | relative_url }})
+<!-- ![image]({{ "/images/socials/bme_star_ai_2024/ketan_shoibolina.jpg" | relative_url }}) -->
+![image]({{ "/images/socials/bme_star_ai_2024/ketan_shoibolina-blur.png" | relative_url }})
 
-![image]({{ "/images/socials/bme_star_ai_2024/scarlett.png" | relative_url }})
+<!-- ![image]({{ "/images/socials/bme_star_ai_2024/scarlett.png" | relative_url }}) -->
+![image]({{ "/images/socials/bme_star_ai_2024/scarlett-blur.png" | relative_url }})
 
 ![image]({{ "/images/socials/provost_award/zikang-provost-with-thomas.png" | relative_url }})
 
