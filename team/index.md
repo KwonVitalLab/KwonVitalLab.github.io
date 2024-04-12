@@ -60,7 +60,7 @@ nav:
 
 ![image]({{ "/images/socials/provost_award/zikang-provost-with-thomas.png" | relative_url }})
 
-![image]({{ "/images/socials/provost_award/zikang-provost-awad.JPG" | relative_url }})
+![image]({{ "/images/socials/provost_award/zikang-provost-award.JPG" | relative_url }})
 
 ![image]({{ "/images/awards/Zekang-iswc-2023.JPG" | relative_url }})
 
