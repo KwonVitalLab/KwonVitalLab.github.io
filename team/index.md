@@ -52,6 +52,16 @@ nav:
 {:.center}
 
 {% capture content %}
+![image]({{ "/images/socials/bme_star_ai_2024/arya_lauhitya.jpeg" | relative_url }})
+
+![image]({{ "/images/socials/bme_star_ai_2024/ketan_shoibolina.jpg" | relative_url }})
+
+![image]({{ "/images/socials/bme_star_ai_2024/scarlett.png" | relative_url }})
+
+![image]({{ "/images/socials/provost_award/zikang-provost-with-thomas.png" | relative_url }})
+
+![image]({{ "/images/socials/provost_award/zikang-provost-awad.JPG" | relative_url }})
+
 ![image]({{ "/images/awards/Zekang-iswc-2023.JPG" | relative_url }})
 
 ![image]({{ "/images/socials/dinner-2023.12.06.jpeg" | relative_url }})
