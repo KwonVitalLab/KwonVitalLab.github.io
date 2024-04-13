@@ -95,6 +95,7 @@ We are looking for candidates who plan to work with us in person for at least a 
 ## Ph.D. Student
 
 If you are already admitted to following Ph.D. programs from Georgia Tech or Emory:
+- [Machine Learning at Georgia Tech](https://ml.gatech.edu/phd)
 - [Computer Science at Georgia Tech](https://www.ic.gatech.edu/)
 - [Electrical and Computer Engineering at Georgia Tech](https://ece.gatech.edu/)
 - [Bimedical Engineering at Georgia Tech-Emory](https://bme.gatech.edu/bme/)
