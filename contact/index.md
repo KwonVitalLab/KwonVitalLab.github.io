@@ -37,5 +37,11 @@ Rm 4105, 4th Floor, Emory Woodruff Memorial Research Building (101 Woodruff Cir,
 
 ![image]({{ "/images/contact/zoom-bkgrnd6-school-of-medicine1.jpg" | relative_url }})
 
+![image]({{ "/images/contact/13C10000-P14-013-1.jpg" | relative_url }})
+
+![image]({{ "/images/contact/HSRB-bridge-Tech-Tower-wide.jpg" | relative_url }})
+
+![image]({{ "/images/contact/georgiatech_uao_techtower-01.webp" | relative_url }})
+
 {% endcapture %}
 {% include grid.html content=content %}
