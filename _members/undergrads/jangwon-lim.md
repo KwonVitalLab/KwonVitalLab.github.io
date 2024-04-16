@@ -1,6 +1,6 @@
 ---
 name: Jangwon Lim
-image: images/members/jangwon-lim.JPG
+image: images/members/undergrads/jangwon-lim.JPG
 role: undergrad-cs-math-emory
 aliases:
   - Jangwon Lim

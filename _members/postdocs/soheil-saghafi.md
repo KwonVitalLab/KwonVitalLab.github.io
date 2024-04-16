@@ -1,6 +1,6 @@
 ---
 name: Soheil Saghafi
-image: images/members/soheil-saghafi.jpeg
+image: images/members/postdocs/soheil-saghafi.jpeg
 role: postdoc
 aliases:
   - Soheil Saghafi

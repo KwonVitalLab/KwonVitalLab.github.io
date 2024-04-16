@@ -1,6 +1,6 @@
 ---
 name: Rory Wu
-image: images/members/rory-wu.jpg
+image: images/members/undergrads/rory-wu.jpg
 role: undergrad-math-bio-emory
 aliases:
   - Rory Wu

@@ -1,6 +1,6 @@
 ---
 name: Fengran Wang
-image: images/members/fengran-wang.jpg
+image: images/members/ms-students/fengran-wang.jpg
 role: masters-cs-emory
 aliases:
   - Fengran Wang

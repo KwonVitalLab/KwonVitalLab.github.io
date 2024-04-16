@@ -1,6 +1,6 @@
 ---
 name: Esther Fu
-image: images/members/esther-fu.jpeg
+image: images/members/undergrads/esther-fu.jpeg
 role: undergrad-cs-bio-emory
 aliases:
   - Esther Fu

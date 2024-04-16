@@ -1,6 +1,6 @@
 ---
 name: Shoibolina Kaushik
-image: images/members/shoibolina-kaushik.jpg
+image: images/members/ms-students/shoibolina-kaushik.jpg
 role: masters-cs-emory
 aliases:
   - Shoibolina Kaushik

@@ -1,6 +1,6 @@
 ---
 name: Salman Seyedi
-image: images/members/salman-seyedi.jpg
+image: images/members/scientist/salman-seyedi.jpg
 role: research-scientist
 aliases:
   - Salman Seyedi

@@ -1,6 +1,6 @@
 ---
 name: Arya Mohan
-image: images/members/arya-mohan.jpeg
+image: images/members/ms-students/arya-mohan.jpeg
 role: masters-cs-gt
 aliases:
   - Arya Mohan

@@ -1,6 +1,6 @@
 ---
 name: Xiaofan Mu
-image: images/members/xiaofan-mu.png
+image: images/members/ms-students/xiaofan-mu.png
 role: masters-cs-emory
 aliases:
   - Xiaofan Mu

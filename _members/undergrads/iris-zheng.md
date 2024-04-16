@@ -1,6 +1,6 @@
 ---
 name: Iris Zheng
-image: images/members/iris-zheng.jpeg
+image: images/members/undergrads/iris-zheng.jpeg
 role: undergrad-cs-bio-emory
 aliases:
   - Iris Zheng

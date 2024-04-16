@@ -1,6 +1,6 @@
 ---
 name: Zikang Leng
-image: images/members/zikang-leng.png
+image: images/members/undergrads/zikang-leng.png
 role: undergrad-cs-gt
 aliases:
   - Zikang Leng

@@ -1,6 +1,6 @@
 ---
 name: Lauhitya Reddy
-image: images/members/lauhitya-reddy.jpg
+image: images/members/ms-students/lauhitya-reddy.jpg
 role: masters-bme-gt
 aliases:
   - Lauhitya Reddy

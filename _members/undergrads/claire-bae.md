@@ -1,6 +1,6 @@
 ---
 name: Claire Bae
-image: images/members/claire-bae.png
+image: images/members/undergrads/claire-bae.png
 role: undergrad-cs-humanhealth-emory
 aliases:
   - Claire Bae

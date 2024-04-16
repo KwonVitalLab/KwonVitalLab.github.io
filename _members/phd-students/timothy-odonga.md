@@ -1,6 +1,6 @@
 ---
 name: Timothy Odonga
-image: images/members/timothy-odonga.jpg
+image: images/members/phd-students/timothy-odonga.jpg
 role: phd-csi-emory
 aliases:
   - Timothy Odonga
