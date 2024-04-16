@@ -1,7 +1,7 @@
 ---
 name: Jabin Gong
-image: images/members/undergrads/jabin_pic.png
-role: alumni-bs
+image: images/members/undergrads/alumni/jabin_pic.png
+role: alumni-undergrads
 aliases:
   - Jabin Gong
 ---

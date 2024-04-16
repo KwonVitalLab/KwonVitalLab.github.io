@@ -1,7 +1,7 @@
 ---
 name: Kihoon (Alan) Kang
 image: images/members/alan-kang.jpeg
-role: dnf
+role: dnf-undergrads
 aliases:
   - Alan Kang
 ---

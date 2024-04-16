@@ -1,7 +1,7 @@
 ---
 name: Chaitra Hedge
-image: images/members/phd-students/chaitra-hedge.jpeg
-role: alumni-dr
+image: images/members/phd-students/alumni/chaitra-hedge.jpeg
+role: alumni-phd
 aliases:
   - Chaitra Hedge
 links:

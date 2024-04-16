@@ -1,7 +1,7 @@
 ---
 name: Anu Iyer
 image: images/members/anu-iyer.jpg
-role: dnf
+role: dnf-undergrads
 aliases:
   - Anu Iyer
 links:
