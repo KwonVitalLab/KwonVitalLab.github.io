@@ -1,8 +1,8 @@
 ---
 ---
 
-Computational Beha**Vi**or and Heal**T**h **A**na**L**ytics (**ViTAL**) Lab strives to develop artificial intelligence (AI) systems that are inclusive, accessible, fair, and reliable that will effectively improve the healthcare system. 
-Our mission is to develop *Ubiquitous Computing*, *Computer Vision*, and *Machine Learning* systems using distributed ambient, mobile, and wearable devices to monitor patients' conditions in hospitals or everyday life. We are also invested in deploying and testing the developed AI systems in real-world clinical and daily living environments actively collaborating with stakeholders in healthcare.
+Computational Beha**Vi**or and Heal**T**h **A**na**L**ytics (**ViTAL**) Lab strives to develop artificial intelligence (AI) systems that are *inclusive*, *accessible*, *fair*, and *reliable* that will effectively improve the healthcare system. 
+Our mission is to develop **Ubiquitous Computing**, **Computer Vision**, and **Machine Learning** systems using distributed ambient, mobile, and wearable devices to monitor patients' conditions in hospitals or everyday life. We are also invested in *deploying* and *testing* the developed AI systems in real-world clinical and daily living environments actively collaborating with *stakeholders* in healthcare.
 
 {%
   include button.html
