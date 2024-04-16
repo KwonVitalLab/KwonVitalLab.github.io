@@ -8,6 +8,15 @@ nav:
 # Team
 {:.center}
 
+{%
+  include button.html
+  type="link"
+  icon=""
+  text="Team Social"
+  link="team/#team-photo"
+%}
+
+
 {% include section.html %}
 
 <!-- Director -->
