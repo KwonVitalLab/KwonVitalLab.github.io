@@ -1,6 +1,6 @@
 ---
 name: Arvind Ramesh
-image: images/members/arvind-ramesh.jpg
+image: images/members/ms-students/arvind-ramesh.jpg
 role: masters-ece-gt
 aliases:
   - Arvind Ramesh

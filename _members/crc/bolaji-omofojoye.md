@@ -1,6 +1,6 @@
 ---
 name: Bolaji Omofojoye
-image: images/members/bolaji-omofojoye.png
+image: images/members/crc/bolaji-omofojoye.png
 role: clinical-reseaerch-coordinator
 aliases:
   - Bolaji Omofojoye
