@@ -17,7 +17,7 @@ Our mission is to develop *Ubiquitous Computing*, *Computer Vision*, and *Machin
   type="link"
   icon=""
   text="Acknowledgements"
-  link="#acknoledgements--sponsors"
+  link="#acknowledgments"
 %}
 
 
@@ -83,10 +83,10 @@ td, th {
 
 {% include section.html %}
 
-## Acknoledgements & Sponsors
+## Acknowledgments
 {:.center}
 
-Our work is sponsored by
+Our previous and current sponsors or collaborators include:
 {:.center}
 
 {% include portrait.html name="The James M. Cox Foundation" lookup="https://www.coxenterprises.com/our-impact/james-m-cox-foundation" image="images/sponsors/cox.jpeg" style="small" %}
