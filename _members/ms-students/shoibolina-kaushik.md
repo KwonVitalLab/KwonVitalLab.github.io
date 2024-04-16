@@ -4,6 +4,8 @@ image: images/members/shoibolina-kaushik.jpg
 role: masters-cs-emory
 aliases:
   - Shoibolina Kaushik
+links:
+  linkedin: shoibolina-kaushik
 ---
 
 shoibolina.kaushik@emory.edu [at] emory.edu
