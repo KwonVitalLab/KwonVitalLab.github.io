@@ -61,6 +61,10 @@ nav:
 {:.center}
 
 {% capture content %}
+![image]({{ "/images/socials/dinner-2024.04.19-1.jpg" | relative_url }})
+
+![image]({{ "/images/socials/dinner-2024.04.19-2.jpg" | relative_url }})
+
 <!-- ![image]({{ "/images/socials/bme_star_ai_2024/arya_lauhitya.jpeg" | relative_url }}) -->
 ![image]({{ "/images/socials/bme_star_ai_2024/arya_lauhitya-blur.png" | relative_url }})
 
