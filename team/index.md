@@ -61,6 +61,8 @@ nav:
 {:.center}
 
 {% capture content %}
+![image]({{ "/images/socials/bmi_outreach/image.png" | relative_url }})
+
 ![image]({{ "/images/socials/dinner-2024.04.19-1.jpg" | relative_url }})
 
 ![image]({{ "/images/socials/dinner-2024.04.19-2.jpg" | relative_url }})
