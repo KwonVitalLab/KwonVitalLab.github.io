@@ -20,13 +20,13 @@ We are looking for motivated and hard-working students, PostDocs, or Research As
   link="career/#postdoc"
 %}
 
-{%
+<!-- {%
   include button.html
   type="link"
   icon=""
   text="Internships/Research Associates"
   link="career/#internshipsresearch-associate"
-%}
+%} -->
 
 {%
   include button.html
@@ -84,11 +84,11 @@ We are looking for candidates who plan to work with us in person for at least a 
 If you are interested in working in ViTAL lab and consider having relevant skill sets, please apply to [Emory Careers](https://faculty-emory.icims.com/jobs/108198/post-doctoral-fellow---department-of-biomedical-informatics/job?mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) or contact [Hyeok](mailto:hyeokhyen.kwon@emory.edu).
 Let's have a chat! 
 
-## Internships/Research Associate
+<!-- ## Internships/Research Associate
 
 Please reach out to [Hyeok](mailto:hyeokhyen.kwon@emory.edu) so that we can discuss research or engineering opportunities in our lab.
 If you bring exciting research ideas, we will also find a way to connect them with our ongoing projects.
-We are looking for candidates who plan to work with us in person for at least a year.
+We are looking for candidates who plan to work with us in person for at least a year. -->
 
 {% include section.html %}
 
@@ -108,6 +108,8 @@ If you are from another department not in the list. It is okay, we can chat and 
 
 Otherwise, please first apply through the admission processes for each program! I highly recommend you to apply for [Computer Science at Emory with BMI core](https://med.emory.edu/departments/biomedical-informatics/education/phd.html). Our department is growing rapidly! Please contact [Hyeok](mailto:hyeokhyen.kwon@emory.edu) once you are admitted!
 
+{% include section.html %}
+
 ## Master's Student
 
 If you are already admitted to following Master's programs from Georgia Tech or Emory:
@@ -124,6 +126,7 @@ If you are from another department not in the list. It is okay, we can chat and 
 
 Otherwise, please first apply through the admission processes for each program! I highly reccomend you to apply for [Master's in Computer Science and Biomedical Infomatics](https://med.emory.edu/departments/biomedical-informatics/education/masters.html) program first. Please contact [Hyeok](mailto:hyeokhyen.kwon@emory.edu) once you are admitted!
 
+{% include section.html %}
 
 ## Undergraduate Student
 
