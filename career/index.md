@@ -96,10 +96,10 @@ We are looking for candidates who plan to work with us in person for at least a 
 
 If you are already admitted to following Ph.D. programs from Georgia Tech or Emory:
 - [Machine Learning at Georgia Tech](https://ml.gatech.edu/phd)
-- [Computer Science at Georgia Tech](https://www.ic.gatech.edu/)
+- [Computer Science at Georgia Tech](https://www.cc.gatech.edu/degree-programs/phd-computer-science)
 - [Electrical and Computer Engineering at Georgia Tech](https://ece.gatech.edu/)
 - [Bimedical Engineering at Georgia Tech-Emory](https://bme.gatech.edu/bme/)
-- [Computer Science at Emory](https://cs.emory.edu/graduate/general-information/app-info/)
+- [Computer Science at Emory](https://computerscience.emory.edu/graduate/admissions/index.html)
 <!-- - [Biomedical Informatics at Emory](https://med.emory.edu/departments/biomedical-informatics/education/phd.html) -->
 
 Please reach out to [Hyeok](mailto:hyeokhyen.kwon@emory.edu).
@@ -113,10 +113,10 @@ Otherwise, please first apply through the admission processes for each program! 
 ## Master's Student
 
 If you are already admitted to following Master's programs from Georgia Tech or Emory:
-- [Computer Science at Georgia Tech](https://www.ic.gatech.edu/)
+- [Computer Science at Georgia Tech](https://www.cc.gatech.edu/degree-programs/master-science-computer-science)
 - [Electrical and Computer Engineering at Georgia Tech](https://ece.gatech.edu/)
 - [Bimedical Engineering at Georgia Tech-Emory](https://bme.gatech.edu/bme/)
-- [Computer Science at Emory](https://cs.emory.edu/graduate/general-information/app-info/)
+- [Computer Science at Emory](https://computerscience.emory.edu/graduate/admissions/index.html)
 <!-- - [Biomedical Informatics at Emory](https://med.emory.edu/departments/biomedical-informatics/education/masters.html) -->
 
 Please reach out to [Hyeok](mailto:hyeokhyen.kwon@emory.edu) well in advance of the semester so that we can discuss research or engineering opportunities in our lab.
@@ -131,10 +131,10 @@ Otherwise, please first apply through the admission processes for each program! 
 ## Undergraduate Student
 
 If you are already a undergraduate student from Georgia Tech or Emory:
-- [Computer Science at Georgia Tech](https://www.ic.gatech.edu/)
+- [Computer Science at Georgia Tech](https://www.cc.gatech.edu/)
 - [Electrical and Computer Engineering at Georgia Tech](https://ece.gatech.edu/)
 - [Bimedical Engineering at Georgia Tech-Emory](https://bme.gatech.edu/bme/)
-- [Computer Science at Emory](https://cs.emory.edu/graduate/general-information/app-info/)
+- [Computer Science at Emory](https://computerscience.emory.edu/undergraduate/index.html)
 <!-- - [Biomedical Informatics at Emory](https://med.emory.edu/departments/biomedical-informatics/education/phd.html) -->
 
 Please reach out to [Hyeok](mailto:hyeokhyen.kwon@emory.edu) well in advance of the semester so that we can discuss research or engineering opportunities in our lab.
