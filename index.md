@@ -1,11 +1,10 @@
 ---
 ---
 
-
-{% capture lorem %}
-Currently, I am actively recruiting <u>1 - 2 Ph.D. students</u> from *[Emory CS](https://computerscience.emory.edu/graduate/admissions/index.html)*, *[GT CS](https://www.cc.gatech.edu/degree-programs/phd-computer-science)*, and *[GT ML](https://ml.gatech.edu/phd)* programs. Please contact [Dr. Kwon](mailto:hyeokhyen.kwon@gatech.edu) if you are interested in developing **Computer Vision**, **Ubiquitous Computing**, and **Machine Learning** techniques.
+{% capture recruiting %}
+Currently, We are actively recruiting <u>1 - 2 Ph.D. students</u> from *[Emory CS](https://computerscience.emory.edu/graduate/admissions/index.html)* and *[GT ML](https://ml.gatech.edu/phd)* programs. Please contact [Dr. Kwon](mailto:hyeokhyen.kwon@gatech.edu) if you are interested in developing **Computer Vision**, **Ubiquitous Computing**, and **Machine Learning** techniques.
 {% endcapture %}
-{% capture content %} {{ lorem }}{% endcapture %}
+{% capture content %} {{ recruiting }}{% endcapture %}
 {% include alert.html type="tip" content=content %}
 
 Computational Beha**Vi**or and Heal**T**h **A**na**L**ytics (**ViTAL**) Lab strives to develop artificial intelligence (AI) systems that are *inclusive*, *accessible*, *fair*, and *reliable* that will effectively improve the healthcare system. 
