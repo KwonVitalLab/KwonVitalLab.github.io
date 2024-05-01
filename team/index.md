@@ -12,7 +12,7 @@ nav:
   include button.html
   type="link"
   icon=""
-  text="Team Social"
+  text="Team Photo"
   link="team/#team-photo"
 %}
 
