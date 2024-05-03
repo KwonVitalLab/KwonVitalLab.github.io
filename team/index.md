@@ -61,24 +61,34 @@ nav:
 {:.center}
 
 {% capture content %}
-![image]({{ "/images/socials/bmi_outreach/image.png" | relative_url }})
+![image]({{ "/images/socials/dinner-chaitra-graduation.JPG" | relative_url }})
+
+![image]({{ "/images/conferences/bme_star_ai_2024/53693373672_5acd1f959e_c.jpg" | relative_url }})
+
+![image]({{ "/images/conferences/bme_star_ai_2024/53694258571_3d83f7c4a9_c.jpg" | relative_url }})
+
+![image]({{ "/images/conferences/bme_star_ai_2024/53694258641_4edeb3588e_c.jpg" | relative_url }})
+
+![image]({{ "/images/conferences/bme_star_ai_2024/53694472138_acf377f367_c.jpg" | relative_url }})
+
+![image]({{ "/images/outreach/bmi_outreach/image.png" | relative_url }})
 
 ![image]({{ "/images/socials/dinner-2024.04.19-1.jpg" | relative_url }})
 
 ![image]({{ "/images/socials/dinner-2024.04.19-2.jpg" | relative_url }})
 
-<!-- ![image]({{ "/images/socials/bme_star_ai_2024/arya_lauhitya.jpeg" | relative_url }}) -->
-![image]({{ "/images/socials/bme_star_ai_2024/arya_lauhitya-blur.png" | relative_url }})
+<!-- ![image]({{ "/images/conferences/bme_star_ai_2024/arya_lauhitya.jpeg" | relative_url }}) -->
+![image]({{ "/images/conferences/bme_star_ai_2024/arya_lauhitya-blur.png" | relative_url }})
 
-<!-- ![image]({{ "/images/socials/bme_star_ai_2024/ketan_shoibolina.jpg" | relative_url }}) -->
-![image]({{ "/images/socials/bme_star_ai_2024/ketan_shoibolina-blur.png" | relative_url }})
+<!-- ![image]({{ "/images/conferences/bme_star_ai_2024/ketan_shoibolina.jpg" | relative_url }}) -->
+![image]({{ "/images/conferences/bme_star_ai_2024/ketan_shoibolina-blur.png" | relative_url }})
 
-<!-- ![image]({{ "/images/socials/bme_star_ai_2024/scarlett.png" | relative_url }}) -->
-![image]({{ "/images/socials/bme_star_ai_2024/scarlett-blur.png" | relative_url }})
+<!-- ![image]({{ "/images/conferences/bme_star_ai_2024/scarlett.png" | relative_url }}) -->
+![image]({{ "/images/conferences/bme_star_ai_2024/scarlett-blur.png" | relative_url }})
 
-![image]({{ "/images/socials/provost_award/zikang-provost-with-thomas.png" | relative_url }})
+![image]({{ "/images/awards/provost_award/zikang-provost-with-thomas.png" | relative_url }})
 
-![image]({{ "/images/socials/provost_award/zikang-provost-award.JPG" | relative_url }})
+![image]({{ "/images/awards/provost_award/zikang-provost-award.JPG" | relative_url }})
 
 ![image]({{ "/images/awards/Zekang-iswc-2023.JPG" | relative_url }})
 
