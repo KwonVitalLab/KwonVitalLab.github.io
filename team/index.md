@@ -24,34 +24,48 @@ nav:
 {% include section.html %}
 
 <!-- Research Scientist -->
-{% include list.html data="members" component="portrait" filters="role: research-scientist" %}
+{% include list.html data="members" component="portrait" filters="role: research-scientist, alumni: false" %}
 
 <!-- PostDocs -->
-{% include list.html data="members" component="portrait" filters="role: postdoc" %}
+{% include list.html data="members" component="portrait" filters="role: postdoc, alumni: false" %}
 
 <!-- Clinical Research Coordinator -->
-{% include list.html data="members" component="portrait" filters="role: clinical-reseaerch-coordinator" %}
+{% include list.html data="members" component="portrait" filters="role: clinical-reseaerch-coordinator, alumni: false" %}
 
 <!-- Software Engineers -->
-{% include list.html data="members" component="portrait" filters="role: software-engineer" %}
+{% include list.html data="members" component="portrait" filters="role: software-engineer, alumni: false" %}
 
 <!-- PhD Students -->
-{% include list.html data="members" component="portrait" filters="role: phd-" %}
+{% include list.html data="members" component="portrait" filters="role: phd, alumni: false" %}
 
 <!-- MS Students -->
-{% include list.html data="members" component="portrait" filters="role: masters-" %}
+{% include list.html data="members" component="portrait" filters="role: masters, alumni: false" %}
 
 <!-- Undergrad students -->
-{% include list.html data="members" component="portrait" filters="role: undergrad-" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad, alumni: false" %}
 {% include section.html %}
 
 <!-- Alumni -->
 ## Alumni
 {:.center}
 
-{% include portrait.html name="Chaitra Hedge (Ph.D., Gatech ECE, 2023)<br>- Amazon" image="images/members/phd-students/alumni/chaitra-hedge.jpeg" %}
+<!-- Alumni: Staff -->
+{% include portrait.html name="Brun Das (MS, GT CS, 2023; Software Engineer, 2024)<br>- Autodesk" image="images/members/engineer/alumni/barun-das.jpg" style="small" %}
 
-{% include portrait.html name="N. Jabin Gong (BS, Gatech CS, 2023)<br>- School of Medicine, Stony Brook" image="images/members/undergrads/alumni/jabin_pic.png" %}
+<!-- Alumni: PhD -->
+{% include portrait.html name="Chaitra Hedge (Ph.D., GT ECE, 2023)<br>- Amazon" image="images/members/phd-students/alumni/chaitra-hedge.jpeg" style="small"%}
+
+<!-- Alumni: MS -->
+{% include portrait.html name="Arvind Ramesh (MS, GT ECE, 2024)<br>-Qualcomm" image="images/members/ms-students/alumni/arvind-ramesh.jpg" style="small" %}
+
+{% include portrait.html name="Ketan Anand (MS, GT ECE, 2024)<br>-TBD" image="images/members/ms-students/alumni/ketan-anand.JPG" style="small" %}
+
+<!-- Alumni: BS -->
+{% include portrait.html name="Zikang Leng (BS, Gatech CS, 2024)<br>- Ph.D in CS, GT" image="images/members/undergrads/alumni/zikang-leng.png" style="small" %}
+
+{% include portrait.html name="Matthew Ortega (BS, Emory Physics and Math, 2024)<br>- TBD" image="images/members/undergrads/alumni/matthew-ortega.jpg" style="small" %}
+
+{% include portrait.html name="N. Jabin Gong (BS, Gatech CS, 2023)<br>- School of Medicine, Stony Brook" image="images/members/undergrads/alumni/jabin_pic.png" style="small" %}
 <!-- {% include portrait.html name="N. Jabin gong (BS, Gatech CS, 2023)" lookup="jabin-gong" image="images/members/jabin_pic.png" style="small" %} -->
 
 {% include section.html %}
