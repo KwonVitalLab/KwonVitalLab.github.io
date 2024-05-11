@@ -2,6 +2,7 @@
 name: Barun Das
 image: images/members/engineer/barun-das.jpg
 role: software-engineer
+alumni: true
 aliases:
   - Barun Das
 links:

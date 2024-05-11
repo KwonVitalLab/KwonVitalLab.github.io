@@ -2,6 +2,7 @@
 name: Ketan Anand
 image: images/members/ms-students/ketan-anand.JPG
 role: masters-ece-gt
+alumni: true
 aliases:
   - Arvind Ramesh
 links:

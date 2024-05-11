@@ -2,6 +2,7 @@
 name: Matthew Ortega
 image: images/members/undergrads/matthew-ortega.jpg
 role: undergrad-physics-math-emory
+alumni: true
 aliases:
   - Matthew Ortega
 ---

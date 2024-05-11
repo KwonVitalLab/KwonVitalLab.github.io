@@ -2,6 +2,7 @@
 name: Arvind Ramesh
 image: images/members/ms-students/arvind-ramesh.jpg
 role: masters-ece-gt
+alumni: true
 aliases:
   - Arvind Ramesh
 links:
