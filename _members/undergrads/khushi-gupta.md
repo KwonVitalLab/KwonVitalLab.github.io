@@ -2,6 +2,7 @@
 name: Khushi Gupta
 image: images/members/undergrads/khushi-gupta.jpg
 role: undergrad-cs-gt
+alumni: false
 aliases:
   - Khushi Gupta
 links:

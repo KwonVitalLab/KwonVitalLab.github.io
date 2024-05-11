@@ -2,6 +2,7 @@
 name: Timothy Odonga
 image: images/members/phd-students/timothy-odonga.jpg
 role: phd-csi-emory
+alumni: false
 aliases:
   - Timothy Odonga
 links:

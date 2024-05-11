@@ -2,6 +2,7 @@
 name: Shoibolina Kaushik
 image: images/members/ms-students/shoibolina-kaushik.jpg
 role: masters-cs-emory
+alumni: false
 aliases:
   - Shoibolina Kaushik
 links:

@@ -2,6 +2,7 @@
 name: Salman Seyedi
 image: images/members/scientist/salman-seyedi.jpg
 role: research-scientist
+alumni: false
 aliases:
   - Salman Seyedi
 ---
