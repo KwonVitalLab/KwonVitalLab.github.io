@@ -50,7 +50,7 @@ nav:
 {:.center}
 
 <!-- Alumni: Staff -->
-{% include portrait.html name="Brun Das (MS, GT CS, 2023; Software Engineer, 2024)<br>- Autodesk" image="images/members/engineer/alumni/barun-das.jpg" style="small" %}
+{% include portrait.html name="Barun Das (MS, GT CS, 2023; Software Engineer, 2024)<br>- Autodesk" image="images/members/engineer/alumni/barun-das.jpg" style="small" %}
 
 <!-- Alumni: PhD -->
 {% include portrait.html name="Chaitra Hedge (Ph.D., GT ECE, 2023)<br>- Amazon" image="images/members/phd-students/alumni/chaitra-hedge.jpeg" style="small"%}
