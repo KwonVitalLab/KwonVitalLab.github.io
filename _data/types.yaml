@@ -30,6 +30,10 @@ phd-csi-emory:
   icon: fa-solid fa-graduation-cap
   description: PhD Student, CSI, Emory
 
+phd-robotics-gt:
+  icon: fa-solid fa-graduation-cap
+  description: PhD Student, Robotics, GaTech
+
 phd-ece-gt:
   icon: fa-solid fa-graduation-cap
   description: PhD Student, ECE, GaTech
