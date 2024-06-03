@@ -37,6 +37,7 @@ td, th {
    border: none!important;
 }
 </style>
+| 2024/06/03 | : 🏆 [Iris Zheng](https://kwonvitallab.github.io/members/undergrads/iris-zheng.html) won [Pathway Global Award](https://pathways.emory.edu/opportunities/internship-funding/index.html#section-internshipAwards) this Summer! Congratulations! 🎉 | 
 | 2024/05/30-2024/05/31 | : 🎙 Dr. Kwon was invited as a Speaker for [AI Artistic Human Performance Workshop](https://sites.gatech.edu/artisticaiperformance/) event in Georgia Tech! He gave a talk about "How Artificial Intelligence Can Be Used to Assess Human Movements?".| 
 | 2024/05/6 | : 🎙 Dr. Kwon was invited as a Speaker for [The Professional Society for Health Economics and Outcomes Research (ISPOR) 2024](https://www.ispor.org/home) event in Atlanta, GA! He gave a talk about "How Artificial Intelligence Can Be Used to Develop Clinical Outcome Assessments?", especially related to our recent achievements on Accessible and Ubiquitous AI for Brain Health.| 
 | 2024/04/12 | : 🎉 [Dr. Kwon](https://kwonvitallab.github.io/members/hyeok-kwon.html) is now officially affiliated with [Machine Learning Center](https://ml.gatech.edu/) and [ML Ph.D. program](https://ml.gatech.edu/people/faculty/phdprogramfaculty) at Georgia Institute of Technology! | 
