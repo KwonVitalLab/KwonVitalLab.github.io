@@ -37,6 +37,7 @@ td, th {
    border: none!important;
 }
 </style>
+| 2024/06/17 | : 🎙 🌌 At [Gait and Clinical Movement Analysis Society (GCMAS) Annual Meeting](https://na.eventscloud.com/website/64610/), [Timothy Odonga](https://kwonvitallab.github.io/members/phd-students/timothy-odonga.html) presented a poster proposing the FairML technique for Freezing-of-Gait in Parkinson's Disease. [Dr. Kwon](https://kwonvitallab.github.io/members/hyeok-kwon.html) gave two podium presentations for mobile computer vision for gait analysis and Bluetooth-based movement analysis for mild cognitive impairment. | 
 | 2024/06/12 | : 🎙 Dr. Kwon gave a talk to [United States Patent and Trademark Office Site Experience Education (USPTO SEE)](https://www.uspto.gov/patents/initiatives/site-experience-education-see-program) at Georgia Institute of Technology regarding our latest research in AI for Parkinson's Disease and Mild Cognitive Impairment. | 
 | 2024/06/03 | : 🏆 [Iris Zheng](https://kwonvitallab.github.io/members/undergrads/iris-zheng.html) won [Pathway Global Award](https://pathways.emory.edu/opportunities/internship-funding/index.html#section-internshipAwards) this Summer! Congratulations! 🎉 | 
 | 2024/05/30-2024/05/31 | : 🎙 Dr. Kwon was invited as a Speaker for [AI Artistic Human Performance Workshop](https://sites.gatech.edu/artisticaiperformance/) event in Georgia Tech! He gave a talk about "How Artificial Intelligence Can Be Used to Assess Human Movements?".| 

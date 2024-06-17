@@ -75,6 +75,8 @@ nav:
 {:.center}
 
 {% capture content %}
+![image]({{ "/images/conferences/gcmas_2024/timothy_poster_blurred.png" | relative_url }})
+
 ![image]({{ "/images/socials/dinner-chaitra-graduation.JPG" | relative_url }})
 
 ![image]({{ "/images/conferences/bme_star_ai_2024/53693373672_5acd1f959e_c.jpg" | relative_url }})
