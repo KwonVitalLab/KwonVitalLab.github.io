@@ -75,6 +75,10 @@ nav:
 {:.center}
 
 {% capture content %}
+![image]({{ "/images/conferences/gcmas_2024/Kwon_talk_gait.jpg" | relative_url }})
+
+![image]({{ "/images/conferences/gcmas_2024/Kwon_talk_mci.jpg" | relative_url }})
+
 ![image]({{ "/images/conferences/gcmas_2024/timothy_poster_blurred.png" | relative_url }})
 
 ![image]({{ "/images/socials/dinner-chaitra-graduation.JPG" | relative_url }})
