@@ -2,7 +2,7 @@
 ---
 
 {% capture recruiting %}
-Currently, We are actively recruiting <u>1 - 2 Ph.D. students</u> from *[Emory CS](https://computerscience.emory.edu/graduate/admissions/index.html)* and *[GT ML](https://ml.gatech.edu/phd/admissions)* programs. Please contact [Dr. Kwon](mailto:hyeokhyen.kwon@gatech.edu) if you are interested in developing **Computer Vision**, **Ubiquitous Computing**, and **Machine Learning** techniques for **Health Analytics**.
+Currently, we are actively recruiting <u>1 - 2 Ph.D. students</u> from *[Emory CS](https://computerscience.emory.edu/graduate/admissions/index.html)* and *[GT ML](https://ml.gatech.edu/phd/admissions)* programs. Please contact [Dr. Kwon](mailto:hyeokhyen.kwon@gatech.edu) or apply for those programs, if you are interested in **Computer Vision**, **Ubiquitous Computing**, and **Machine Learning** techniques for **Health Analytics**.
 {% endcapture %}
 {% capture content %} {{ recruiting }}{% endcapture %}
 {% include alert.html type="tip" content=content %}
