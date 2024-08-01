@@ -127,10 +127,15 @@ Traditional methods for diagnosing and assessing Parkinson’s disease (PD) ofte
 
 Refer ["Multi-modal AI System"](/research/#multi-modal-machine-learning-system-for-assessing-remote-interviews)
 
-### Cognitive Impairment
-
-Soon to come. _Stay tuned_
-
 ### Autism Spectrum Disorder
+
+{% include figure.html image="images/research/tcfd-vision-group-binary.png" width="60%" %}
+
+Rapid identification and accurate documentation of interfering and high-risk behaviors in ASD, such as aggression, self-injury, disruption, and restricted repetitive behaviors, are important in daily classroom environments for tracking intervention effectiveness and allocating appropriate resources to manage care needs. However, having a staff dedicated solely to observing is costly and uncommon in most educational settings. Recently, multiple research studies have explored developing automated, continuous, and objective tools using machine learning models to quantify behaviors in ASD. However, the majority of the work was conducted under a controlled environment and has not been validated for real-world conditions. In this work, we demonstrate that the latest advances in video-based group activity recognition techniques can quantify behaviors in ASD in real-world activities in classroom environments while preserving privacy. Our explainable model could detect the episode of problem behaviors with a 77% F1-score and capture distinctive behavior features in different types of behaviors in ASD. To the best of our knowledge, this is the first work that shows the promise of objectively quantifying behaviors in ASD in a real-world environment, which is an important step toward the development of a practical tool that can ease the burden of data collection for classroom staff.
+
+- Barun Das, Conor Anderson, Tania Villavicencio, Johanna Lantz, Jenny Foster, Theresa Hamlin, Ali Bahrami Rad, Gari D. Clifford, Hyeokhyen Kwon (2024). Explainable Artificial Intelligence for Quantifying Interfering and High-Risk Behaviors in Autism Spectrum Disorder in a Real-World Classroom Environment Using Privacy-Preserving Video Analysis. arXiv:2407.21691
+
+
+### Cognitive Impairment
 
 Soon to come. _Stay tuned_
