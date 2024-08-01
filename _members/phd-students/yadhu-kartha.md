@@ -3,6 +3,7 @@ name: Yadhu Kartha
 image: images/members/phd-students/yadhu-kartha.jpg
 role: phd-ml-gt
 alumni: false
+dnf: false
 aliases:
   - Yadhu Kartha
 links:

@@ -36,7 +36,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: software-engineer, alumni: false" %}
 
 <!-- PhD Students -->
-{% include list.html data="members" component="portrait" filters="role: phd, alumni: false" %}
+{% include list.html data="members" component="portrait" filters="role: phd, alumni: false, dnf:false" %}
 
 <!-- MS Students -->
 {% include list.html data="members" component="portrait" filters="role: masters, alumni: false" %}

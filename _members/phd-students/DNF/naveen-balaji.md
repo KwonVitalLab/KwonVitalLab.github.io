@@ -3,6 +3,7 @@ name: Naveen Balaji
 image: images/members/phd-students/naveen-balaji.png
 role: phd-robotics-gt
 alumni: false
+dnf: true
 aliases:
   - Naveen Balaji
 links:
