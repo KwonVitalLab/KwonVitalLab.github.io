@@ -38,7 +38,7 @@
   publisher: Sensors
   date: '2024-07-31'
   link: https://doi.org/gt5ssd
-  image: https://KwonVitalLab.github.io/images/publications/tremore_in_clinics.png
+  image: https://KwonVitalLab.github.io/images/publications/tremor_in_clinics.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1371/journal.pdig.0000413
