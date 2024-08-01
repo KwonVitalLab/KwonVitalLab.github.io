@@ -1,5 +1,46 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: arXiv:2407.21691
+  title: Explainable Artificial Intelligence for Quantifying Interfering and High-Risk
+    Behaviors in Autism Spectrum Disorder in a Real-World Classroom Environment Using
+    Privacy-Preserving Video Analysis
+  authors:
+  - Barun Das
+  - Conor Anderson
+  - Tania Villavicencio
+  - Johanna Lantz
+  - Jenny Foster
+  - Theresa Hamlin
+  - Ali Bahrami Rad
+  - Gari D. Clifford
+  - Hyeokhyen Kwon
+  publisher: arXiv
+  date: '2024-08-01'
+  link: https://arxiv.org/abs/2407.21691
+  image: https://KwonVitalLab.github.io/images/research/tcfd-vision-group-binary.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.3390/s24154960
+  title: Development of a Tremor Detection Algorithm for Use in an Academic Movement
+    Disorders Center
+  authors:
+  - Mark Saad
+  - Sofia Hefner
+  - Suzann Donovan
+  - Doug Bernhard
+  - Richa Tripathi
+  - Stewart A. Factor
+  - Jeanne M. Powell
+  - Hyeokhyen Kwon
+  - Reza Sameni
+  - Christine Doss Esper
+  - J. Lucas McKay
+  publisher: Sensors
+  date: '2024-07-31'
+  link: https://doi.org/gt5ssd
+  image: https://KwonVitalLab.github.io/images/publications/tremore_in_clinics.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1371/journal.pdig.0000413
   title: Evaluating and mitigating unfairness in multimodal remote mental health assessments
   authors:
