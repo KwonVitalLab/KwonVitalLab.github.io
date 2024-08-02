@@ -3,6 +3,7 @@ name: Xiaofan Mu
 image: images/members/ms-students/xiaofan-mu.png
 role: masters-cs-emory
 alumni: false
+dnf: false
 aliases:
   - Xiaofan Mu
 links:

@@ -3,6 +3,7 @@ name: Lauhitya Reddy
 image: images/members/ms-students/lauhitya-reddy.jpg
 role: masters-bme-gt
 alumni: false
+dnf: false
 aliases:
   - Lauhitya Reddy
 links:

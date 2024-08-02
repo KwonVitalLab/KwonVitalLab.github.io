@@ -39,7 +39,7 @@ nav:
 {% include list.html data="members" component="portrait" filters="role: phd, alumni: false, dnf:false" %}
 
 <!-- MS Students -->
-{% include list.html data="members" component="portrait" filters="role: masters, alumni: false" %}
+{% include list.html data="members" component="portrait" filters="role: masters, alumni: false, dnf:false" %}
 
 <!-- Undergrad students -->
 {% include list.html data="members" component="portrait" filters="role: undergrad, alumni: false" %}

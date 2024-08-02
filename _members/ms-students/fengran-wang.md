@@ -3,6 +3,7 @@ name: Fengran Wang
 image: images/members/ms-students/fengran-wang.jpg
 role: masters-cs-emory
 alumni: false
+dnf: false
 aliases:
   - Fengran Wang
 ---
