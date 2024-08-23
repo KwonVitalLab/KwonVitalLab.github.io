@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: arXiv:2408.10442
+  title: Feasibility of assessing cognitive impairment via distributed camera network
+    and privacy-preserving edge computing
+  authors:
+  - Chaitra Hegde
+  - Yashar Kiarashi
+  - Allan I Levey
+  - Amy D Rodriguez
+  - Hyeokhyen Kwon
+  - Gari D Clifford
+  publisher: arXiv
+  date: '2024-08-21'
+  link: https://arxiv.org/abs/2408.10442
+  image: https://KwonVitalLab.github.io/images/publications/cep_ep6_vision_only_moca.png
+  plugin: sources.py
+  file: sources.yaml
 - id: arXiv:2407.21691
   title: Explainable Artificial Intelligence for Quantifying Interfering and High-Risk
     Behaviors in Autism Spectrum Disorder in a Real-World Classroom Environment Using
@@ -33,7 +49,7 @@
   - Jeanne M. Powell
   - Hyeokhyen Kwon
   - Reza Sameni
-  - Christine D. Esper
+  - Christine Doss Esper
   - J. Lucas McKay
   publisher: Sensors
   date: '2024-07-31'

@@ -138,4 +138,13 @@ Rapid identification and accurate documentation of interfering and high-risk beh
 
 ### Cognitive Impairment
 
-Soon to come. _Stay tuned_
+{% include figure.html image="images/publications/cep_ep6_vision_only_moca.png" width="50%" %}
+
+Mild cognitive impairment (MCI) is characterized by a decline in cognitive functions beyond typical age and education-related expectations. Since, MCI has been linked to reduced social interactions and increased aimless movements, we aimed to automate the capture of these behaviors to enhance longitudinal monitoring.
+Using a privacy-preserving distributed camera network, we collected movement and social interaction data from groups of individuals with MCI undergoing therapy within a 1700$m^2$ space. 
+We developed movement and social interaction features, which were then used to train a series of machine learning algorithms to distinguish between higher and lower cognitive functioning MCI groups.
+A Wilcoxon rank-sum test revealed statistically significant differences between high and low-functioning cohorts in features such as linear path length, walking speed, change in direction while walking, entropy of velocity and direction change, and number of group formations in the indoor space.
+Despite lacking individual identifiers to associate with specific levels of MCI, a machine learning approach using the most significant features provided a 71\% accuracy.  
+We provide evidence to show that a privacy-preserving low-cost camera network using edge computing framework has the potential to distinguish between different levels of cognitive impairment from the movements and social interactions captured during group activities.
+
+- Hegde, Chaitra, Yashar Kiarashi, Allan I. Levey, Amy D. Rodriguez, Hyeokhyen Kwon, and Gari D. Clifford. "Feasibility of assessing cognitive impairment via distributed camera network and privacy-preserving edge computing." arXiv preprint arXiv:2408.10442 (2024).
