@@ -17,11 +17,13 @@ nav:
 %}
 
 
-{% include section.html %}
+{% include section.html size="wide" %}
 
 <!-- Director -->
 {% include list.html data="members" component="portrait" filters="role: director" %}
-{% include section.html %}
+
+<!-- Members -->
+{% include section.html size="wide" %}
 
 <!-- Research Scientist -->
 {% include list.html data="members" component="portrait" filters="role: research-scientist, alumni: false" %}
@@ -43,9 +45,10 @@ nav:
 
 <!-- Undergrad students -->
 {% include list.html data="members" component="portrait" filters="role: undergrad, alumni: false" %}
-{% include section.html %}
+
 
 <!-- Alumni -->
+{% include section.html size="wide" %}
 ## Alumni
 {:.center}
 
@@ -68,9 +71,9 @@ nav:
 {% include portrait.html name="N. Jabin Gong (BS, Gatech CS, 2023)<br>- School of Medicine, Stony Brook" image="images/members/undergrads/alumni/jabin_pic.png" style="small" %}
 <!-- {% include portrait.html name="N. Jabin gong (BS, Gatech CS, 2023)" lookup="jabin-gong" image="images/members/jabin_pic.png" style="small" %} -->
 
-{% include section.html %}
-
 <!-- Social Photo -->
+{% include section.html size="wide"%}
+
 ## Team Photo
 {:.center}
 
