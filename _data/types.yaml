@@ -67,6 +67,10 @@ undergrad-cs-gt:
   icon: fa-solid fa-pen-nib
   description: Undergrad Student, CS, GaTech
 
+undergrad-bme-gt:
+  icon: fa-solid fa-pen-nib
+  description: Undergrad Student, BME, GaTech
+
 undergrad-bio-gt:
   icon: fa-solid fa-pen-nib
   description: Undergrad Student, Biology, GaTech
