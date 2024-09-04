@@ -78,6 +78,12 @@ nav:
 {:.center}
 
 {% capture content %}
+![image]({{ "/images/conferences/ml_gt_student_2024/IMG_1048.jpg" | relative_url }})
+
+![image]({{ "/images/conferences/ml_gt_student_2024/IMG_0162.jpg" | relative_url }})
+
+![image]({{ "/images/conferences/ml_gt_student_2024/IMG_0159.jpg" | relative_url }})
+
 ![image]({{ "/images/conferences/gcmas_2024/Kwon_talk_gait.jpg" | relative_url }})
 
 ![image]({{ "/images/conferences/gcmas_2024/Kwon_talk_mci.jpg" | relative_url }})
