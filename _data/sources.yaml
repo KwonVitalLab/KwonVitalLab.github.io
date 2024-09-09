@@ -14,8 +14,8 @@
 - id: doi:10.1371/journal.pdig.0000413
   image: https://KwonVitalLab.github.io/images/publications/multi-modal-MH-fair.png
 
-# Arxiv - IMUGPT 2.0
-- id: arXiv:2402.01049
+# IMUGPT 2.0
+- id: doi:10.1145/3678545
   image: https://KwonVitalLab.github.io/images/publications/imugpt-imwut-2024-02.png
 
 # J-ISPIN 2024 - CEP-EP6 Group Localization
@@ -24,10 +24,6 @@
   buttons:
     - type: website
       link: https://github.com/cliffordlab/GroupPositionFromCamera
-
-# # MedRxiv 2023 - Multi-modal fairness
-# - id: doi:10.1101/2023.11.21.23298803
-#   image: https://KwonVitalLab.github.io/images/publications/multi-modal-MH-fair.png
 
 # GenAI4PC
 - id: arXiv:2310.12085
