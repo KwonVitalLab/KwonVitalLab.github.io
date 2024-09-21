@@ -9,7 +9,7 @@ links:
   linkedin: hyeokhyen-kwon-ph-d-bab043aa
   twitter: HyeokhyenKwon
   google-scholar: OwLXC4YAAAAJ
-  curriculum-vitae: https://www.dropbox.com/scl/fi/kw4aj9ifnodourf4teyfx/Curriculum_Vitae___Hyeokhyen_Kwon.pdf?rlkey=9mvqjnmltydqfbyb8w8o5rkd2&dl=0
+  curriculum-vitae: https://drive.google.com/file/d/1XcDpeg8BlX8tgu6HxOonaxbMsyz2UO0y/view?usp=sharing
 ---
 
 hyeokhyen.kwon [at] emory.edu
