@@ -37,6 +37,7 @@ td, th {
    border: none!important;
 }
 </style>
+| 2024/10/17 | : 🏆 Dr. Kwon’s Ph.D. work from Georgia Tech, [IMUTube](https://licensing.research.gatech.edu/technology/imutube-converting-videos-human-activity-virtual-imu-data-streams) (Video-to-wearable cross-modality human activity recognition framework), is accepted for a *US patent*. This work demonstrates a new research direction of cross-modality generative AI and transfer learning framework for human activity recognition. |
 | 2024/10/09 | : 🎙 Dr. Kwon chaired [Human Activity Recognition session](https://www.ubicomp.org/ubicomp-iswc-2024/conference-program/#session-9A) at [Ubicomp/ISWC 2024](https://www.ubicomp.org/ubicomp-iswc-2024/). |
 | 2024/10/06 | : 🎙 Dr. Kwon co-orgnized [UbiComp Mental Health Sensing and Intervention](https://ubicomp-mental-health.github.io/) workshop at [Ubicomp/ISWC 2024](https://www.ubicomp.org/ubicomp-iswc-2024/). |
 | 2024/09/10 | : 🌌 At [Wearable Innovations for Health Equity](https://research.gatech.edu/ipat/event/wearables-sep10-2024), [Timothy Odonga](https://kwonvitallab.github.io/members/phd-students/timothy-odonga.html) presented a poster proposing the FairML technique for Wearable-based Freezing-of-Gait Detections in Parkinson's Disease. His work highlights the importance of addressing AI biases when it comes to supporting patients from diverse backgrounds with very challenging conditions related to fall risk and decreased quality of life. | 
