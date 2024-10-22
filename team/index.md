@@ -56,7 +56,7 @@ nav:
 {% include portrait.html name="Barun Das (MS, GT CS, 2023; Software Engineer, 2024)<br>- Autodesk" image="images/members/engineer/alumni/barun-das.jpg" style="small" %}
 
 <!-- Alumni: PhD -->
-{% include portrait.html name="Chaitra Hedge (Ph.D., GT ECE, 2023)<br>- Amazon" image="images/members/phd-students/alumni/chaitra-hedge.jpeg" style="small"%}
+{% include portrait.html name="Chaitra Hedge (Ph.D., GT ECE, 2023)<br>- Senior Data Scientist, Walmart" image="images/members/phd-students/alumni/chaitra-hedge.jpeg" style="small"%}
 
 <!-- Alumni: MS -->
 {% include portrait.html name="Arvind Ramesh (MS, GT ECE, 2024)<br>- Qualcomm" image="images/members/ms-students/alumni/arvind-ramesh.jpg" style="small" %}
