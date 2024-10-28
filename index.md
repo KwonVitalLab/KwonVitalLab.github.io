@@ -1,11 +1,11 @@
 ---
 ---
 
-{% capture recruiting %}
+<!-- {% capture recruiting %}
 Currently, we are actively recruiting <u>1 - 2 Ph.D. students</u> from *[Emory CS](https://computerscience.emory.edu/graduate/admissions/index.html)* and *[GT ML](https://ml.gatech.edu/phd/admissions)* programs. Please contact [Dr. Kwon](mailto:hyeokhyen.kwon@gatech.edu) or apply for those programs, if you are interested in **Computer Vision**, **Ubiquitous Computing**, and **Machine Learning** techniques for **Health Analytics**.
 {% endcapture %}
 {% capture content %} {{ recruiting }}{% endcapture %}
-{% include alert.html type="tip" content=content %}
+{% include alert.html type="tip" content=content %} -->
 
 Computational Beha**Vi**or and Heal**T**h **A**na**L**ytics (**ViTAL**) Lab strives to develop **Patient-oriented/participatory Artificial Intelligence (AI) systems** that are *Inclusive*, *Accessible*, and *Ethical* to effectively improve the **Healthcare** system. 
 Our mission is to develop **Ubiquitous Computing**, **Computer Vision**, and **Machine Learning** systems using distributed ambient, mobile, and wearable devices to monitor patients' conditions in hospitals or everyday life. We are also invested in *deploying* and *testing* the developed AI systems in real-world clinical and daily living environments, actively collaborating with *stakeholders* in healthcare.
