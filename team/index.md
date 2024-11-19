@@ -78,6 +78,8 @@ nav:
 {:.center}
 
 {% capture content %}
+![image]({{ "/images/socials/IMG_7594.jpg" | relative_url }})
+
 ![image]({{ "/images/conferences/ml_gt_student_2024/IMG_1048.jpg" | relative_url }})
 
 ![image]({{ "/images/conferences/ml_gt_student_2024/IMG_0162.jpg" | relative_url }})
