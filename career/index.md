@@ -106,7 +106,7 @@ Please reach out to [Hyeok](mailto:hyeokhyen.kwon@emory.edu).
 
 If you are from another department not in the list. It is okay, we can chat and see if we have a good fit! Please contact [Hyeok](mailto:hyeokhyen.kwon@emory.edu).
 
-Otherwise, please first apply through the admission processes for each program! I highly recommend you to apply for [Computer Science at Emory with BMI core](https://med.emory.edu/departments/biomedical-informatics/education/phd.html). Our department is growing rapidly! Please contact [Hyeok](mailto:hyeokhyen.kwon@emory.edu) once you are admitted!
+Otherwise, please first apply through the admission processes for each program, [Computer Science and Informatics at Emory](https://med.emory.edu/departments/biomedical-informatics/education/phd.html) or [Machine Learning at Georgia Tech](https://ml.gatech.edu/phd/admissions)! Please contact [Hyeok](mailto:hyeokhyen.kwon@emory.edu) once you are admitted!
 
 {% include section.html %}
 
@@ -124,7 +124,9 @@ If you bring exciting research ideas, we will also find a way to connect them wi
 
 If you are from another department not in the list. It is okay, we can chat and see if we have a good fit! Please contact [Hyeok](mailto:hyeokhyen.kwon@emory.edu).
 
-Otherwise, please first apply through the admission processes for each program! I highly reccomend you to apply for [Master's in Computer Science and Biomedical Infomatics](https://med.emory.edu/departments/biomedical-informatics/education/masters.html) program first. Please contact [Hyeok](mailto:hyeokhyen.kwon@emory.edu) once you are admitted!
+Otherwise, please first apply through the admission processes for each program! 
+<!-- I highly recomend you to apply for [Master's in Computer Science and Biomedical Infomatics](https://med.emory.edu/departments/biomedical-informatics/education/masters.html) program.  -->
+Please contact [Hyeok](mailto:hyeokhyen.kwon@emory.edu) once you are admitted!
 
 {% include section.html %}
 
