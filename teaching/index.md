@@ -10,9 +10,12 @@ nav:
 
 {% include section.html %}
 
+<!-- - **Fall 2025**: [Computer Vision](/teaching/2025-Fall) -->
+
 - **Fall 2024**: BMI 500 - Introduction to Ethical Data Science and Informatics
 
-    Lecture Topic: Edge Computing and Human Activity Analysis
+    Lecture Topic: Edge Computing and Multimodal Human Behavior Sensing
+
 
 ## Past
 
