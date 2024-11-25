@@ -78,7 +78,10 @@ nav:
 {:.center}
 
 {% capture content %}
-![image]({{ "/images/socials/dinner-2024.11.23.png" | relative_url }})
+![image]({{ "/images/socials/dinner-2024.11.23-2.jpg" | relative_url }})
+
+![image]({{ "/images/socials/dinner-2024.11.23-3.jpg" | relative_url }})
+<!-- ![image]({{ "/images/socials/dinner-2024.11.23.png" | relative_url }}) -->
 
 ![image]({{ "/images/socials/IMG_7594.jpg" | relative_url }})
 
