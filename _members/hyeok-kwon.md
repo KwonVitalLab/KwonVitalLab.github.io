@@ -29,7 +29,11 @@ hyeokhyen.kwon [at] gatech.edu
 
 Hyeokhyen Kwon, or Hyeok, is an Assistant Professor at the Department of Biomedical Informatics at Emory University School of Medicine, a Program Faculty of Computer Science and Informatics at Emory University, a Program Faculty at the Department of Biomedical Engineering at Emory University and Georgia Institute of Technology, and a Program Faculty of Machine Learning Center at Georgia Institute of Technology. 
 
-His research focuses on designing accessible, scalable, secure, and privacy-preserving machine learning systems using distributed on- and off-body sensors to tackle brain health challenges. His applications lie at the intersection of computer vision, machine learning, ubiquitous computing, and human activity recognition. Dr. Kwon and his team actively collaborate with stakeholders in healthcare systems across the United States to validate the AI-driven clinical decision support systems in real-world clinics or daily living environments. He has published in top-tiered journals and conferences, such as CVPR, ICCV, Ubicomp/ISWC, and IMWUT. His research has received multiple supports from federal agencies, such as NIH, industry, such as Oracle or Samsung, or philanthropic foundations, such as Cox.
+His research focuses on designing accessible, scalable, secure, and privacy-preserving machine learning systems using distributed on- and off-body sensors to tackle healthcare challenges. 
+His applications lie at the intersection of computer vision, machine learning, ubiquitous computing, and human activity recognition. 
+Dr. Kwon and his team actively collaborate with stakeholders in healthcare systems across the United States to validate the AI-driven clinical decision support systems in real-world clinics or daily living environments. 
+He has published in top-tiered journals and conferences, such as CVPR, ICCV, Ubicomp/ISWC, and IMWUT. 
+His research has received multiple support from federal, industry, and philanthropic agencies, including NIH, Oracle, Samsung, and Cox foundations.
 
 He received his Ph.D. in Computer Science degree at the School of Interactive Computing at Georgia Tech, Atlanta, GA, co-advised by Prof. Thomas Ploetz and Prof. Gregory D. Abowd, and a member of Ubicomp and CBA lab.
 His Ph.D. research received a Samsung Ph.D. Fellowship and an Oracle for Research Award, and he was named a finalist in the Gaetano Borriello Outstanding Student Award at Ubicomp/ISWC 2021, as well as a finalist in Oracle for Research Fellow. 
