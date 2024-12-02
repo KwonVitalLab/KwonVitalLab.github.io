@@ -33,7 +33,7 @@ His research focuses on designing accessible, scalable, secure, and privacy-pres
 His applications lie at the intersection of computer vision, machine learning, ubiquitous computing, and human activity recognition. 
 Dr. Kwon and his team actively collaborate with stakeholders in healthcare systems across the United States to validate the AI-driven clinical decision support systems in real-world clinics or daily living environments. 
 He has published in top-tiered journals and conferences, such as CVPR, ICCV, Ubicomp/ISWC, and IMWUT. 
-His research has received multiple support from federal, industry, and philanthropic agencies, including NIH, Oracle, Samsung, and Cox foundations.
+His research has been accepted for US patents and received multiple support from federal, industry, and philanthropic agencies, including NIH, Oracle, Samsung, and Cox foundations.
 
 He received his Ph.D. in Computer Science degree at the School of Interactive Computing at Georgia Tech, Atlanta, GA, co-advised by Prof. Thomas Ploetz and Prof. Gregory D. Abowd, and a member of Ubicomp and CBA lab.
 His Ph.D. research received a Samsung Ph.D. Fellowship and an Oracle for Research Award, and he was named a finalist in the Gaetano Borriello Outstanding Student Award at Ubicomp/ISWC 2021, as well as a finalist in Oracle for Research Fellow. 
