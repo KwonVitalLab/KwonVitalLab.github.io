@@ -1,13 +1,13 @@
 # Arvix - Trisha Mobile Vision Gait Impairment
-- id: arXiv:2412.01056
-  image: https://KwonVitalLab.github.io/images/publications/arXiv-2412.01056.png
+- id: arxiv:2412.01056
+  image: https://KwonVitalLab.github.io/images/publications/arxiv-2412.01056.png
 
 # Arxiv - CEP Vision-only MoCA
-- id: arXiv:2408.10442
+- id: arxiv:2408.10442
   image: https://KwonVitalLab.github.io/images/publications/cep_ep6_vision_only_moca.png
 
 # Arxiv - TCFD Vision - Group & Binary
-- id: arXiv:2407.21691
+- id: arxiv:2407.21691
   image: https://KwonVitalLab.github.io/images/research/tcfd-vision-group-binary.png
 
 # Sensors - Tremor in Clinics (Lucas)
@@ -30,7 +30,7 @@
       link: https://github.com/cliffordlab/GroupPositionFromCamera
 
 # GenAI4PC
-- id: arXiv:2310.12085
+- id: arxiv:2310.12085
   image: https://KwonVitalLab.github.io/images/publications/genai4pc.png
 
 # ASSET 2023 - FingerSpeller

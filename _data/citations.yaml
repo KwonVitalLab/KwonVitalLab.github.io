@@ -1,6 +1,8 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: arXiv:2412.01056
+# DO NOT EDIT, GENERATED AUTOMATICALLY
+
+- id: arxiv:2412.01056
   title: Classifying Simulated Gait Impairments using Privacy-preserving Explainable
     Artificial Intelligence and Mobile Phone Videos
   authors:
@@ -14,10 +16,10 @@
   publisher: arXiv
   date: '2024-12-03'
   link: https://arxiv.org/abs/2412.01056
-  image: https://KwonVitalLab.github.io/images/publications/arXiv-2412.01056.png
+  image: https://KwonVitalLab.github.io/images/publications/arxiv-2412.01056.png
   plugin: sources.py
   file: sources.yaml
-- id: arXiv:2408.10442
+- id: arxiv:2408.10442
   title: Feasibility of assessing cognitive impairment via distributed camera network
     and privacy-preserving edge computing
   authors:
@@ -33,7 +35,7 @@
   image: https://KwonVitalLab.github.io/images/publications/cep_ep6_vision_only_moca.png
   plugin: sources.py
   file: sources.yaml
-- id: arXiv:2407.21691
+- id: arxiv:2407.21691
   title: Explainable Artificial Intelligence for Quantifying Interfering and High-Risk
     Behaviors in Autism Spectrum Disorder in a Real-World Classroom Environment Using
     Privacy-Preserving Video Analysis
@@ -102,9 +104,8 @@
   - Elizabeth Bruda
   - Hyeokhyen Kwon
   - "Thomas Pl\xF6tz"
-  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
-    Technologies
-  date: '2024-08-22'
+  publisher: Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.
+  date: '2024-09-09'
   link: https://doi.org/gvj8q8
   image: https://KwonVitalLab.github.io/images/publications/imugpt-imwut-2024-02.png
   plugin: sources.py
@@ -129,7 +130,7 @@
     link: https://github.com/cliffordlab/GroupPositionFromCamera
   plugin: sources.py
   file: sources.yaml
-- id: arXiv:2310.12085
+- id: arxiv:2310.12085
   title: On the Benefit of Generative Foundation Models for Human Activity Recognition
   authors:
   - Zikang Leng
