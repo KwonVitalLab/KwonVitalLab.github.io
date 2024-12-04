@@ -1,7 +1,5 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-# DO NOT EDIT, GENERATED AUTOMATICALLY
-
 - id: arxiv:2412.01056
   title: Classifying Simulated Gait Impairments using Privacy-preserving Explainable
     Artificial Intelligence and Mobile Phone Videos
@@ -104,8 +102,9 @@
   - Elizabeth Bruda
   - Hyeokhyen Kwon
   - "Thomas Pl\xF6tz"
-  publisher: Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.
-  date: '2024-09-09'
+  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
+    Technologies
+  date: '2024-08-22'
   link: https://doi.org/gvj8q8
   image: https://KwonVitalLab.github.io/images/publications/imugpt-imwut-2024-02.png
   plugin: sources.py
