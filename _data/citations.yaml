@@ -14,7 +14,7 @@
   publisher: arXiv
   date: '2024-12-03'
   link: https://arxiv.org/abs/2412.01056
-  image: https://KwonVitalLab.github.io/images/publications/arxiv-2412.01056.png
+  image: https://KwonVitalLab.github.io/images/publications/arXiv-2412.01056.jpg
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2408.10442
@@ -102,9 +102,8 @@
   - Elizabeth Bruda
   - Hyeokhyen Kwon
   - "Thomas Pl\xF6tz"
-  publisher: Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous
-    Technologies
-  date: '2024-08-22'
+  publisher: Proc. ACM Interact. Mob. Wearable Ubiquitous Technol.
+  date: '2024-09-09'
   link: https://doi.org/gvj8q8
   image: https://KwonVitalLab.github.io/images/publications/imugpt-imwut-2024-02.png
   plugin: sources.py
