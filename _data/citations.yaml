@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: arXiv:2412.01056
+  title: Classifying Simulated Gait Impairments using Privacy-preserving Explainable
+    Artificial Intelligence and Mobile Phone Videos
+  authors:
+  - Lauhitya Reddy
+  - Ketan Anand
+  - Shoibolina Kaushik
+  - Corey Rodrigo
+  - J. Lucas McKay
+  - Trisha M. Kesar
+  - Hyeokhyen Kwon
+  publisher: arXiv
+  date: '2024-12-03'
+  link: https://arxiv.org/abs/2412.01056
+  image: https://KwonVitalLab.github.io/images/publications/arXiv-2412.01056.png
+  plugin: sources.py
+  file: sources.yaml
 - id: arXiv:2408.10442
   title: Feasibility of assessing cognitive impairment via distributed camera network
     and privacy-preserving edge computing
