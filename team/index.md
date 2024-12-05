@@ -78,6 +78,11 @@ nav:
 {:.center}
 
 {% capture content %}
+
+![image]({{ "/images/socials/BMI winter party 2024/IMG_1907.jpg" | relative_url }})
+
+![image]({{ "/images/socials/BMI winter party 2024/IMG_1904.jpg" | relative_url }})
+
 ![image]({{ "/images/socials/dinner-2024.11.23-2.jpg" | relative_url }})
 
 ![image]({{ "/images/socials/dinner-2024.11.23-3.jpg" | relative_url }})
