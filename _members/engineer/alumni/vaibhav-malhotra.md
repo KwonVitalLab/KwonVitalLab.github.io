@@ -2,7 +2,7 @@
 name: Vaibhav Malhotra
 image: images/members/engineer/vaibhav-malhotra.webp
 role: software-engineer
-alumni: false
+alumni: true
 aliases:
   - Vaibhav Malhotra
 links:
