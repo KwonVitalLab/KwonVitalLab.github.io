@@ -53,12 +53,16 @@ nav:
 {:.center}
 
 <!-- Alumni: Staff -->
+{% include portrait.html name="Vaibhav Malhotra (MS, GT Robotics, 2023; Software Engineer, 2024)<br>- Amazon" image="images/members/engineer/alumni/vaibhav-malhotra.webp" style="small" %}
+
 {% include portrait.html name="Barun Das (MS, GT CS, 2023; Software Engineer, 2024)<br>- Autodesk" image="images/members/engineer/alumni/barun-das.jpg" style="small" %}
 
 <!-- Alumni: PhD -->
 {% include portrait.html name="Chaitra Hedge (Ph.D., GT ECE, 2023)<br>- Senior Data Scientist, Walmart" image="images/members/phd-students/alumni/chaitra-hedge.jpeg" style="small"%}
 
 <!-- Alumni: MS -->
+{% include portrait.html name="Scarlett Duan (MS, Emory CS, 2024)<br>- Amazon" image="images/members/ms-students/alumni/scarlett-duan.JPG" style="small" %}
+
 {% include portrait.html name="Arvind Ramesh (MS, GT ECE, 2024)<br>- Qualcomm" image="images/members/ms-students/alumni/arvind-ramesh.jpg" style="small" %}
 
 {% include portrait.html name="Ketan Anand (MS, GT ECE, 2024)<br>- Nvidia" image="images/members/ms-students/alumni/ketan-anand.JPG" style="small" %}

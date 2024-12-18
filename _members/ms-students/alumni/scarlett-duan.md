@@ -2,7 +2,7 @@
 name: Yuqing (Scarlett) Duan
 image: images/members/ms-students/scarlett-duan.JPG
 role: masters-cs-emory
-alumni: false
+alumni: true
 dnf: false
 aliases:
   - Scarlett Duan
