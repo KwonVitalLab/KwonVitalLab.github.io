@@ -86,8 +86,7 @@ Building human activity recognition model involves training a machine learning m
 
 ## Smart Hospital using Edge Computing and Machine Learning Framework with Multi-modal Ambient, Mobile, and Wearable Sensors
 
-
-### Low-cost, Passive, and Continuous Patient Monitoring System Using Artificial Intelligence, Distributed Multi-view Camera System, and Wearables.
+### Low-cost, Passive, and Continuous Patient Monitoring System Using Artificial Intelligence, Distributed Multi-view Camera System, and Wearables
 
 {% include figure.html image="images/research/cep_ep6_cam_wear.png" width="90%" %}
 
@@ -96,6 +95,24 @@ Neurological disorders, like Alzhemer's Disease or related dementia (ADRD), can 
 - H. Kwon et al., "A Feasibility Study on Indoor Localization and Multi-person Tracking Using Sparsely Distributed Camera Network with Edge Computing," in IEEE Journal of Indoor and Seamless Positioning and Navigation, doi: 10.1109/JISPIN.2023.3337189.
 - C. Hegde et al., "Indoor Group Identification and Localization Using Privacy-Preserving Edge Computing Distributed Camera Network," in IEEE Journal of Indoor and Seamless Positioning and Navigation, doi: 10.1109/JISPIN.2024.3354248.
 - Kiarashi et al., "Graph Trilateration for Indoor Localization in Sparsely Distributed Edge Computing Devices in Complex Environments Using Bluetooth Technology," Sensors 2023, 23, 9517.
+
+### Transforming Education Space Using Multimodal Artificial Intelligence using Camera, Audio, and Wearables
+
+{% include figure.html image="images/research/tcfd-vision-group-binary.png" width="60%" %}
+
+Rapid identification and accurate documentation of interfering and high-risk behaviors in ASD, such as aggression, self-injury, disruption, and restricted repetitive behaviors, are important in daily classroom environments for tracking intervention effectiveness and allocating appropriate resources to manage care needs. However, having a staff dedicated solely to observing is costly and uncommon in most educational settings. Recently, multiple research studies have explored developing automated, continuous, and objective tools using machine learning models to quantify behaviors in ASD. However, the majority of the work was conducted under a controlled environment and has not been validated for real-world conditions. In this work, we demonstrate that the latest advances in video-based group activity recognition techniques can quantify behaviors in ASD in real-world activities in classroom environments while preserving privacy. Our explainable model could detect the episode of problem behaviors with a 77% F1-score and capture distinctive behavior features in different types of behaviors in ASD. To the best of our knowledge, this is the first work that shows the promise of objectively quantifying behaviors in ASD in a real-world environment, which is an important step toward the development of a practical tool that can ease the burden of data collection for classroom staff.
+
+- Barun Das, Conor Anderson, Tania Villavicencio, Johanna Lantz, Jenny Foster, Theresa Hamlin, Ali Bahrami Rad, Gari D. Clifford, Hyeokhyen Kwon (2024). Explainable Artificial Intelligence for Quantifying Interfering and High-Risk Behaviors in Autism Spectrum Disorder in a Real-World Classroom Environment Using Privacy-Preserving Video Analysis. arXiv:2407.21691
+
+### Transforming Movement Disorder Clinics Using Explainable Artificial Intelligence for Motion Capture
+
+{% include figure.html image="images/research/xai4fog.png" width="60%" %}
+
+Traditional methods for diagnosing and assessing Parkinson’s disease (PD) often involve thorough physical examinations by specialists in movement disorders. These methods, including the use of scales like MDS-UPDRS or patient questionnaires (N-FOG-Q), can be subjective and vary between different raters. Particularly challenging is assessing Freezing of Gait (FOG), a complex aspect of parkinsonism that significantly affects quality of life. PD is also known to manifest in different motor subtypes, mainly tremor dominant (TD) and postural instability/gait difficulty (PIGD), each presenting unique challenges in balance and gait. Previous studies have employed machine learning to analyze kinematic data from body movements during gait assessments, but these often lacked the detail necessary to fully capture the complexity of whole-body movements in PD. To address this, a new method using explainable artificial intelligence models has been developed. These models can objectively and accurately measure PD, mirroring the assessment capabilities of human specialists. They show promise in accurately identifying FOG severity levels and PD subtypes, thereby aiding in the early identification of motor subtypes and predicting disease progression. Moreover, these models can potentially discover new kinematic biomarkers for PD, offering valuable insights for clinical trials and hypothesis generation.
+
+- Kwon, H., Clifford, G. D., Genias, I., Bernhard, D., Esper, C. D., Factor, S. A., & McKay, J. L. (2023). An explainable spatial-temporal graphical convolutional network to score freezing of gait in parkinsonian patients. Sensors, 23(4), 1766.
+- Gong, N. J., Clifford, G. D., Esper, C. D., Factor, S. A., McKay, J. L., & Kwon, H. (2023). Classifying Tremor Dominant and Postural Instability and Gait Difficulty Subtypes of Parkinson’s Disease from Full-Body Kinematics. Sensors, 23(19), 8330.
+- Saad, M., Hefner, S., Donovan, S., Bernhard, D., Tripathi, R., Factor, S.A., Powell, J.M., Kwon, H., Sameni, R., Esper, C.D. and McKay, J.L., 2024. Development of a Tremor Detection Algorithm for Use in an Academic Movement Disorders Center. Sensors, 24(15), p.4960.
 
 
 {% include section.html %}
@@ -111,33 +128,55 @@ This research addresses the challenges in current psychiatric evaluations, which
 - Jiang, Z., Seyedi, S., Griner, E., Abbasi, A., Rad, A.B., Kwon, H., Cotes, R.O. and Clifford, G.D., 2024. Multimodal Mental Health Digital Biomarker Analysis from Remote Interviews using Facial, Vocal, Linguistic, and Cardiovascular Patterns. IEEE Journal of Biomedical and Health Informatics.
 - Jiang, Z., Seyedi, S., Griner, E., Abbasi, A., Rad, A.B., Kwon, H., Cotes, R.O. and Clifford, G.D. (2024) Evaluating and mitigating unfairness in multimodal remote mental health assessments. PLOS Digital Health 3(7): e0000413. https://doi.org/10.1371/journal.pdig.0000413
 
+### Mobile Artificial Intelligence Systems for Assessing Gait Impairment
+
+{% include figure.html image="images/research/mobile_phone_gait.png" width="80%" %}
+
+Accurate diagnosis of gait impairments is often hindered by subjective or costly
+assessment methods, with current solutions requiring either expensive multi-camera
+equipment or relying on subjective clinical observation. There is a critical need for
+accessible, objective tools that can aid in gait assessment while preserving patient
+privacy. In this work, we present a mobile phone-based, privacy-preserving artificial
+intelligence (AI) system for classifying gait impairments and introduce a novel dataset
+of 743 videos capturing seven distinct gait patterns. The dataset consists of frontal and
+sagittal views of trained subjects simulating normal gait and six types of pathological
+gait (circumduction, Trendelenburg, antalgic, crouch, Parkinsonian, and vaulting),
+recorded using standard mobile phone cameras. Our system achieved 86.5% accuracy
+using combined frontal and sagittal views, with sagittal views generally outperforming
+frontal views except for specific gait patterns like Circumduction. Model feature
+importance analysis revealed that frequency-domain features and entropy measures were
+critical for classifcation performance, specifically lower limb keypoints proved most
+important for classification, aligning with clinical understanding of gait assessment.
+These findings demonstrate that mobile phone-based systems can effectively classify
+diverse gait patterns while preserving privacy through on-device processing. The high
+accuracy achieved using simulated gait data suggests their potential for rapid
+prototyping of gait analysis systems, though clinical validation with patient data
+remains necessary. This work represents a significant step toward accessible, objective
+gait assessment tools for clinical, community, and tele-rehabilitation settings.
+
+- Reddy, Lauhitya, Ketan Anand, Shoibolina Kaushik, Corey Rodrigo, J. Lucas McKay, Trisha M. Kesar, and Hyeokhyen Kwon. "Classifying Simulated Gait Impairments using Privacy-preserving Explainable Artificial Intelligence and Mobile Phone Videos." arXiv preprint arXiv:2412.01056 (2024).
+
 {% include section.html %}
 
 ## Behavior Analytics for Health Assessments
 
-### Explainable Artificial Intelligence for Movement Disorder Assessment with Kinematics Dataset
+### Parkinson's Disease
 
-{% include figure.html image="images/research/xai4fog.png" width="60%" %}
+Refer ["Movement clinc with AI"](/research/#transforming-movement-disorder-clinics-using-explainable-artificial-intelligence-for-motion-capture)
 
-Traditional methods for diagnosing and assessing Parkinson’s disease (PD) often involve thorough physical examinations by specialists in movement disorders. These methods, including the use of scales like MDS-UPDRS or patient questionnaires (N-FOG-Q), can be subjective and vary between different raters. Particularly challenging is assessing Freezing of Gait (FOG), a complex aspect of parkinsonism that significantly affects quality of life. PD is also known to manifest in different motor subtypes, mainly tremor dominant (TD) and postural instability/gait difficulty (PIGD), each presenting unique challenges in balance and gait. Previous studies have employed machine learning to analyze kinematic data from body movements during gait assessments, but these often lacked the detail necessary to fully capture the complexity of whole-body movements in PD. To address this, a new method using explainable artificial intelligence models has been developed. These models can objectively and accurately measure PD, mirroring the assessment capabilities of human specialists. They show promise in accurately identifying FOG severity levels and PD subtypes, thereby aiding in the early identification of motor subtypes and predicting disease progression. Moreover, these models can potentially discover new kinematic biomarkers for PD, offering valuable insights for clinical trials and hypothesis generation.
+### Stroke survivors
 
-- Kwon, H., Clifford, G. D., Genias, I., Bernhard, D., Esper, C. D., Factor, S. A., & McKay, J. L. (2023). An explainable spatial-temporal graphical convolutional network to score freezing of gait in parkinsonian patients. Sensors, 23(4), 1766.
-- Gong, N. J., Clifford, G. D., Esper, C. D., Factor, S. A., McKay, J. L., & Kwon, H. (2023). Classifying Tremor Dominant and Postural Instability and Gait Difficulty Subtypes of Parkinson’s Disease from Full-Body Kinematics. Sensors, 23(19), 8330.
+Refer [Mobile AI for Stroke](/research/#mobile-artificial-intelligence-systems-for-assessing-gait-impairment)
 
-### Mental Health Assessment with Remote Interviews
+### Mental Health and Depression
 
 Refer ["Multi-modal AI System"](/research/#multi-modal-machine-learning-system-for-assessing-remote-interviews)
 
 ### Autism Spectrum Disorder
 
-{% include figure.html image="images/research/tcfd-vision-group-binary.png" width="60%" %}
+Refer ["Classroom with AI"](/research/#transforming-education-space-using-multimodal-artificial-intelligence-using-camera-audio-and-wearables)
 
-Rapid identification and accurate documentation of interfering and high-risk behaviors in ASD, such as aggression, self-injury, disruption, and restricted repetitive behaviors, are important in daily classroom environments for tracking intervention effectiveness and allocating appropriate resources to manage care needs. However, having a staff dedicated solely to observing is costly and uncommon in most educational settings. Recently, multiple research studies have explored developing automated, continuous, and objective tools using machine learning models to quantify behaviors in ASD. However, the majority of the work was conducted under a controlled environment and has not been validated for real-world conditions. In this work, we demonstrate that the latest advances in video-based group activity recognition techniques can quantify behaviors in ASD in real-world activities in classroom environments while preserving privacy. Our explainable model could detect the episode of problem behaviors with a 77% F1-score and capture distinctive behavior features in different types of behaviors in ASD. To the best of our knowledge, this is the first work that shows the promise of objectively quantifying behaviors in ASD in a real-world environment, which is an important step toward the development of a practical tool that can ease the burden of data collection for classroom staff.
-
-- Barun Das, Conor Anderson, Tania Villavicencio, Johanna Lantz, Jenny Foster, Theresa Hamlin, Ali Bahrami Rad, Gari D. Clifford, Hyeokhyen Kwon (2024). Explainable Artificial Intelligence for Quantifying Interfering and High-Risk Behaviors in Autism Spectrum Disorder in a Real-World Classroom Environment Using Privacy-Preserving Video Analysis. arXiv:2407.21691
-
-
-### Cognitive Impairment
+### Cognitive Impairment, Alzheimer's Disease, and Dementia
 
 {% include figure.html image="images/publications/cep_ep6_vision_only_moca.png" width="50%" %}
 
