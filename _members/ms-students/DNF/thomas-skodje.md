@@ -3,7 +3,7 @@ name: Thomas Skodje
 image: images/members/ms-students/thomas-skodje.jpg
 role: masters-cs-gt
 alumni: false
-dnf: false
+dnf: true
 aliases:
   - Tommy
 links:
