@@ -3,6 +3,7 @@ name: Claire Bae
 image: images/members/undergrads/claire-bae.png
 role: undergrad-cs-humanhealth-emory
 alumni: false
+dnf: false
 aliases:
   - Claire Bae
 links:

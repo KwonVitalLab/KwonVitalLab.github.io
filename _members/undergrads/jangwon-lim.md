@@ -3,6 +3,7 @@ name: Jangwon Lim
 image: images/members/undergrads/jangwon-lim.JPG
 role: undergrad-cs-math-emory
 alumni: false
+dnf: false
 aliases:
   - Jangwon Lim
 links:

@@ -3,6 +3,7 @@ name: Wendy Chau
 image: images/members/undergrads/wendy-chau.jpeg
 role: undergrad-qqs-humanhealth-emory
 alumni: false
+dnf: false
 aliases:
   - Wendy Chau
 ---

@@ -3,6 +3,7 @@ name: Viplav Patturi
 image: images/members/undergrads/viplav-patturi.jpg
 role: undergrad-bme-gt
 alumni: false
+dnf: false
 aliases:
   - Viplav Patturi
 links:

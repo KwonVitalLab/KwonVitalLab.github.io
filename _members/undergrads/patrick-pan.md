@@ -3,6 +3,7 @@ name: Patrick Pan
 image: images/members/undergrads/patrick-pan.jpg
 role: undergrad-bme-cs-gt
 alumni: false
+dnf: false
 aliases:
   - Patrick Pan
 links:

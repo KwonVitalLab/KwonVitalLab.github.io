@@ -3,6 +3,7 @@ name: Bonwoo Koo
 image: images/members/undergrads/bonwoo-koo.jpg
 role: undergrad-isye-gt-kaist-exchange
 alumni: false
+dnf: false
 aliases:
   - Bonwoo Koo
 links:

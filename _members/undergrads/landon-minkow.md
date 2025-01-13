@@ -3,6 +3,7 @@ name: Landon Minkow
 image: images/members/undergrads/landon-minkow.png
 role: undergrad-math-emory
 alumni: false
+dnf: false
 aliases:
   - Landon Minkow
 links:

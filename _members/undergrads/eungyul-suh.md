@@ -3,6 +3,7 @@ name: Eungyul Suh
 image: images/members/undergrads/eungyul-suh.jpg
 role: undergrad-cs-econ-emory
 alumni: false
+dnf: false
 aliases:
   - Eungyul Suh
 links:

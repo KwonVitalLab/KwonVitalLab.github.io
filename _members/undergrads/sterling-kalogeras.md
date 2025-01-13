@@ -3,6 +3,7 @@ name: Sterling Kalogeras
 image: images/members/undergrads/sterling-kalogeras.jpg
 role: undergrad-cs-gt
 alumni: false
+dnf: false
 aliases:
   - Sterling Kalogeras
 links:

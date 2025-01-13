@@ -3,6 +3,7 @@ name: Athena Tian
 image: images/members/undergrads/athena-tian.png
 role: undergrad-math-emory
 alumni: false
+dnf: false
 aliases:
   - Athena Tian
 links:
