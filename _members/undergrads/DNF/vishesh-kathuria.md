@@ -3,6 +3,7 @@ name: Vishesh Kathuria
 image: images/members/undergrads/vishesh-kathuria.png
 role: undergrad-bme-gt
 alumni: false
+dnf: true
 aliases:
   - Vishesh Kathuria
 ---
