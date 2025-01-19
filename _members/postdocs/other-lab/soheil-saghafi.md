@@ -2,7 +2,7 @@
 name: Soheil Saghafi
 image: images/members/postdocs/soheil-saghafi.jpeg
 role: postdoc
-alumni: false
+alumni: true
 aliases:
   - Soheil Saghafi
 links:
