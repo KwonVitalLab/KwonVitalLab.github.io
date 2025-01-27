@@ -3,7 +3,7 @@ name: Ritik Sundaram
 image: images/members/ms-students/ritik-sundaram.jpg
 role: masters-cs-gt
 alumni: false
-dnf: false
+dnf: true
 aliases:
   - Ritik Sundaram
 links:
