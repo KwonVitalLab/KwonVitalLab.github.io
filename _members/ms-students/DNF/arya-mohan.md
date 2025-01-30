@@ -3,7 +3,7 @@ name: Arya Mohan
 image: images/members/ms-students/arya-mohan.jpeg
 role: masters-cs-gt
 alumni: false
-dnf: false
+dnf: true
 aliases:
   - Arya Mohan
 links:
