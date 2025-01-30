@@ -201,8 +201,8 @@ github:
 
 twitter:
   icon: fa-brands fa-x-twitter
-  text: X/Twitter
-  tooltip: X/Twitter
+  text: X
+  tooltip: X
   link: https://twitter.com/$VALUE
 
 facebook:
