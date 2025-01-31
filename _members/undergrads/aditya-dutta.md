@@ -1,6 +1,6 @@
 ---
 name: Aditya Dutta
-image: images/members/undergrads/aditya-dutta.jpeg
+image: images/members/undergrads/aditya-dutta.jpg
 role: undergrad-cs-math-emory
 alumni: false
 dnf: false
