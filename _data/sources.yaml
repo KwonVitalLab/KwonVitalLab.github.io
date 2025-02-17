@@ -2,6 +2,12 @@
 - id: arXiv:2502.09626
   image: https://KwonVitalLab.github.io/images/publications/arxiv-2502.09626.png
 
+# Ali Bharami Rad - Wearable x Autism 
+- id: doi:10.1088/1361-6579/ada51b
+
+# Abmed Abbasi - LLM x Depression
+- id: doi:10.1145/3673906
+
 # Arxiv - MGH x MCI x Zoom
 - id: arxiv:2412.14194
   image: https://KwonVitalLab.github.io/images/publications/arXiv-2412.14194.PNG

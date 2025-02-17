@@ -15,6 +15,44 @@
   image: https://KwonVitalLab.github.io/images/publications/arxiv-2502.09626.png
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.1088/1361-6579/ada51b
+  title: 'From motion to emotion: exploring challenging behaviors in autism spectrum
+    disorder through analysis of wearable physiology and movement'
+  authors:
+  - Ali Bahrami Rad
+  - Tania Villavicencio
+  - Yashar Kiarashi
+  - Conor Anderson
+  - Jenny Foster
+  - Hyeokhyen Kwon
+  - Theresa Hamlin
+  - Johanna Lantz
+  - Gari D Clifford
+  publisher: Physiological Measurement
+  date: '2025-01-02'
+  link: https://doi.org/g85cxm
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3673906
+  title: 'Language Models for Online Depression Detection: A Review and Benchmark
+    Analysis on Remote Interviews'
+  authors:
+  - Ruiyang Qin
+  - Ryan Cook
+  - Kai Yang
+  - Ahmed Abbasi
+  - David Dobolyi
+  - Salman Seyedi
+  - Emily Griner
+  - Hyeokhyen Kwon
+  - Robert Cotes
+  - Zifan Jiang
+  - Gari Clifford
+  publisher: ACM Transactions on Management Information Systems
+  date: '2024-08-13'
+  link: https://doi.org/g85cxn
+  plugin: sources.py
+  file: sources.yaml
 - id: arxiv:2412.14194
   title: Detecting Cognitive Impairment and Psychological Well-being among Older Adults
     Using Facial, Acoustic, Linguistic, and Cardiovascular Patterns Derived from Remote
