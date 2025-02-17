@@ -1,5 +1,20 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: arXiv:2502.09626
+  title: On the Bias, Fairness, and Bias Mitigation for a Wearable-based Freezing
+    of Gait Detection in Parkinson's Disease
+  authors:
+  - Timothy Odonga
+  - Christine D. Esper
+  - Stewart A. Factor
+  - J. Lucas McKay
+  - Hyeokhyen Kwon
+  publisher: arXiv
+  date: '2025-02-17'
+  link: https://arxiv.org/abs/2502.09626
+  image: https://KwonVitalLab.github.io/images/publications/arxiv-2502.09626.png
+  plugin: sources.py
+  file: sources.yaml
 - id: arxiv:2412.14194
   title: Detecting Cognitive Impairment and Psychological Well-being among Older Adults
     Using Facial, Acoustic, Linguistic, and Cardiovascular Patterns Derived from Remote
@@ -17,7 +32,7 @@
   - Hiroko H. Dodge
   - Hyeokhyen Kwon
   publisher: arXiv
-  date: '2025-01-13'
+  date: '2024-12-20'
   link: https://arxiv.org/abs/2412.14194
   image: https://KwonVitalLab.github.io/images/publications/arXiv-2412.14194.PNG
   plugin: sources.py

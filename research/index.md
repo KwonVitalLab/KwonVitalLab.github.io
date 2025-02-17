@@ -119,7 +119,7 @@ Traditional methods for diagnosing and assessing Parkinson’s disease (PD) ofte
 
 ## Intelligent Telehealth Platforms with Fair Artificial Intelligence and Cloud Computing
 
-### Multi-modal Machine Learning System for Assessing Remote Interviews
+### Multi-modal and Fair Machine Learning System for Assessing Remote Interviews for Underserved Populations
 
 {% include figure.html image="images/research/multi-modal-MH.png" width="60%" %}
 
@@ -127,6 +127,14 @@ This research addresses the challenges in current psychiatric evaluations, which
 
 - Jiang, Z., Seyedi, S., Griner, E., Abbasi, A., Rad, A.B., Kwon, H., Cotes, R.O. and Clifford, G.D., 2024. Multimodal Mental Health Digital Biomarker Analysis from Remote Interviews using Facial, Vocal, Linguistic, and Cardiovascular Patterns. IEEE Journal of Biomedical and Health Informatics.
 - Jiang, Z., Seyedi, S., Griner, E., Abbasi, A., Rad, A.B., Kwon, H., Cotes, R.O. and Clifford, G.D. (2024) Evaluating and mitigating unfairness in multimodal remote mental health assessments. PLOS Digital Health 3(7): e0000413. https://doi.org/10.1371/journal.pdig.0000413
+
+### Debiasing Artificial Intelligen for Monitoring Parkinson's Disease with Wearables in Underserved Populations
+
+{% include figure.html image="images/publications/arxiv-2502.09626.png" width="60%" %}
+
+Freezing of gait (FOG) is a debilitating feature of Parkinson's disease (PD), which is a cause of injurious falls among PD patients. Recent advances in wearable-based human activity recognition (HAR) technology have enabled the detection of FOG subtypes across benchmark datasets. Since FOG manifestation is heterogeneous, developing models that quantify FOG consistently across patients with varying demographics, FOG types, and PD conditions is important. Bias and fairness in FOG models remain understudied in HAR, with research focused mainly on FOG detection using single benchmark datasets. We evaluated the bias and fairness of HAR models for wearable-based FOG detection across demographics and PD conditions using multiple datasets and the effectiveness of transfer learning as a potential bias mitigation approach. Our evaluation using demographic parity ratio (DPR) and equalized odds ratio (EOR) showed model bias (DPR & EOR < 0.8) for all stratified demographic variables, including age, sex, and disease duration. Our experiments demonstrated that transfer learning from multi-site datasets and generic human activity representations significantly improved fairness (average change in DPR +0.027, +0.039, respectively) and performance (average change in F1-score +0.026, +0.018, respectively) across attributes, supporting the hypothesis that generic human activity representations learn fairer representations applicable to health analytics.
+
+- Timothy Odonga, Christine D. Esper, Stewart A. Factor, J. Lucas McKay, Hyeokhyen Kwon. "On the Bias, Fairness, and Bias Mitigation for a Wearable-based Freezing of Gait Detection in Parkinson's Disease." arXiv preprint arXiv:2502.09626 (2025).
 
 ### Mobile Artificial Intelligence Systems for Assessing Gait Impairment
 
@@ -162,19 +170,20 @@ gait assessment tools for clinical, community, and tele-rehabilitation settings.
 
 ### Parkinson's Disease
 
-Refer ["Movement clinc with AI"](/research/#transforming-movement-disorder-clinics-using-explainable-artificial-intelligence-for-motion-capture)
+- [Movement clinic with AI](/research/#transforming-movement-disorder-clinics-using-explainable-artificial-intelligence-for-motion-capture)
+- [Wearables for Parkinson's Disease](/research/#debiasing-artificial-intelligen-for-monitoring-parkinsons-disease-with-wearables-in-underserved-populations)
 
 ### Stroke survivors
 
-Refer [Mobile AI for Stroke](/research/#mobile-artificial-intelligence-systems-for-assessing-gait-impairment)
+- [Mobile AI for Stroke](/research/#mobile-artificial-intelligence-systems-for-assessing-gait-impairment)
 
 ### Mental Health and Depression
 
-Refer ["Multi-modal AI System"](/research/#multi-modal-machine-learning-system-for-assessing-remote-interviews)
+- ["Multi-modal AI System"](/research/#multi-modal-machine-learning-system-for-assessing-remote-interviews)
 
 ### Autism Spectrum Disorder
 
-Refer ["Classroom with AI"](/research/#transforming-education-space-using-multimodal-artificial-intelligence-using-camera-audio-and-wearables)
+- ["Classroom with AI"](/research/#transforming-education-space-using-multimodal-artificial-intelligence-using-camera-audio-and-wearables)
 
 ### Cognitive Impairment, Alzheimer's Disease, and Dementia
 
