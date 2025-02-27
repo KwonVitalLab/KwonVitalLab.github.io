@@ -18,8 +18,9 @@ hyeokhyen.kwon [at] gatech.edu
 
 - Assistant Professor, [Department of Biomedical Informatics, School of Medicine, Emory University](https://med.emory.edu/departments/biomedical-informatics/index.html)
 - Program Faculty, [Computer Science and Informatics, Emory University](https://computerscience.emory.edu/graduate/index.html) 
-- Program Faculty, [Department of Biomedical Engineering, Emory University and Georgia Institute of Technology](https://bme.gatech.edu/bme/)
+- Program Faculty, [Wallace H. Coulter Department of Biomedical Engineering, Emory University and Georgia Institute of Technology](https://bme.gatech.edu/bme/)
 - Program Faculty, [Machine Learning Center, Georgia Institute of Technology](https://ml.gatech.edu/phd)
+- Program Faculty, [Parker H. Petit Institute for Bioengineering and Bioscience, Georgia Institute of Technology](https://research.gatech.edu/bio)
 <!-- - Visiting Scientist, [School of Interactive Computing, College of Computing, Georgia Institute of Technology](https://www.ic.gatech.edu/) -->
 
 <!-- [Curriculum_Vitae](https://www.dropbox.com/scl/fi/kw4aj9ifnodourf4teyfx/Curriculum_Vitae___Hyeokhyen_Kwon.pdf?rlkey=9mvqjnmltydqfbyb8w8o5rkd2&dl=0) -->
