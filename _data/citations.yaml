@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1002/dad2.70085
+  title: "Feasibility of assessing cognitive impairment via distributed camera network\
+    \ and privacy\u2010preserving edge computing"
+  authors:
+  - Chaitra Hegde
+  - Yashar Kiarashi
+  - Allan I. Levey
+  - Amy D. Rodriguez
+  - Hyeokhyen Kwon
+  - Gari D. Clifford
+  publisher: 'Alzheimer''s &amp; Dementia: Diagnosis, Assessment &amp; Disease Monitoring'
+  date: '2025-01-01'
+  link: https://doi.org/g863wm
+  image: https://KwonVitalLab.github.io/images/publications/cep_ep6_vision_only_moca.png
+  plugin: sources.py
+  file: sources.yaml
 - id: arXiv:2502.09626
   title: On the Bias, Fairness, and Bias Mitigation for a Wearable-based Freezing
     of Gait Detection in Parkinson's Disease
@@ -70,7 +86,7 @@
   - Hiroko H. Dodge
   - Hyeokhyen Kwon
   publisher: arXiv
-  date: '2025-01-13'
+  date: '2024-12-20'
   link: https://arxiv.org/abs/2412.14194
   image: https://KwonVitalLab.github.io/images/publications/arXiv-2412.14194.PNG
   plugin: sources.py
@@ -90,22 +106,6 @@
   date: '2024-12-03'
   link: https://arxiv.org/abs/2412.01056
   image: https://KwonVitalLab.github.io/images/publications/arXiv-2412.01056.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: arxiv:2408.10442
-  title: Feasibility of assessing cognitive impairment via distributed camera network
-    and privacy-preserving edge computing
-  authors:
-  - Chaitra Hegde
-  - Yashar Kiarashi
-  - Allan I Levey
-  - Amy D Rodriguez
-  - Hyeokhyen Kwon
-  - Gari D Clifford
-  publisher: arXiv
-  date: '2024-08-21'
-  link: https://arxiv.org/abs/2408.10442
-  image: https://KwonVitalLab.github.io/images/publications/cep_ep6_vision_only_moca.png
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2407.21691

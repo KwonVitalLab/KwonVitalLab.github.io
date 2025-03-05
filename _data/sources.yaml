@@ -1,3 +1,7 @@
+# DADM - CEP Vision-only MoCA
+- id: doi:10.1002/dad2.70085
+  image: https://KwonVitalLab.github.io/images/publications/cep_ep6_vision_only_moca.png
+
 # Ariv - FOG x Wearable X Fair
 - id: arXiv:2502.09626
   image: https://KwonVitalLab.github.io/images/publications/arxiv-2502.09626.png
@@ -15,10 +19,6 @@
 # Arxiv - Trisha Mobile Vision Gait Impairment
 - id: arxiv:2412.01056
   image: https://KwonVitalLab.github.io/images/publications/arXiv-2412.01056.jpg
-
-# Arxiv - CEP Vision-only MoCA
-- id: arxiv:2408.10442
-  image: https://KwonVitalLab.github.io/images/publications/cep_ep6_vision_only_moca.png
 
 # Arxiv - TCFD Vision - Group & Binary
 - id: arxiv:2407.21691
