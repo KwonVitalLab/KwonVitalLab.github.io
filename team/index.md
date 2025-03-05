@@ -83,6 +83,10 @@ nav:
 
 {% capture content %}
 
+![image]({{ "/images/awards/Xiaofan_Mu_3MT/IMG_0162.jpg" | relative_url }})
+
+![image]({{ "/images/awards/Xiaofan_Mu_3MT/IMG_0161.jpg" | relative_url }})
+
 ![image]({{ "/images/socials/BMI winter party 2024/IMG_1907.jpg" | relative_url }})
 
 ![image]({{ "/images/socials/BMI winter party 2024/IMG_1904.jpg" | relative_url }})
