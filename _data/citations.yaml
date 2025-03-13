@@ -5,7 +5,6 @@
     Analysis on Remote Interviews'
   authors:
   - Ruiyang Qin
-  - Ryan Cook
   - Kai Yang
   - Ahmed Abbasi
   - David Dobolyi
@@ -15,8 +14,9 @@
   - Robert Cotes
   - Zifan Jiang
   - Gari Clifford
+  - Ryan A. Cook
   publisher: ACM Transactions on Management Information Systems
-  date: '2024-08-13'
+  date: '2025-03-13'
   link: https://doi.org/g85cxn
   plugin: sources.py
   file: sources.yaml
