@@ -83,6 +83,10 @@ nav:
 
 {% capture content %}
 
+![image]({{ "/images/awards/Dharini_MIT_Hacking_Medicine/IMG_2420.jpg" | relative_url }})
+
+![image]({{ "/images/awards/Dharini_MIT_Hacking_Medicine/IMG_2416.jpg" | relative_url }})
+
 ![image]({{ "/images/conferences/shepherd_2025/IMG_2778.png" | relative_url }})
 
 ![image]({{ "/images/awards/Xiaofan_Mu_3MT/IMG_0162.jpg" | relative_url }})
