@@ -37,6 +37,7 @@ td, th {
    border: none!important;
 }
 </style>
+| 2025/03/26 | : 🎉 [Iris Zheng](https://kwonvitallab.github.io/members/undergrads/iris-zheng.html) passed her Undergraduate Honors Thesis with “Highest Honor”. Her dissertation title was “Speech-Based Detection of Cognitive Impairments in Older Adults”. Congratulations!
 | 2025/03/18 | : 🎉 [Dharini Raghavan](https://kwonvitallab.github.io/members/ms-students/dharini-raghavan.html) won three awards from the [MIT Hacking Medicine](https://hackingmedicine.mit.edu/events/grandhack-2025): 1) main MIT hack, 2) a special challenge by Google Health, and 3) a special prize from Niraj Bhatia Foundation from Harvard Medical School. BIG BIG Congratulations on this achievement! We are very proud of you!!
 | 2025/03/04 | : 🎉 [Xiaofan Mu](https://kwonvitallab.github.io/members/ms-students/xiaofan-mu.html) is the winner of the [2025 Three Minute Thesis (3MT) Competition and Master’s Showcase](https://gs.emory.edu/professional-development/sharpening-skills/3MT.html) at Emory University They had over 2000 applicants, 40 were selected for the preliminary, and then 13 for this final round. It was fiercely competitive!! Congratulations! |
 | 2025/02/27 | : 🎉 Dr. Kwon is now officially affiliated with [Parker H. Petit Institute for Bioengineering and Bioscience](https://research.gatech.edu/bio) at Georgia Institute of Technology! |
