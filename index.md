@@ -114,8 +114,17 @@ td, th {
 Our previous and current sponsors or collaborators include:
 {:.center}
 
+<!-- NM4R -->
+{% include portrait.html name="National Center of Neuromodulation for Rehabilitation" lookup="https://chp.musc.edu/research/centers/nc-nm4r" image="images/sponsors/nm4r.png" style="small" %}
+
+<!-- McCamish -->
+{% include portrait.html name="McCamish Parkinson's Disease Innovation Program" lookup="https://parkinsons.gatech.edu/" image="images/sponsors/McCamishPD.jpeg" style="small" %}
+
+<!-- Cox -->
 {% include portrait.html name="The James M. Cox Foundation" lookup="https://www.coxenterprises.com/our-impact/james-m-cox-foundation" image="images/sponsors/cox.jpeg" style="small" %}
 
+<!-- NIH -->
 {% include portrait.html name="National Institutes of Health" lookup="https://www.nih.gov/" image="images/sponsors/nih.jpg" style="small" %}
 
+<!-- Oracle -->
 {% include portrait.html name="Oracle Research" lookup="https://www.oracle.com/research/" image="images/sponsors/oracle.webp" style="small" %}
