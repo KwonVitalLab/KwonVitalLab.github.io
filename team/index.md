@@ -83,6 +83,8 @@ nav:
 
 {% capture content %}
 
+![image]({{ "/images/conferences/asnr_2025/IMG_3418.PNG" | relative_url }})
+
 ![image]({{ "/images/awards/Dharini_MIT_Hacking_Medicine/IMG_2420.jpg" | relative_url }})
 
 ![image]({{ "/images/awards/Dharini_MIT_Hacking_Medicine/IMG_2416.jpg" | relative_url }})
