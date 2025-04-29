@@ -70,7 +70,7 @@ nav:
 <!-- Alumni: BS -->
 {% include portrait.html name="Zikang Leng (BS, Gatech CS, 2024)<br>- Ph.D in CS, GT" image="images/members/undergrads/alumni/zikang-leng.png" style="small" %}
 
-{% include portrait.html name="Matthew Ortega (BS, Emory Physics and Math, 2024)<br>- TBD" image="images/members/undergrads/alumni/matthew-ortega.jpg" style="small" %}
+{% include portrait.html name="Matthew Ortega (BS, Emory Physics and Math, 2024)<br>- Tandem" image="images/members/undergrads/alumni/matthew-ortega.jpg" style="small" %}
 
 {% include portrait.html name="N. Jabin Gong (BS, Gatech CS, 2023)<br>- School of Medicine, Stony Brook" image="images/members/undergrads/alumni/jabin_pic.png" style="small" %}
 <!-- {% include portrait.html name="N. Jabin gong (BS, Gatech CS, 2023)" lookup="jabin-gong" image="images/members/jabin_pic.png" style="small" %} -->
