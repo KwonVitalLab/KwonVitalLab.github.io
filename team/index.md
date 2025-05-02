@@ -61,6 +61,10 @@ nav:
 {% include portrait.html name="Chaitra Hedge (Ph.D., GT ECE, 2023)<br>- Senior Data Scientist, Walmart" image="images/members/phd-students/alumni/chaitra-hedge.jpeg" style="small"%}
 
 <!-- Alumni: MS -->
+{% include portrait.html name="Xiaofan Mu (MS, Emory CS, 2025)<br>- TBD" image="images/members/ms-students/alumni/xiaofan-mu.png" style="small" %}
+
+{% include portrait.html name="Dharini Raghavan (MS, GT ECE, 2025)<br>- Ph.D in ECE, GT" image="images/members/ms-students/alumni/dharini-raghavan.JPG" style="small" %}
+
 {% include portrait.html name="Scarlett Duan (MS, Emory CS, 2024)<br>- Amazon" image="images/members/ms-students/alumni/scarlett-duan.JPG" style="small" %}
 
 {% include portrait.html name="Arvind Ramesh (MS, GT ECE, 2024)<br>- Qualcomm" image="images/members/ms-students/alumni/arvind-ramesh.jpg" style="small" %}
@@ -68,6 +72,12 @@ nav:
 {% include portrait.html name="Ketan Anand (MS, GT ECE, 2024)<br>- Nvidia" image="images/members/ms-students/alumni/ketan-anand.JPG" style="small" %}
 
 <!-- Alumni: BS -->
+{% include portrait.html name="Rory Wu (BS, Emory Math and Biology, 2025)<br>- Ph.D in BME, Duke" image="images/members/undergrads/alumni/rory-wu.jpg" style="small" %}
+
+{% include portrait.html name="Claire Bae (BS, Emory CS, 2025)<br>- TBD" image="images/members/undergrads/alumni/claire-bae.png" style="small" %}
+
+{% include portrait.html name="Iris Zheng (BS, Emory CS, 2025)<br>- TBD" image="images/members/undergrads/alumni/iris-zheng.jpeg" style="small" %}
+
 {% include portrait.html name="Zikang Leng (BS, Gatech CS, 2024)<br>- Ph.D in CS, GT" image="images/members/undergrads/alumni/zikang-leng.png" style="small" %}
 
 {% include portrait.html name="Matthew Ortega (BS, Emory Physics and Math, 2024)<br>- Tandem" image="images/members/undergrads/alumni/matthew-ortega.jpg" style="small" %}

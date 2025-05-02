@@ -2,7 +2,7 @@
 name: Dharini Raghavan
 image: images/members/ms-students/dharini-raghavan.JPG
 role: masters-ece-gt
-alumni: false
+alumni: true
 dnf: false
 aliases:
   - Dharini Raghavan
