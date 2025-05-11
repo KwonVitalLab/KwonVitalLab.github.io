@@ -93,6 +93,8 @@ nav:
 
 {% capture content %}
 
+![image]({{ "/images/awards/Emory Honors Ceremony 2025/IMG_3500.png" | relative_url }})
+
 ![image]({{ "/images/socials/lunch-2025.04.26.png" | relative_url }})
 
 ![image]({{ "/images/conferences/asnr_2025/IMG_3418.PNG" | relative_url }})
