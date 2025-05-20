@@ -93,6 +93,10 @@ nav:
 
 {% capture content %}
 
+![image]({{ "/images/awards/BMI Award - 2025/Xiaofan.JPEG" | relative_url }})
+
+![image]({{ "/images/awards/BMI Award - 2025/Iris.JPEG" | relative_url }})
+
 ![image]({{ "/images/awards/Emory Honors Ceremony 2025/IMG_3500.png" | relative_url }})
 
 ![image]({{ "/images/socials/lunch-2025.04.26.png" | relative_url }})
