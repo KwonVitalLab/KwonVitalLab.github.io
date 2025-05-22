@@ -3,7 +3,7 @@ name: Esther Fu
 image: images/members/undergrads/esther-fu.jpeg
 role: undergrad-cs-bio-emory
 alumni: false
-dnf: false
+dnf: true
 aliases:
   - Esther Fu
 ---
