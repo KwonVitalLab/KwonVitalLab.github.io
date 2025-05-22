@@ -107,6 +107,10 @@ undergrad-qqs-humanhealth-emory:
   icon: fa-solid fa-pen-nib
   description: Undergrad Student, QQS and Human Health, Emory
 
+undergrad-qqs-bio-emory:
+  icon: fa-solid fa-pen-nib
+  description: Undergrad Student, QQS and Biology, Emory
+
 undergrad-math-emory:
   icon: fa-solid fa-pen-nib
   description: Undergrad Student, Math, Emory
