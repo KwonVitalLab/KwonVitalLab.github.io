@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.05.23.25327218
+  title: Closed-loop Neuromotor Training System Pairing Transcutaneous Vagus Nerve
+    Stimulation with Video-based Real-time Movement Classification
+  authors:
+  - Minoru Shinohara
+  - Arya Mohan
+  - Nathaniel Green
+  - Joshua N. Posen
+  - Milka Trajkova
+  - Woon-Hong Yeo
+  - Hyeokhyen Kwon
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-05-23'
+  link: https://doi.org/g9k6xz
+  image: https://KwonVitalLab.github.io/images/publications/doi-10.1101-2025.05.23.25327218.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3673906
   title: 'Language Models for Online Depression Detection: A Review and Benchmark
     Analysis on Remote Interviews'
