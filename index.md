@@ -122,6 +122,13 @@ td, th {
 Our previous and current sponsors or collaborators include:
 {:.center}
 
+<!-- GA CTSA -->
+{% include portrait.html name="Shriners Childresn's" lookup="https://www.shrinerschildrens.org/en" image="images/sponsors/sc_logo_vert_3c.png" style="small" %}
+
+<!-- Shriners -->
+{% include portrait.html name="Georgia CTSA" lookup="https://georgiactsa.org/" image="images/sponsors/zf4iC9VF_400x400.jpg" style="small" %}
+
+
 <!-- NM4R -->
 {% include portrait.html name="National Center of Neuromodulation for Rehabilitation" lookup="https://chp.musc.edu/research/centers/nc-nm4r" image="images/sponsors/nm4r.png" style="small" %}
 
