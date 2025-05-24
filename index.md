@@ -37,6 +37,7 @@ td, th {
    border: none!important;
 }
 </style>
+| 2025/05/16 | : 🏆 We received [Georgia CTSA Pilot Grants Awards](https://georgiactsa.org/funding/pilot-grants.html), “ZEST-E: A therapeutic robotic exercise system for people with Parkinson's”. Dr. Kwon will work with robotics, neurologist, physical therapist to develop human-robot interaction systems for rehabilitation exercise for older people with Parkinson’s Disease. 
 | 2025/05/15 | : 🎉 [Jangwon Lim](https://kwonvitallab.github.io/members/undergrads/jangwon-lim.html) is the recipient of [Pathways Internship Funding](https://pathways.emory.edu/opportunities/internship-funding/index.html) from Emory Pathways Center. Congratulations! |
 | 2025/05/03 | : 🎉 [Jangwon Lim](https://kwonvitallab.github.io/members/undergrads/jangwon-lim.html) is the recipient of [Shoon Kyung Kim Scholarship](https://award.ksea.org/scholarships/scholarships-for-undergraduates/shoon-kyung-kim-scholarship). which is a [scholarships for undergraduate students](https://award.ksea.org/scholarships/scholarships-for-undergraduates) awarded by [Korean-American Scientists and Engineers Association (KSEA)](https://www.ksea.org/)! He was selected as 1 of 20 recipients this year. Congratulations! |
 | 2025/05/01 | : 🎉 Iris Zheng is the winner of the BMI Undergraduate Research Award and Xiaofan Mu is the winner of the BMI Master's Research Award. Congratulations on winning the awards and also your graduation! |
