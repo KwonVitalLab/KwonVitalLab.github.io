@@ -355,7 +355,6 @@
   <script src="/_scripts/tooltip.js"></script>
 
 
-<script>MathJax={"tex":{"inlineMath":[["$","$"],["\\(","\\)"]],"displayMath":[["$$","$$"],["\\[","\\]"]]},"svg":{"fontCache":"global"}}</script><script src="https://polyfill.io/v3/polyfill.min.js?features=es6"></script><script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
 </head>
 
   <body>
@@ -456,28 +455,28 @@
   </div>
 
 <div class="button-wrapper">
-    <a class="button" href="/research/#smart-hospital-using-edge-computing-and-machine-learning-framework-with-multi-modal-ambient-mobile-and-wearable-sensors" data-tooltip="Link" data-style="" aria-label="Link">
+    <a class="button" href="/research/#behavior-sensing-in-clinics-using-edge-and-cloud-ai-with-video-audio-and-wearable-sensors" data-tooltip="Link" data-style="" aria-label="Link">
       
       
-        <span>Smart Hospital with Ubiquitous AI</span>
-      
-    </a>
-  </div>
-
-<div class="button-wrapper">
-    <a class="button" href="/research/#intelligent-telehealth-platforms-with-fair-artificial-intelligence-and-cloud-computing" data-tooltip="Link" data-style="" aria-label="Link">
-      
-      
-        <span>Telehealth with Fair AI</span>
+        <span>Clinics with Multimodal AI</span>
       
     </a>
   </div>
 
 <div class="button-wrapper">
-    <a class="button" href="/research/#behavior-analytics-for-health-assessments" data-tooltip="Link" data-style="" aria-label="Link">
+    <a class="button" href="/research/#ethical-artificial-intelligence-for-remote-interviews-or-wearables" data-tooltip="Link" data-style="" aria-label="Link">
       
       
-        <span>Health Analytics with XAI</span>
+        <span>Telehealth with Ethical AI</span>
+      
+    </a>
+  </div>
+
+<div class="button-wrapper">
+    <a class="button" href="/research/#mobile-computer-vision-and-closed-loop-intervention-systems-for-motion-assessments-and-rehabilitation" data-tooltip="Link" data-style="" aria-label="Link">
+      
+      
+        <span>Mobile Computer Vision</span>
       
     </a>
   </div>
@@ -503,50 +502,9 @@
 
 <h2 id="generative-ai-and-cross-modality-techniques-for-human-activity-recognition">Generative AI and Cross-modality Techniques for Human Activity Recognition</h2>
 
-<h3 id="opportunistic-use-of-video-data-for-wearable-based-human-activity-recognition">Opportunistic Use of Video Data for Wearable-based Human Activity Recognition</h3>
-
 <figure class="figure">
   <a class="figure-image" aria-label="figure link">
-    <img src="/images/research/IMUTube%20Diagrams.jpg" style="
-        width: 50%;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-  </a>
-  
-</figure>
-
-<p>Building human activity recognition model involves training a machine learning model to classify the given sensor signal input for target activities. The performance of the supervised learning approach largely depends on the scale of the training dataset that covers diverse activity patterns in the wild. However, collecting wearable sensor data from users is expensive, and annotation is time-consuming. Thereby, wearable datasets are typically limited in scale. To overcome the challenges in collecting wearable datasets, We proposed a method that uses a virtually unlimited amount of video data in online repositories to generate a training sensor dataset. The proposed technique uses state-of-the-art computer vision algorithms to track full human motions from human activity video and extract virtual inertial measurement signals from the on-body locations. The collection of virtual sensors from target activity videos is used to train the human activity recognition model, which is deployed in the real world. The proposed technique opens up the opportunity to apply complex analysis models for human activity recognition with the availability of large-scale training data</p>
-
-<ul>
-  <li>Kwon, H., Tong, C., Haresamudram, H., Gao, Y., Abowd, G. D., Lane, N. D., &amp; Ploetz, T. (2020). IMUTube: Automatic extraction of virtual on-body accelerometry from video for human activity recognition. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(3), 1-29.</li>
-  <li>Kwon, H., Wang, B., Abowd, G. D., &amp; Plötz, T. (2021). Approaching the Real-World: Supporting Activity Recognition Training with Virtual IMU Data. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 5(3), 1-32.</li>
-  <li>Kwon, H., Abowd, G. D., &amp; Plötz, T. (2021). Complex Deep Neural Networks from Large Scale Virtual IMU Data for Effective Human Activity Recognition Using Wearables. Sensors, 21(24), 8337.</li>
-</ul>
-
-<h3 id="large-language-model-and-generative-motion-model-for-wearable-based-human-activity-recognition">Large Language Model and Generative Motion Model for Wearable-based Human Activity Recognition</h3>
-
-<figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/images/research/gpt-iswc.png" style="
-        width: 50%;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-  </a>
-  
-</figure>
-
-<p>The development of robust, generalized models in human activity recognition (HAR) has been hindered by the scarcity of large-scale, labeled data sets. Recent work has shown that virtual IMU data extracted from videos using computer vision techniques can lead to substantial performance improvements when training HAR models combined with small portions of real IMU data. Inspired by recent advances in motion synthesis from textual descriptions and connecting Large Language Models (LLMs) to various AI models, we introduce an automated pipeline that first uses ChatGPT to generate diverse textual descriptions of activities. These textual descriptions are then used to generate 3D human motion sequences via a motion synthesis model, T2M-GPT, and later converted to streams of virtual IMU data. We benchmarked our approach on three HAR datasets (RealWorld, PAMAP2, and USC-HAD) and demonstrate that the use of virtual IMU training data generated using our new approach leads to significantly improved HAR model performance compared to only using real IMU data. Our approach contributes to the growing field of cross-modality transfer methods and illustrate how HAR models can be improved through the generation of virtual training data that do not require any manual effort.</p>
-
-<ul>
-  <li>Zikang Leng, Hyeokhyen Kwon, and Thomas Ploetz. 2023. Generating Virtual On-body Accelerometer Data from Virtual Textual Descriptions for Human Activity Recognition. In Proceedings of the 2023 International Symposium on Wearable Computers (ISWC ‘23). Association for Computing Machinery, New York, NY, USA, 39–43. https://doi.org/10.1145/3594738.3611361</li>
-  <li>Zikang Leng, Amitrajit Bhattacharjee, Hrudhai Rajasekhar, Lizhe Zhang, Elizabeth Bruda, Hyeokhyen Kwon, and Thomas Plötz. 2024. IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 8, 3, Article 112 (August 2024), 32 pages. https://doi.org/10.1145/3678545</li>
-</ul>
-
-<h3 id="robust-human-activity-recognition-model-with-uncertainty-modeling">Robust Human Activity Recognition Model with Uncertainty Modeling</h3>
-
-<figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/images/research/label%20jitter.png" style="
+    <img src="/images/research/crossmodalHAR.png" style="
         width: 80%;
         max-height: unset;
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
@@ -554,9 +512,11 @@
   
 </figure>
 
-<p>Building human activity recognition model involves training a machine learning model to classify the given sensor signal feature for target activities. For the conventional supervised learning approach, discriminative sensor feature representation and accurate activity annotations are necessary to learn the robust human activity recognition model. However, acquiring accurate activity annotation is intractable due to the continuous nature of human activities. Thereby, the activity annotations have uncertainty regarding the correct temporal alignment of activity boundaries and the correctness of the actual label. We explore novel machine learning techniques to handle such uncertainties.</p>
+<p>In addressing the challenges of building a human activity recognition model with limited wearable sensor data, we proposed a novel method utilizing vast video and textual data resources to generate a comprehensive training dataset. This cross-modality transfer learning technique harnesses state-of-the-art computer vision algorithms to interpret human motions from videos or Large Language Models to create text descriptions of human activities, eventually generating virtual inertial measurement signals for model training. The resulting model, trained on this rich dataset, can tackle real-world applications. Additionally, we introduced an innovative training scheme to account for the inherent uncertainties in activity annotations. This is complemented by a novel sensor feature representation that effectively captures the structural and distributional nuances of sensor signals, capturing human activity, enhancing the model’s robustness.</p>
 
 <ul>
+  <li>Kwon, H., Tong, C., Haresamudram, H., Gao, Y., Abowd, G. D., Lane, N. D., &amp; Ploetz, T. (2020). IMUTube: Automatic extraction of virtual on-body accelerometry from video for human activity recognition. Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies, 4(3), 1-29.</li>
+  <li>Zikang Leng, Amitrajit Bhattacharjee, Hrudhai Rajasekhar, Lizhe Zhang, Elizabeth Bruda, Hyeokhyen Kwon, and Thomas Plötz. 2024. IMUGPT 2.0: Language-Based Cross Modality Transfer for Sensor-Based Human Activity Recognition. Proc. ACM Interact. Mob. Wearable Ubiquitous Technol. 8, 3, Article 112 (August 2024), 32 pages. https://doi.org/10.1145/3678545</li>
   <li>Kwon, H., Abowd, G. D., &amp; Plötz, T. (2018, October). Adding structural characteristics to distribution-based accelerometer representations for activity recognition using wearables. In Proceedings of the 2018 ACM international symposium on wearable computers (pp. 72-75).</li>
   <li>Kwon, H., Abowd, G. D., &amp; Plötz, T. (2019, September). Handling annotation uncertainty in human activity recognition. In Proceedings of the 23rd International Symposium on Wearable Computers (pp. 109-117).</li>
 </ul>
@@ -573,122 +533,11 @@
   size: ;
 -->
 
-<h2 id="smart-hospital-using-edge-computing-and-machine-learning-framework-with-multi-modal-ambient-mobile-and-wearable-sensors">Smart Hospital using Edge Computing and Machine Learning Framework with Multi-modal Ambient, Mobile, and Wearable Sensors</h2>
-
-<h3 id="low-cost-passive-and-continuous-patient-monitoring-system-using-artificial-intelligence-distributed-multi-view-camera-system-and-wearables">Low-cost, Passive, and Continuous Patient Monitoring System Using Artificial Intelligence, Distributed Multi-view Camera System, and Wearables</h3>
+<h2 id="behavior-sensing-in-clinics-using-edge-and-cloud-ai-with-video-audio-and-wearable-sensors">Behavior Sensing in Clinics using Edge and Cloud AI with Video, Audio, and Wearable Sensors</h2>
 
 <figure class="figure">
   <a class="figure-image" aria-label="figure link">
     <img src="/images/research/cep_ep6_cam_wear.png" style="
-        width: 90%;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-  </a>
-  
-</figure>
-
-<p>Neurological disorders, like Alzhemer’s Disease or related dementia (ADRD), can influence an individual’s mobility and social interactions, offering insights into disease progression. Yet, accurately measuring intricate movements and social interactions in real-world settings is challenging, making clinicians rely on retrospective surveys. Addressing this challenge, I’ve introduced a cost-effective, passive, continuous patient-monitoring system capable of quantifying patients’ social behaviors and movements within therapeutic facilities spanning 18,000 sqft. This system integrates multiple edge computing devices, combined with AI, cameras, and wearable sensors, to localize, track, and identify group activities. Specifically, it’s applied to quantify Mild Cognitive Impairment (MCI), a preceding condition of ADRD. With minimal modification to the existing infrastructure, this system can transform standard therapeutic areas into smart environments that can evaluate conditions linked to neurological disorders at a low cost.</p>
-
-<ul>
-  <li>H. Kwon et al., “A Feasibility Study on Indoor Localization and Multi-person Tracking Using Sparsely Distributed Camera Network with Edge Computing,” in IEEE Journal of Indoor and Seamless Positioning and Navigation, doi: 10.1109/JISPIN.2023.3337189.</li>
-  <li>C. Hegde et al., “Indoor Group Identification and Localization Using Privacy-Preserving Edge Computing Distributed Camera Network,” in IEEE Journal of Indoor and Seamless Positioning and Navigation, doi: 10.1109/JISPIN.2024.3354248.</li>
-  <li>Kiarashi et al., “Graph Trilateration for Indoor Localization in Sparsely Distributed Edge Computing Devices in Complex Environments Using Bluetooth Technology,” Sensors 2023, 23, 9517.</li>
-</ul>
-
-<h3 id="transforming-education-space-using-multimodal-artificial-intelligence-using-camera-audio-and-wearables">Transforming Education Space Using Multimodal Artificial Intelligence using Camera, Audio, and Wearables</h3>
-
-<figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/images/research/tcfd-vision-group-binary.png" style="
-        width: 60%;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-  </a>
-  
-</figure>
-
-<p>Rapid identification and accurate documentation of interfering and high-risk behaviors in ASD, such as aggression, self-injury, disruption, and restricted repetitive behaviors, are important in daily classroom environments for tracking intervention effectiveness and allocating appropriate resources to manage care needs. However, having a staff dedicated solely to observing is costly and uncommon in most educational settings. Recently, multiple research studies have explored developing automated, continuous, and objective tools using machine learning models to quantify behaviors in ASD. However, the majority of the work was conducted under a controlled environment and has not been validated for real-world conditions. In this work, we demonstrate that the latest advances in video-based group activity recognition techniques can quantify behaviors in ASD in real-world activities in classroom environments while preserving privacy. Our explainable model could detect the episode of problem behaviors with a 77% F1-score and capture distinctive behavior features in different types of behaviors in ASD. To the best of our knowledge, this is the first work that shows the promise of objectively quantifying behaviors in ASD in a real-world environment, which is an important step toward the development of a practical tool that can ease the burden of data collection for classroom staff.</p>
-
-<ul>
-  <li>Barun Das, Conor Anderson, Tania Villavicencio, Johanna Lantz, Jenny Foster, Theresa Hamlin, Ali Bahrami Rad, Gari D. Clifford, Hyeokhyen Kwon (2024). Explainable Artificial Intelligence for Quantifying Interfering and High-Risk Behaviors in Autism Spectrum Disorder in a Real-World Classroom Environment Using Privacy-Preserving Video Analysis. arXiv:2407.21691</li>
-</ul>
-
-<h3 id="transforming-movement-disorder-clinics-using-explainable-artificial-intelligence-for-motion-capture">Transforming Movement Disorder Clinics Using Explainable Artificial Intelligence for Motion Capture</h3>
-
-<figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/images/research/xai4fog.png" style="
-        width: 60%;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-  </a>
-  
-</figure>
-
-<p>Traditional methods for diagnosing and assessing Parkinson’s disease (PD) often involve thorough physical examinations by specialists in movement disorders. These methods, including the use of scales like MDS-UPDRS or patient questionnaires (N-FOG-Q), can be subjective and vary between different raters. Particularly challenging is assessing Freezing of Gait (FOG), a complex aspect of parkinsonism that significantly affects quality of life. PD is also known to manifest in different motor subtypes, mainly tremor dominant (TD) and postural instability/gait difficulty (PIGD), each presenting unique challenges in balance and gait. Previous studies have employed machine learning to analyze kinematic data from body movements during gait assessments, but these often lacked the detail necessary to fully capture the complexity of whole-body movements in PD. To address this, a new method using explainable artificial intelligence models has been developed. These models can objectively and accurately measure PD, mirroring the assessment capabilities of human specialists. They show promise in accurately identifying FOG severity levels and PD subtypes, thereby aiding in the early identification of motor subtypes and predicting disease progression. Moreover, these models can potentially discover new kinematic biomarkers for PD, offering valuable insights for clinical trials and hypothesis generation.</p>
-
-<ul>
-  <li>Kwon, H., Clifford, G. D., Genias, I., Bernhard, D., Esper, C. D., Factor, S. A., &amp; McKay, J. L. (2023). An explainable spatial-temporal graphical convolutional network to score freezing of gait in parkinsonian patients. Sensors, 23(4), 1766.</li>
-  <li>Gong, N. J., Clifford, G. D., Esper, C. D., Factor, S. A., McKay, J. L., &amp; Kwon, H. (2023). Classifying Tremor Dominant and Postural Instability and Gait Difficulty Subtypes of Parkinson’s Disease from Full-Body Kinematics. Sensors, 23(19), 8330.</li>
-  <li>Saad, M., Hefner, S., Donovan, S., Bernhard, D., Tripathi, R., Factor, S.A., Powell, J.M., Kwon, H., Sameni, R., Esper, C.D. and McKay, J.L., 2024. Development of a Tremor Detection Algorithm for Use in an Academic Movement Disorders Center. Sensors, 24(15), p.4960.</li>
-</ul>
-  </section>
-
-  
-  
-  
-
-  <section class="background" data-size="page">
-    <!--
-  background: ;
-  dark: ;
-  size: ;
--->
-
-<h2 id="intelligent-telehealth-platforms-with-fair-artificial-intelligence-and-cloud-computing">Intelligent Telehealth Platforms with Fair Artificial Intelligence and Cloud Computing</h2>
-
-<h3 id="multi-modal-and-fair-machine-learning-system-for-assessing-remote-interviews-for-underserved-populations">Multi-modal and Fair Machine Learning System for Assessing Remote Interviews for Underserved Populations</h3>
-
-<figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/images/research/multi-modal-MH.png" style="
-        width: 60%;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-  </a>
-  
-</figure>
-
-<p>This research addresses the challenges in current psychiatric evaluations, which often suffer from subjectivity, bias, and the need for highly skilled professionals. The study explores the use of objective digital biomarkers, derived from behavioral and physiological signals in remote interviews, for psychiatric disorder assessment. These signals include facial and vocal expressions, linguistic content, and cardiovascular modulation. The study used a multimodal approach, evaluating each modality individually and in combination, to assess mental health status. This approach aims to make mental health assessments more objective, remote, and cost-effective. The research also critically examines the fairness of these automated mental health assessment tools across different demographics (race, gender, education level, and age). Despite their growing importance, especially in telehealth, these tools can carry biases that may lead to unfair treatment of certain groups. The study systematically evaluated and discussed the need for reporting and mitigating these biases to build trust and ensure appropriate application in clinical settings. Using a developed multimodal mental health assessment system, the study analyzed how various features (facial expressions, voice acoustics, linguistic expressions, and cardiovascular patterns) affected fairness across demographics. The findings indicated that no single modality was consistently fair for all groups. Although methods to mitigate unfairness improved fairness levels, they also highlighted a trade-off between performance and fairness. This calls for a broader moral discussion and further investigation into the ethics and application of automated mental health assessment tools.</p>
-
-<ul>
-  <li>Jiang, Z., Seyedi, S., Griner, E., Abbasi, A., Rad, A.B., Kwon, H., Cotes, R.O. and Clifford, G.D., 2024. Multimodal Mental Health Digital Biomarker Analysis from Remote Interviews using Facial, Vocal, Linguistic, and Cardiovascular Patterns. IEEE Journal of Biomedical and Health Informatics.</li>
-  <li>Jiang, Z., Seyedi, S., Griner, E., Abbasi, A., Rad, A.B., Kwon, H., Cotes, R.O. and Clifford, G.D. (2024) Evaluating and mitigating unfairness in multimodal remote mental health assessments. PLOS Digital Health 3(7): e0000413. https://doi.org/10.1371/journal.pdig.0000413</li>
-</ul>
-
-<h3 id="debiasing-artificial-intelligen-for-monitoring-parkinsons-disease-with-wearables-in-underserved-populations">Debiasing Artificial Intelligen for Monitoring Parkinson’s Disease with Wearables in Underserved Populations</h3>
-
-<figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/images/publications/arxiv-2502.09626.png" style="
-        width: 60%;
-        max-height: unset;
-      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
-  </a>
-  
-</figure>
-
-<p>Freezing of gait (FOG) is a debilitating feature of Parkinson’s disease (PD), which is a cause of injurious falls among PD patients. Recent advances in wearable-based human activity recognition (HAR) technology have enabled the detection of FOG subtypes across benchmark datasets. Since FOG manifestation is heterogeneous, developing models that quantify FOG consistently across patients with varying demographics, FOG types, and PD conditions is important. Bias and fairness in FOG models remain understudied in HAR, with research focused mainly on FOG detection using single benchmark datasets. We evaluated the bias and fairness of HAR models for wearable-based FOG detection across demographics and PD conditions using multiple datasets and the effectiveness of transfer learning as a potential bias mitigation approach. Our evaluation using demographic parity ratio (DPR) and equalized odds ratio (EOR) showed model bias (DPR &amp; EOR &lt; 0.8) for all stratified demographic variables, including age, sex, and disease duration. Our experiments demonstrated that transfer learning from multi-site datasets and generic human activity representations significantly improved fairness (average change in DPR +0.027, +0.039, respectively) and performance (average change in F1-score +0.026, +0.018, respectively) across attributes, supporting the hypothesis that generic human activity representations learn fairer representations applicable to health analytics.</p>
-
-<ul>
-  <li>Timothy Odonga, Christine D. Esper, Stewart A. Factor, J. Lucas McKay, Hyeokhyen Kwon. “On the Bias, Fairness, and Bias Mitigation for a Wearable-based Freezing of Gait Detection in Parkinson’s Disease.” arXiv preprint arXiv:2502.09626 (2025).</li>
-</ul>
-
-<h3 id="mobile-artificial-intelligence-systems-for-assessing-gait-impairment">Mobile Artificial Intelligence Systems for Assessing Gait Impairment</h3>
-
-<figure class="figure">
-  <a class="figure-image" aria-label="figure link">
-    <img src="/images/research/mobile_phone_gait.png" style="
         width: 80%;
         max-height: unset;
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
@@ -696,30 +545,13 @@
   
 </figure>
 
-<p>Accurate diagnosis of gait impairments is often hindered by subjective or costly
-assessment methods, with current solutions requiring either expensive multi-camera
-equipment or relying on subjective clinical observation. There is a critical need for
-accessible, objective tools that can aid in gait assessment while preserving patient
-privacy. In this work, we present a mobile phone-based, privacy-preserving artificial
-intelligence (AI) system for classifying gait impairments and introduce a novel dataset
-of 743 videos capturing seven distinct gait patterns. The dataset consists of frontal and
-sagittal views of trained subjects simulating normal gait and six types of pathological
-gait (circumduction, Trendelenburg, antalgic, crouch, Parkinsonian, and vaulting),
-recorded using standard mobile phone cameras. Our system achieved 86.5% accuracy
-using combined frontal and sagittal views, with sagittal views generally outperforming
-frontal views except for specific gait patterns like Circumduction. Model feature
-importance analysis revealed that frequency-domain features and entropy measures were
-critical for classifcation performance, specifically lower limb keypoints proved most
-important for classification, aligning with clinical understanding of gait assessment.
-These findings demonstrate that mobile phone-based systems can effectively classify
-diverse gait patterns while preserving privacy through on-device processing. The high
-accuracy achieved using simulated gait data suggests their potential for rapid
-prototyping of gait analysis systems, though clinical validation with patient data
-remains necessary. This work represents a significant step toward accessible, objective
-gait assessment tools for clinical, community, and tele-rehabilitation settings.</p>
+<p>Neurological disorders impact mobility and social interaction, yet continuous and passive monitoring and assessment remain difficult, often relying on clinicians’ observations. To address this, a cost-effective multimodal monitoring system was developed using edge computing, AI, cameras, microphones and wearables to track movement and social behavior in therapeutic spaces, particularly for Mild Cognitive Impairment (MCI). Similarly, in autism spectrum disorder (ASD), video and wearable-based systems have shown promise in detecting challenging behaviors like aggression in classrooms, while preserving privacy. For Parkinson’s disease (PD), explainable AI models now offer objective assessments of motor subtypes, tremors, and Freezing of Gait (FOG), surpassing traditional subjective methods and potentially uncovering new biomarkers for early diagnosis and clinical research.</p>
 
 <ul>
-  <li>Reddy, Lauhitya, Ketan Anand, Shoibolina Kaushik, Corey Rodrigo, J. Lucas McKay, Trisha M. Kesar, and Hyeokhyen Kwon. “Classifying Simulated Gait Impairments using Privacy-preserving Explainable Artificial Intelligence and Mobile Phone Videos.” arXiv preprint arXiv:2412.01056 (2024).</li>
+  <li>Hegde, C., Kiarashi, Y., Levey, A. I., Rodriguez, A. D., Kwon, H., &amp; Clifford, G. D. (2025). Feasibility of assessing cognitive impairment via distributed camera network and privacy‐preserving edge computing. Alzheimer’s &amp; Dementia: Diagnosis, Assessment &amp; Disease Monitoring, 17(1), e70085.</li>
+  <li>Barun Das, Conor Anderson, Tania Villavicencio, Johanna Lantz, Jenny Foster, Theresa Hamlin, Ali Bahrami Rad, Gari D. Clifford, Hyeokhyen Kwon (2024). Explainable Artificial Intelligence for Quantifying Interfering and High-Risk Behaviors in Autism Spectrum Disorder in a Real-World Classroom Environment Using Privacy-Preserving Video Analysis. arXiv:2407.21691</li>
+  <li>Rad, A. B., Villavicencio, T., Kiarashi, Y., Anderson, C., Foster, J., Kwon, H., … &amp; Clifford, G. D. (2025). From motion to emotion: exploring challenging behaviors in autism spectrum disorder through analysis of wearable physiology and movement. Physiological Measurement, 13(1), 015004.</li>
+  <li>Kwon, H., Clifford, G. D., Genias, I., Bernhard, D., Esper, C. D., Factor, S. A., &amp; McKay, J. L. (2023). An explainable spatial-temporal graphical convolutional network to score freezing of gait in parkinsonian patients. Sensors, 23(4), 1766.</li>
 </ul>
   </section>
 
@@ -734,55 +566,57 @@ gait assessment tools for clinical, community, and tele-rehabilitation settings.
   size: ;
 -->
 
-<h2 id="behavior-analytics-for-health-assessments">Behavior Analytics for Health Assessments</h2>
-
-<h3 id="parkinsons-disease">Parkinson’s Disease</h3>
-
-<ul>
-  <li><a href="/research/#transforming-movement-disorder-clinics-using-explainable-artificial-intelligence-for-motion-capture">Movement clinic with AI</a></li>
-  <li><a href="/research/#debiasing-artificial-intelligen-for-monitoring-parkinsons-disease-with-wearables-in-underserved-populations">Wearables for Parkinson’s Disease</a></li>
-</ul>
-
-<h3 id="stroke-survivors">Stroke survivors</h3>
-
-<ul>
-  <li><a href="/research/#mobile-artificial-intelligence-systems-for-assessing-gait-impairment">Mobile AI for Stroke</a></li>
-</ul>
-
-<h3 id="mental-health-and-depression">Mental Health and Depression</h3>
-
-<ul>
-  <li><a href="/research/#multi-modal-machine-learning-system-for-assessing-remote-interviews">“Multi-modal AI System”</a></li>
-</ul>
-
-<h3 id="autism-spectrum-disorder">Autism Spectrum Disorder</h3>
-
-<ul>
-  <li><a href="/research/#transforming-education-space-using-multimodal-artificial-intelligence-using-camera-audio-and-wearables">“Classroom with AI”</a></li>
-</ul>
-
-<h3 id="cognitive-impairment-alzheimers-disease-and-dementia">Cognitive Impairment, Alzheimer’s Disease, and Dementia</h3>
+<h2 id="ethical-artificial-intelligence-for-remote-interviews-or-wearables">Ethical Artificial Intelligence for Remote Interviews or Wearables</h2>
 
 <figure class="figure">
   <a class="figure-image" aria-label="figure link">
-    <img src="/images/publications/cep_ep6_vision_only_moca.png" style="
-        width: 50%;
+    <img src="/images/research/ethical_ai.png" style="
+        width: 80%;
         max-height: unset;
       " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
   </a>
   
 </figure>
 
-<p>Mild cognitive impairment (MCI) is characterized by a decline in cognitive functions beyond typical age and education-related expectations. Since, MCI has been linked to reduced social interactions and increased aimless movements, we aimed to automate the capture of these behaviors to enhance longitudinal monitoring.
-Using a privacy-preserving distributed camera network, we collected movement and social interaction data from groups of individuals with MCI undergoing therapy within a 1700$m^2$ space. 
-We developed movement and social interaction features, which were then used to train a series of machine learning algorithms to distinguish between higher and lower cognitive functioning MCI groups.
-A Wilcoxon rank-sum test revealed statistically significant differences between high and low-functioning cohorts in features such as linear path length, walking speed, change in direction while walking, entropy of velocity and direction change, and number of group formations in the indoor space.
-Despite lacking individual identifiers to associate with specific levels of MCI, a machine learning approach using the most significant features provided a 71\% accuracy.<br>
-We provide evidence to show that a privacy-preserving low-cost camera network using edge computing framework has the potential to distinguish between different levels of cognitive impairment from the movements and social interactions captured during group activities.</p>
+<p>We developed multimodal machine learning systems that analyze facial, vocal, linguistic, and cardiovascular signals from remote interviews to enhance psychiatric evaluations through objective digital biomarkers. While addressing demographic bias, the system effectively detects conditions like depression, cognitive impairment, social isolation, and psychological well-being. We also developed wearable-based models for monitoring gaits in Parkinson’s disease with transfer learning from diverse datasets, improving generalizability for varying demographics and disease conditions.</p>
 
 <ul>
-  <li>Hegde, Chaitra, Yashar Kiarashi, Allan I. Levey, Amy D. Rodriguez, Hyeokhyen Kwon, and Gari D. Clifford. “Feasibility of assessing cognitive impairment via distributed camera network and privacy-preserving edge computing.” arXiv preprint arXiv:2408.10442 (2024).</li>
+  <li>Jiang, Z., Seyedi, S., Griner, E., Abbasi, A., Rad, A.B., Kwon, H., Cotes, R.O. and Clifford, G.D., 2024. Multimodal Mental Health Digital Biomarker Analysis from Remote Interviews using Facial, Vocal, Linguistic, and Cardiovascular Patterns. IEEE Journal of Biomedical and Health Informatics.</li>
+  <li>Jiang, Z., Seyedi, S., Griner, E., Abbasi, A., Rad, A.B., Kwon, H., Cotes, R.O. and Clifford, G.D. (2024) Evaluating and mitigating unfairness in multimodal remote mental health assessments. PLOS Digital Health 3(7): e0000413. https://doi.org/10.1371/journal.pdig.0000413</li>
+  <li>Mu, X., Seyedi, S., Zheng, I., Jiang, Z., Chen, L., Omofojoye, B., … &amp; Kwon, H. (2024). Detecting Cognitive Impairment and Psychological Well-being among Older Adults Using Facial, Acoustic, Linguistic, and Cardiovascular Patterns Derived from Remote Conversations. arXiv preprint arXiv:2412.14194.</li>
+  <li>Timothy Odonga, Christine D. Esper, Stewart A. Factor, J. Lucas McKay, Hyeokhyen Kwon. “On the Bias, Fairness, and Bias Mitigation for a Wearable-based Freezing of Gait Detection in Parkinson’s Disease.” arXiv preprint arXiv:2502.09626 (2025).</li>
 </ul>
+
+<h2 id="mobile-computer-vision-and-closed-loop-intervention-systems-for-motion-assessments-and-rehabilitation">Mobile Computer Vision and Closed-loop Intervention Systems for Motion Assessments and Rehabilitation</h2>
+
+<figure class="figure">
+  <a class="figure-image" aria-label="figure link">
+    <img src="/images/research/mobileComputerVision.png" style="
+        width: 60%;
+        max-height: unset;
+      " alt="figure image" loading="lazy" onerror="this.src = '/images/fallback.svg'; this.onerror = null;">
+  </a>
+  
+</figure>
+
+<p>We developed mobile AI systems to improve motor assessment and rehabilitation. A mobile phone-based, privacy-preserving system classifies various gait impairment patterns, demonstrating the potential for accessible gait analysis in clinical and tele-rehabilitation settings. We also developed a closed-loop neurostimulation system that integrates real-time video-based movement classification on webcam with wireless transcutaneous vagus nerve stimulation (tVNS), automatically triggering stimulation during rehabilitation exercises, showcasing a promising step toward patient-driven, home-based motor rehabilitation.</p>
+
+<ul>
+  <li>Reddy, Lauhitya, Ketan Anand, Shoibolina Kaushik, Corey Rodrigo, J. Lucas McKay, Trisha M. Kesar, and Hyeokhyen Kwon. “Classifying Simulated Gait Impairments using Privacy-preserving Explainable Artificial Intelligence and Mobile Phone Videos.” arXiv preprint arXiv:2412.01056 (2024).</li>
+  <li>Minoru Shinohara, Arya Mohan, Nathaniel Green, Joshua N. Posen, Milka Trajkova, Woon-Hong Yeo, Hyeokhyen Kwon, “Closed-loop Neuromotor Training System Pairing Transcutaneous Vagus Nerve Stimulation with Video-based Real-time Movement Classification”, medRxiv 2025.05.23.25327218; doi: https://doi.org/10.1101/2025.05.23.25327218</li>
+</ul>
+  </section>
+
+  
+  
+  
+
+  <section class="background" data-size="page">
+    <!--
+  background: ;
+  dark: ;
+  size: ;
+-->
   </section>
 
 
