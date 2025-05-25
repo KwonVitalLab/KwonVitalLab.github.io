@@ -1,5 +1,36 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1101/2025.05.24.25328107
+  title: Quantifying Mild Cognitive Impairments in Older Adults Using Multi-modal
+    Wearable Sensor Data in a Kitchen Environment
+  authors:
+  - Bonwoo Koo
+  - Ibrahim Bilau
+  - Amy D. Rodriguez
+  - Eunhwa Yang
+  - Hyeokhyen Kwon
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-05-25'
+  link: https://doi.org/g9k83z
+  image: https://KwonVitalLab.github.io/images/publications/Overview_Pipeline-kitchenXwearable.png
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1101/2025.05.21.25328033
+  title: 'Visual Accessibility through Open Shelving: Impacts on Cognitive Load, Motivation,
+    Physical Activity, and User Perception in Older Adults with Mild Cognitive Impairment'
+  authors:
+  - Ibrahim Bilau
+  - Bonwoo Koo
+  - Esther Fu
+  - Wendy Chau
+  - Hyeokhyen Kwon
+  - Eunhwa Yang
+  publisher: Cold Spring Harbor Laboratory
+  date: '2025-05-25'
+  link: https://doi.org/g9k83x
+  image: https://KwonVitalLab.github.io/images/publications/Kitchen_Space_Image.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2025.05.23.25327218
   title: Closed-loop Neuromotor Training System Pairing Transcutaneous Vagus Nerve
     Stimulation with Video-based Real-time Movement Classification
