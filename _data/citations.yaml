@@ -188,7 +188,7 @@
   publisher: arXiv
   date: '2024-08-01'
   link: https://arxiv.org/abs/2407.21691
-  image: https://KwonVitalLab.github.io/images/research/tcfd-vision-group-binary.png
+  image: https://KwonVitalLab.github.io/images/publications/tcfd-vision-group-binary.png
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.3390/s24154960
