@@ -37,6 +37,7 @@ td, th {
    border: none!important;
 }
 </style>
+| 2025/06/06 | : 🎉 We have four abstracts accepted to [American Medical Informatics Association (AMIA) Annual Meeting 2025](https://amia.org/education-events/amia-2025-annual-symposium). They include 1 podium (Dharini Rabhavan) and 3 posters ([Merna Bibars](https://kwonvitallab.github.io/members/phd-students/merna-bibars.html), [Timothy Odonga](https://kwonvitallab.github.io/members/phd-students/timothy-odonga.html), and Joshua). Congratulations!
 | 2025/06/05 | : 🌌 [Timothy Odonga](https://kwonvitallab.github.io/members/phd-students/timothy-odonga.html) presented a poster on his research on “The Bias, Fairness, and Bias Mitigation for a Wearable-based Freezing of Gait Detection in Parkinson’s Disease” at the [International Consortium for Freezing of Gait (ICFOG)](https://icfog.org/).
 | 2025/05/16 | : 🏆 We received [Georgia CTSA Pilot Grants Awards](https://georgiactsa.org/funding/pilot-grants.html), “ZEST-E: A therapeutic robotic exercise system for people with Parkinson's”. Dr. Kwon will work with robotics, neurologist, physical therapist to develop human-robot interaction systems for rehabilitation exercise for older people with Parkinson’s Disease. 
 | 2025/05/15 | : 🎉 [Jangwon Lim](https://kwonvitallab.github.io/members/undergrads/jangwon-lim.html) is the recipient of [Pathways Internship Funding](https://pathways.emory.edu/opportunities/internship-funding/index.html) from Emory Pathways Center. Congratulations! |
