@@ -1,24 +1,23 @@
 ---
-title: BMI-CS-534
+title: BMI-534
 description: Long version
 ---
 
 
 # BMI 534 - Introduction to Machine Learning
-# CS 534 - Machine Learning
 
-{:.center}
-**The course is cross-listed in both BMI534 and CS534, so please register for the one with available seats.**
+**Course schedule:** Monday and Wednesday 2:30 - 3:45pm
 
-### Instructor:
+**Classroom:** Rm 4004, Woodruff Memorial Resesarch Building 
+
+## Instructor:
 
 Hyeokhyen Kwon, Ph.D. \
 Assistant Professor \
 Department of Biomedical Informatics \
 Office: Rm 4105, 4th Floor, Emory Woodruff Memorial Research Building (101 Woodruff Cir, Atlanta, GA 30322)
 
-
-Teaching Assistant: Seyedeh Somayyeh Mousavi ([mail](mailto:seyedeh.somayyeh.mousavi@emory.edu))
+Teaching Assistant: TBD ([mail](mailto:TBD))
 
 
 ## Course Overview
@@ -30,7 +29,7 @@ Machine learning is innovating many applications all across our society from aut
 ### Learning Objectives
 
 
-This course will introduce students to fundamental theory and algorithms in machine learning through lectures, homework, midterm, and a semester-long project. Taking this course, students should be able to:
+This course will introduce students to fundamental theory and algorithms in machine learning through lectures, homework, and a semester-long project. Taking this course, students should be able to:
 - Prepare datasets for machine-learning experiments
 - Understand the basic building blocks and general principles that underlie machine learning algorithms
 - Be familiar with specific, widely used machine learning algorithms for classification and regression
@@ -41,7 +40,6 @@ This course will introduce students to fundamental theory and algorithms in mach
 
 
 ### Prerequisites:
-
 
 - Undergraduate-level linear algebra
 - Undergraduate-level multivariate calculus
@@ -66,16 +64,16 @@ Please ask all questions under the discussions section of Canvas. You are encour
 
 
 - **Email:** \
-If there are private matters specific to you (e.g., special accommodations, requesting alternative arrangements, etc.) or confidential matters you want to report, please email with the subject heading starting with “[CS534]”. I probably will not respond immediately but will try to respond within 24 hours(during specific busy periods I may need 48 hours). It is best to avoid last-minute questions that require immediate attention (e.g., before a deadline!). Plan accordingly.
+If there are private matters specific to you (e.g., special accommodations, requesting alternative arrangements, etc.) or confidential matters you want to report, please email with the subject heading starting with “[BMI534]”. I probably will not respond immediately but will try to respond within 24 hours (during specific busy periods I may need 48 hours). It is best to avoid last-minute questions that require immediate attention (e.g., before a deadline!). Plan accordingly.
 
 
 - **Office Hours:**
-  - Instructor (Hyeokhyen Kwon): Mon. 1 - 3 pm @ Instuctor's office / [Zoom](https://zoom.us/j/2097437412?pwd=NXVuYkwwQlVIUlhEM2Z3dGkwT1I0dz09)
-  - TA (Seyedeh Somayyeh Mousavi): Thursdays (3-5 pm) @ BMI classroom / [Zoom](https://emory.zoom.us/j/92409485328)
+  - Instructor (Hyeokhyen Kwon): TBD @ Instuctor's office / [Zoom](TBD)
+  - TA (TBD): TBD @ BMI classroom / [Zoom](TBD)
 
 - **Remote Attendance:** \
   - You can attend remotely only if necessary. This has to be communicated with the instructor and TA at least a week before. 
-  - [Zoom](https://emory.zoom.us/j/99927610990)
+  - [Zoom](TBD)
 
 ### Textbook(s):
 - Required
@@ -96,13 +94,10 @@ The final grade will be determined by a weighted average of all the graded items
 Component   | Weight |
 --------- | ------ |
 Participation   |  10% |
-Homeworks   | 35%    |
-Midterm   | 15%    |
+Homeworks   | 50%    |
 Project   | 40%    |
 
-
 Final grades may be curved up so that the class mean falls at least in a B range. The class median, mean, and standard deviation will be announced for each assignment and exam so that you have an idea of where you stand.
-
 
 - **Class participation, punctuality, and attendance (10%):** \
   This is not based on attendance, even if you show up for all classes you can still get a 0. The goal is to encourage class participation and active dialogue. \
@@ -114,21 +109,17 @@ Final grades may be curved up so that the class mean falls at least in a B range
     - Attend office hours and contribute to the discussion, i.e. asking and answering other students’ questions
 
 
-- **Homework (35%):** \
+- **Homework (50%):** \
   Homework assignments will help students develop analytical and programming skills. A homework assignment testing prerequisite material will be assigned on the first day to identify students who are not prepared for the course.
 
 
-  There will be *5 graded homework* spaced over the first 2/3 of the semester and 1 final project (more details in later sections). The homework is typically due in 10-14 days.
+  There will be *4 graded homework* spaced over the first 2/3 of the semester and 1 final project (more details in later sections). The homework is typically due in 10-14 days.
 
 
   Homework is due electronically at 11:59 PM ET on the date specified. Each student receives six 24-hour “late days” that can be used on any of the 5 homework throughout the semester. No more than 3 late days may be used on any single homework. If you have no more late days remaining, you will receive zero credit for any late homework. Additional extensions on homework will be granted with appropriate documentation.
 
 
   <!-- Solutions for written homework will be reviewed in class after all students submit homework, including late submissions. -->
-
-
-- **Midterm (15%):** \
-  The midterm must be taken at the required time. Rescheduling the midterm is only permitted in emergencies. There will be no final exam so you can focus on the final project
 
 
 - **Project (40%)** \
@@ -140,7 +131,7 @@ Final grades may be curved up so that the class mean falls at least in a B range
   *Topic*: \
   The project topic is open-ended, but needs to be within the scope of the machine learning. \
   It can be an application project or an algorithmic project (developing a new learning algorithm or a novel variant of an existing state-of-the-art). \
-  Each team can select any problem and dataset, provided that the problem and tasks haven't been solved in the latest papers for the dataset.
+  Each team can select any problem and dataset, provided that the problem and tasks haven't been solved in the latest papers for the dataset and is related to *biomedical problem*.
   This means that for your proposed topic, you will need to study state-of-the-art papers and provide a justification for why it is interesting. \
   There is a strong preference for using a publicly available dataset. If you intend to collect the needed data yourself, keep in mind this is only one part of the expected project work and can often take considerable time. \
   Also, the topic can be related to your research interest, but *DO NOT* select graduate research mentored by your advisor as your topic.
@@ -176,8 +167,7 @@ Final grades may be curved up so that the class mean falls at least in a B range
       - what are the machine learning methods you plan to apply or improve on?
       - What are the experiments you plan to run and how do you plan to evaluate the algorithms?
 
-
-      You are not obligated to stick to what you propose, but this is to ensure you've done the appropriate literature search and have an initial plan of attack.
+      You are not obligated to stick to what you propose, but this is to ensure you've done the appropriate literature search and have an initial plan.
 
 
     - Potential Pitfalls and Mitigation Strategies. \
@@ -188,6 +178,9 @@ Final grades may be curved up so that the class mean falls at least in a B range
 
     - Short list of references. \
       The relevant articles need to be cited in the main text accordingly.
+
+  - Template
+    - I suggest you use ACM single column format ([link](https://www.acm.org/publications/proceedings-template))
 
 
   - Grading \
@@ -307,12 +300,15 @@ Final grades may be curved up so that the class mean falls at least in a B range
       - The code should be executable standalone with the provided dataset. So, provide an execution script and description for the instructor and TA to run the code and check results efficiently.
       - Include the comments on the code for the instructor and TA to understand the process of the code.
       - The result in the report should be replicable. This means that, if you are using any random function in your model or experiment, the final version should fix the random seed for the replication.
+
+  - Template
+    - I suggest you use ACM single column format ([link](https://www.acm.org/publications/proceedings-template))
+      
   - Grading \
     The final report will be judged based on the clarity of the report, the novelty of the problem, the technical quality, the analysis, and the significance of the work. The major components include a clear motivation and description of the project goals, the chosen methodologies (preprocessing and machine learning models), the presentation and evaluation of the results, replicability of the results (is the description such that someone well-versed in machine learning could obtain similar results on the same dataset), insights from the project and analysis of the results, appropriate/relevant reference list, and the quality of the writing (grammar and style).
 
 
 ## University Policies and Academic Integrity
-
 
 Any suspected violations of course rules or the Emory's Honor Codes will be referred to the honor council for a hearing. \
 This includes but is not limited to consulting electronic or printed materials during midterm and plagiarism on homework or class projects.\
@@ -323,19 +319,16 @@ It is your responsibility to understand the [Laney Graduate School Honor Code](h
 
   The Internet and ChatGPT can also be useful resources for learning.
 
-
   DISCLAIMER: You are responsible for discerning whether the resource is reliable and correct (i.e., caveat emptor). While it is okay to look at resources for the broad topic (e.g., how decision trees work), it is not okay to look for solutions to a specific homework problem (e.g., how to implement a decision tree in Python). Please ask if you are unsure whether something is allowed. You must cite all online sources used while working on homework and final projects. It is always your responsibility to learn if a source is allowed.
 
-
   Apparent copies from any source, including your colleagues and internet sites, will be referred to the appropriate honor council. Every homework submission must have a README file with the following comments:
-
 
   /* THIS CODE IS MY OWN WORK, IT WAS WRITTEN WITHOUT CONSULTING CODE WRITTEN BY OTHER STUDENTS OR LARGE LANGUAGE MODELS LIKE CHATGPT. Your_Name_Here */
 
 
 - Homework: 
 
-  assignments should be completed independently.
+  Assignments should be completed independently.
   All submissions must contain only your original work and reflect your understanding of the assignment.
   A signed honor **pledge** be submitted with each homework assignment. Assignments will not be accepted without a pledge.
   Discussing homework assignments is not expressly forbidden. Code should not be
@@ -350,7 +343,7 @@ It is your responsibility to understand the [Laney Graduate School Honor Code](h
 
 - Accommodations: 
 
-  The Department of Computer Science and Biomedical Informatics at Emory supports equal access for students with disabilities. Any students needing special accommodations due to a disability should contact the [Department of Accessibility (DAS)](https://accessibility.emory.edu/) and appropriate arrangements will be made.
+  The Department of Biomedical Informatics at Emory supports equal access for students with disabilities. Any students needing special accommodations due to a disability should contact the [Department of Accessibility (DAS)](https://accessibility.emory.edu/) and appropriate arrangements will be made.
 
 
   If you are a student who is currently registered with DAS and have not received a copy of your accommodation notification letter within the first week of class, please notify DAS immediately. Students who have accommodations in place are encouraged to contact the instructor during the first week of the semester to communicate your specific needs for the course as it relates to their approved accommodations. All discussions with DAS and faculty concerning the nature of your disability remain confidential.
@@ -365,35 +358,35 @@ The reading material listed below is optional and the lecture plan may deviate o
 
 |\# | Date | Theme | Topic | Reference (Chapter)  | Assignment |
 |:- |:---- |:--- |:------------- |:----------- |:---------- |
-1  | 1/17 | Intro + Course Logistics | Review syllabus, Overview of course topics | Ch. 1 (Hastie et al.)<br>[Ch. 1 (Murphy)](http://www.cs.ubc.ca/~murphyk/MLbook/pml-intro-22may12.pdf) <br>[Ch. 3 (Welling)](https://github.com/tpn/pdfs/blob/master/A%20First%20Encounter%20with%20Machine%20Learning%20-%202011%20(IntroMLBook).pdf)|  **Homework #0 out (Due 1/30)** |
-2  | 1/22  | Intro to Optimization | | Convex optimization notes [Part I](http://cs229.stanford.edu/section/cs229-cvxopt.pdf) and [II](http://cs229.stanford.edu/section/cs229-cvxopt2.pdf) from Stanford's machine learning class<br>Rosenberg's [abridged notes](https://davidrosenberg.github.io/mlcourse/Notes/convex-optimization.pdf)|
-3  | 1/24  | Intro to Statistics, Probability, and Random Variables | Random variables, probability density functions, conditional and joint distributions, Bayes rule | Handouts |
-4  | 1/29  | Statistical Decision Theory + Linear Regression | Mapping machine learning problems to statistical concepts, Regression, ridge regression | Ch 1 -2; Ch 3.1 - 3.4 (Hastie et al.)<br>Ch. 17.1 - 17.2 [(Barber)](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/171216.pdf)<br>Prof. Carlos Carvalho's [MLR Slides](http://faculty.mccombs.utexas.edu/carlos.carvalho/teaching/Section4.pdf) |
-5  | 1/31  | Linear Regression + Naive Bayes | LASSO regression, elastic net regression | |  **Homework #1 out (Due 2/13)** |
-6  | 2/5  | Linear Classification | logistic regression, LDA, QDA | Ch 2.1 - 2.4; Ch 4.1 - 4.4 (Hastie et al.) |
-7  | 2/7  | Linear Classification + Bias-Variance Tradeoff | Training & test error, conditional and expected test error, bias-variance decomposition and tradeoff, training error optimism | Ch 7.2 - 7.3 (Hastie et al.)<br>Ch. 5.9 (Daumé III) |
-8  | 2/12  | Model Assessment + Error Measures | Validation as an estimation problem, cross validation, bias and variance of cross validation schemes, Error measures, class imbalance, ROC analysis, precision-recall | Ch. 7.10 (Hastie et al.)<br>Ch. 2.5 - 2.6 (Daumé III)| |
-9  | 2/14  | Model Selection | Effective number of parameters, Akaike and Bayes information criterion | Ch. 7 (Hastie et al.)<br>Ch. 5.5 - 5.6 (Daumé III) | **Homework #2 out (Due 2/27)** |
-10 | 2/19  | Practical Issues | Preparing data, labeling issues, interpretation  | Ch. 9 -10 (Hastie et al.) |
-11  | 2/21  | Decision Trees | Decision trees, boosting | Ch. 9.2 (Hastie et al.)<br> Ch. 1.3 (Daumé III) |
-12  | 2/26  | Perceptron + Support Vector Machines | Perceptron, SVM, kernel SVM | Ch. 12 (Hastie et al.)<br>Ch. 4; Ch. 11 (Daumé III)<br> Ch. 7 - 9 (Welling)<br>Ch. 15 (Shalev-Shwartz & Ben-David)<br>[Standford SVM notes](http://cs229.stanford.edu/notes/cs229-notes3.pdf)<br>[NYU SVM notes](https://davidrosenberg.github.io/ml2015/docs/svm-notes.pdf) | |
-13  | 2/28  | Neural Networks | Architectures, gradient optimization, back propagation | Ch. 11 (Hastie et al.)<br>Ch. 1-3 [(Nielsen)](http://neuralnetworksanddeeplearning.com/index.html)<br>Ch. 20.1 - 20.3 (Shalev-Shwartz & Ben-David) | **Homework #3 out (Due 3/14)** |
-14  | 3/4  | Neural Networks | | | **Project Proposal due 3/5** |
-| | 3/6  | Spring Break | | |
-| | 3/11  | Spring Break | | |
-15  | 3/13  | Additive Models + Bootstrap | ADABoost, gradient boosting | Ch. 7.11; Ch. 9.1 (Hastie et al.) |
-16  | 3/18  | Boosting | | Ch. 10 (Hastie et al.) | **Homework #4 out (Due 4/2)** |
-17  | 3/20  | Random Forest | Ensemble methods, random forests | Ch. 15 - 16 (Hastie et al.)<br>Breiman's [paper](http://dl.acm.org/citation.cfm?id=570182) | **Project Spotlight Slides Due 3/24** |
-18  | 3/25  | **Project Spotlight** + Ensembles | | |
-19  | 3/27  | Prototype methods + Challenges with High-dimensional Data + Demensionality Reduction | KNN, Curse of dimensionality, sparse representation | Ch. 13 - 14; Ch. 18 (Hastie et al.)<br>Ch. 3.2 - 3.3 (Daumé III)<br>Ch. 5 (Welling)<br> Ch. 19.1 - 19.2; Ch. 23 (Shalev-Shwartz & Ben-David)<br>[Stanford PCA notes](http://cs229.stanford.edu/notes/cs229-notes10.pdf) | |
-20  | 4/1  | Dimensionality Reduction | Principal component analysis, locally-linear embedding, manifold learning | Ch. 14 (Hastie et al.) | |
-21  | 4/3  | Clustering + Mixture modeling | K-means, spectral clustering, expectation maximization | Ch. 14 (Hastie et al.) | **Homework #5 out (Due 4/16)** |
-22  | 4/8  | Reinforcement Learning | Markov Decision Process | | |
-23  | 4/10  | Reinforcement Learning | Q-Learning |
-24  | 4/15  | Bayesian Network | Probabilistic Graphical Model |
-25  | 4/17  | Filtering + Time-series Analysis | Kalman Filter, Hidden Markov Model |
-21  | 4/22  | **Midterm Exam** | |
-27  | 4/24  | Ethics in AI | |
-28  | 4/29  | Project Presentations | | | **Final Report Due 5/10** |
+1  | 8/27 | Intro + Course Logistics | Review syllabus, Overview of course topics | Ch. 1 (Hastie et al.)<br>[Ch. 1 (Murphy)](http://www.cs.ubc.ca/~murphyk/MLbook/pml-intro-22may12.pdf) <br>[Ch. 3 (Welling)](https://github.com/tpn/pdfs/blob/master/A%20First%20Encounter%20with%20Machine%20Learning%20-%202011%20(IntroMLBook).pdf)|  **Homework #0 out (Due 9/9)** |
+| | 9/1  | Labor Day | | |
+2  | 9/3  | Intro to Optimization | | Convex optimization notes [Part I](http://cs229.stanford.edu/section/cs229-cvxopt.pdf) and [II](http://cs229.stanford.edu/section/cs229-cvxopt2.pdf) from Stanford's machine learning class<br>Rosenberg's [abridged notes](https://davidrosenberg.github.io/mlcourse/Notes/convex-optimization.pdf)|
+3  | 9/8  | Intro to Statistics, Probability, and Random Variables | Random variables, probability density functions, conditional and joint distributions, Bayes rule | Handouts |
+4  | 9/10  | Statistical Decision Theory + Linear Regression | Mapping machine learning problems to statistical concepts, Regression, ridge regression | Ch 1 -2; Ch 3.1 - 3.4 (Hastie et al.)<br>Ch. 17.1 - 17.2 [(Barber)](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/171216.pdf)<br>Prof. Carlos Carvalho's [MLR Slides](http://faculty.mccombs.utexas.edu/carlos.carvalho/teaching/Section4.pdf) | **Homework #1 out (Due 9/23)** |
+5  | 9/15  | Linear Regression + Naive Bayes | LASSO regression, elastic net regression | |   |
+6  | 9/17  | Linear Classification | logistic regression, LDA, QDA | Ch 2.1 - 2.4; Ch 4.1 - 4.4 (Hastie et al.) |
+7  | 9/22  | Linear Classification + Bias-Variance Tradeoff | Training & test error, conditional and expected test error, bias-variance decomposition and tradeoff, training error optimism | Ch 7.2 - 7.3 (Hastie et al.)<br>Ch. 5.9 (Daumé III) |
+8  | 9/24  | Model Assessment + Error Measures | Validation as an estimation problem, cross validation, bias and variance of cross validation schemes, Error measures, class imbalance, ROC analysis, precision-recall | Ch. 7.10 (Hastie et al.)<br>Ch. 2.5 - 2.6 (Daumé III)| **Homework #2 out (Due 10/7)** |
+9  | 9/29  | Model Selection | Effective number of parameters, Akaike and Bayes information criterion | Ch. 7 (Hastie et al.)<br>Ch. 5.5 - 5.6 (Daumé III) |  |
+10 | 10/1  | Practical Issues | Preparing data, labeling issues, interpretation  | Ch. 9 -10 (Hastie et al.) | **Project Proposal due 10/1** |
+11  | 10/6  | Decision Trees | Decision trees, boosting | Ch. 9.2 (Hastie et al.)<br> Ch. 1.3 (Daumé III) |
+12  | 10/8  | Perceptron + Support Vector Machines | Perceptron, SVM, kernel SVM | Ch. 12 (Hastie et al.)<br>Ch. 4; Ch. 11 (Daumé III)<br> Ch. 7 - 9 (Welling)<br>Ch. 15 (Shalev-Shwartz & Ben-David)<br>[Standford SVM notes](http://cs229.stanford.edu/notes/cs229-notes3.pdf)<br>[NYU SVM notes](https://davidrosenberg.github.io/ml2015/docs/svm-notes.pdf) | **Homework #3 out (Due 10/21)**  |
+| | 10/13  | Fall Break | | |
+13  | 10/15  | Neural Networks | Architectures, gradient optimization, back propagation | Ch. 11 (Hastie et al.)<br>Ch. 1-3 [(Nielsen)](http://neuralnetworksanddeeplearning.com/index.html)<br>Ch. 20.1 - 20.3 (Shalev-Shwartz & Ben-David) | **Project Spotlight Slides Due 10/19** |
+14  | 10/20  | **Project Spotlight** + Neural Networks | | |  |
+15  | 10/22  | Additive Models + Bootstrap | ADABoost, gradient boosting | Ch. 7.11; Ch. 9.1 (Hastie et al.) | **Homework #4 out (Due 11/4)** |
+16  | 10/27  | Boosting | | Ch. 10 (Hastie et al.) |  |
+17  | 10/29  | Random Forest | Ensemble methods, random forests | Ch. 15 - 16 (Hastie et al.)<br>Breiman's [paper](http://dl.acm.org/citation.cfm?id=570182) |  |
+18  | 11/3  |  Ensembles | | |
+19  | 11/5  | Prototype methods + Challenges with High-dimensional Data + Demensionality Reduction | KNN, Curse of dimensionality, sparse representation | Ch. 13 - 14; Ch. 18 (Hastie et al.)<br>Ch. 3.2 - 3.3 (Daumé III)<br>Ch. 5 (Welling)<br> Ch. 19.1 - 19.2; Ch. 23 (Shalev-Shwartz & Ben-David)<br>[Stanford PCA notes](http://cs229.stanford.edu/notes/cs229-notes10.pdf) | |
+20  | 11/10  | Dimensionality Reduction | Principal component analysis, locally-linear embedding, manifold learning | Ch. 14 (Hastie et al.) | |
+21  | 11/12  | Clustering + Mixture modeling | K-means, spectral clustering, expectation maximization | Ch. 14 (Hastie et al.) |  |
+22  | 11/17  | Reinforcement Learning | Markov Decision Process | | |
+23  | 11/19  | Reinforcement Learning | Q-Learning |
+24  | 11/24  | Bayesian Network | Probabilistic Graphical Model |
+25  | 11/26  | Filtering + Time-series Analysis | Kalman Filter, Hidden Markov Model |
+21  | 12/1  | TBD | |
+27  | 12/3  | Ethics in AI | |
+28  | 12/8  | **Project Presentations** | | | **Final Report Due by exam day assigned by school** |
 
 

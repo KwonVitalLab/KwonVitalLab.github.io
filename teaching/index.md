@@ -10,14 +10,20 @@ nav:
 
 {% include section.html %}
 
-<!-- - **Fall 2025**: [Computer Vision](/teaching/2025-Fall) -->
+- **Fall 2025**: 
+  - [BMI 534 - Introduction to Machine Learning](/teaching/2025-Fall/ML-long)
+
+  - BMI 500 - Introduction to Ethical Data Science and Informatics
+
+    Lecture Topic: Edge Computing and Multimodal Human Behavior Sensing
+
+{% include section.html %}
+
+## Past
 
 - **Fall 2024**: BMI 500 - Introduction to Ethical Data Science and Informatics
 
     Lecture Topic: Edge Computing and Multimodal Human Behavior Sensing
-
-
-## Past
 
 - **Spring 2024**: [BMI 534 - Introduction to Machine Learning / CS 534 - Machine Learning](/teaching/2024-Spring/short-version)
 <!-- - Spring 2024: [BMI 534 - Introduction to Machine Learning / CS 534 - Machine Learning (Detailed)](/teaching/2024-Spring) -->
