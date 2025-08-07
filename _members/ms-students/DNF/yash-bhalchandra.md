@@ -3,7 +3,7 @@ name: Yash Bhalchandra
 image: images/members/ms-students/yash-bhalchandra.jpeg
 role: masters-cs-gt
 alumni: false
-dnf: false
+dnf: true
 aliases:
   - Yash Bhalchandra
 links:
