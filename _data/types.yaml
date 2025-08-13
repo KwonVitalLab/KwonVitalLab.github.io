@@ -10,6 +10,10 @@ pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
+visiting-associate-professor:
+  icon: fa-solid fa-glasses
+  description: Visiting Associate Professor, BMI, Emory
+
 research-scientist:
   icon: fa-solid fa-glasses
   description: Research Scientist, BMI, Emory

@@ -25,6 +25,10 @@ nav:
 <!-- Members -->
 {% include section.html size="wide" %}
 
+<!-- Visiting Scholar -->
+{% include list.html data="members" component="portrait" filters="role: visiting, alumni: false" %}
+
+
 <!-- Research Scientist -->
 {% include list.html data="members" component="portrait" filters="role: research-scientist, alumni: false" %}
 
