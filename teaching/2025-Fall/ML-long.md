@@ -17,7 +17,7 @@ Assistant Professor \
 Department of Biomedical Informatics \
 Office: Rm 4105, 4th Floor, Emory Woodruff Memorial Research Building (101 Woodruff Cir, Atlanta, GA 30322)
 
-Teaching Assistant: TBD ([mail](mailto:TBD))
+Teaching Assistant: Mohammad Sina Hassannia ([mail](mailto:mohammad.sina.hassannia@emory.edu))
 
 
 ## Course Overview
@@ -68,8 +68,8 @@ If there are private matters specific to you (e.g., special accommodations, requ
 
 
 - **Office Hours:**
-  - Instructor (Hyeokhyen Kwon): TBD @ Instuctor's office / [Zoom](TBD)
-  - TA (TBD): TBD @ BMI classroom / [Zoom](TBD)
+  - Instructor (Hyeokhyen Kwon): Tues. 3:00 - 5:00 pm @ Instuctor's office / [Zoom](https://zoom.us/j/96865156641?jst=3)
+  - TA (Mohammad Sina Hassannia): Thurs. 3:00 - 5:00 pm @ BMI classroom / [Zoom](https://emory.zoom.us/j/99792850505)
 
 - **Remote Attendance:** \
   - You can attend remotely only if necessary. This has to be communicated with the instructor and TA at least a week before. 
@@ -113,7 +113,7 @@ Final grades may be curved up so that the class mean falls at least in a B range
   Homework assignments will help students develop analytical and programming skills. A homework assignment testing prerequisite material will be assigned on the first day to identify students who are not prepared for the course.
 
 
-  There will be *4 graded homework* spaced over the first 2/3 of the semester and 1 final project (more details in later sections). The homework is typically due in 10-14 days.
+  There will be *5 graded homework* spaced over the first 2/3 of the semester and 1 final project (more details in later sections). The homework is typically due in 10-14 days.
 
 
   Homework is due electronically at 11:59 PM ET on the date specified. Each student receives six 24-hour “late days” that can be used on any of the 5 homework throughout the semester. No more than 3 late days may be used on any single homework. If you have no more late days remaining, you will receive zero credit for any late homework. Additional extensions on homework will be granted with appropriate documentation.
@@ -311,7 +311,7 @@ Final grades may be curved up so that the class mean falls at least in a B range
 ## University Policies and Academic Integrity
 
 Any suspected violations of course rules or the Emory's Honor Codes will be referred to the honor council for a hearing. \
-This includes but is not limited to consulting electronic or printed materials during midterm and plagiarism on homework or class projects.\
+This includes but is not limited to plagiarism on homework or class projects.\
 It is your responsibility to understand the [Laney Graduate School Honor Code](https://www.gs.emory.edu/_includes/documents/lgs-2022_2023-handbook-updated-december-13.pdf), the [Emory College Honor Code](http://catalog.college.emory.edu/policies/honor-code.html), and the [Department Statement of Policy on Computer Assignments](https://cs.emory.edu/undergraduate/general-information/spca/).   
 
 
@@ -336,9 +336,9 @@ It is your responsibility to understand the [Laney Graduate School Honor Code](h
   assignments will be considered a violation of the honor code.
 
 
-- Midterm: 
+<!-- - Midterm: 
 
-  The use of electronic devices during quizzes is forbidden and any incidents will be reported as honor code violations.
+  The use of electronic devices during quizzes is forbidden and any incidents will be reported as honor code violations. -->
 
 
 - Accommodations: 
@@ -352,11 +352,11 @@ It is your responsibility to understand the [Laney Graduate School Honor Code](h
 ## (Tentative) Course Schedule
 
 
-Topics may change but the homework, midterm, and project deliverables are fixed.
+Topics may change but the homework and project deliverables are fixed.
 The reading material listed below is optional and the lecture plan may deviate over the course of the semester.
 
 
-|\# | Date | Theme | Topic | Reference (Chapter)  | Assignment |
+|\# | Date | Theme | Topic | Reference (Chapter)  | Assignment | Other |
 |:- |:---- |:--- |:------------- |:----------- |:---------- |
 1  | 8/27 | Intro + Course Logistics | Review syllabus, Overview of course topics | Ch. 1 (Hastie et al.)<br>[Ch. 1 (Murphy)](http://www.cs.ubc.ca/~murphyk/MLbook/pml-intro-22may12.pdf) <br>[Ch. 3 (Welling)](https://github.com/tpn/pdfs/blob/master/A%20First%20Encounter%20with%20Machine%20Learning%20-%202011%20(IntroMLBook).pdf)|  **Homework #0 out (Due 9/9)** |
 | | 9/1  | Labor Day | | |
@@ -372,19 +372,19 @@ The reading material listed below is optional and the lecture plan may deviate o
 11  | 10/6  | Decision Trees | Decision trees, boosting | Ch. 9.2 (Hastie et al.)<br> Ch. 1.3 (Daumé III) |
 12  | 10/8  | Perceptron + Support Vector Machines | Perceptron, SVM, kernel SVM | Ch. 12 (Hastie et al.)<br>Ch. 4; Ch. 11 (Daumé III)<br> Ch. 7 - 9 (Welling)<br>Ch. 15 (Shalev-Shwartz & Ben-David)<br>[Standford SVM notes](http://cs229.stanford.edu/notes/cs229-notes3.pdf)<br>[NYU SVM notes](https://davidrosenberg.github.io/ml2015/docs/svm-notes.pdf) | **Homework #3 out (Due 10/21)**  |
 | | 10/13  | Fall Break | | |
-13  | 10/15  | Neural Networks | Architectures, gradient optimization, back propagation | Ch. 11 (Hastie et al.)<br>Ch. 1-3 [(Nielsen)](http://neuralnetworksanddeeplearning.com/index.html)<br>Ch. 20.1 - 20.3 (Shalev-Shwartz & Ben-David) | **Project Spotlight Slides Due 10/19** |
+13  | 10/15  | Neural Networks | Architectures, gradient optimization, back propagation | Ch. 11 (Hastie et al.)<br>Ch. 1-3 [(Nielsen)](http://neuralnetworksanddeeplearning.com/index.html)<br>Ch. 20.1 - 20.3 (Shalev-Shwartz & Ben-David) | **Project Spotlight Slides Due 10/19** | Replaced with lecture video or guest lecture (Instructor has business trip) |
 14  | 10/20  | **Project Spotlight** + Neural Networks | | |  |
 15  | 10/22  | Additive Models + Bootstrap | ADABoost, gradient boosting | Ch. 7.11; Ch. 9.1 (Hastie et al.) | **Homework #4 out (Due 11/4)** |
 16  | 10/27  | Boosting | | Ch. 10 (Hastie et al.) |  |
 17  | 10/29  | Random Forest | Ensemble methods, random forests | Ch. 15 - 16 (Hastie et al.)<br>Breiman's [paper](http://dl.acm.org/citation.cfm?id=570182) |  |
 18  | 11/3  |  Ensembles | | |
-19  | 11/5  | Prototype methods + Challenges with High-dimensional Data + Demensionality Reduction | KNN, Curse of dimensionality, sparse representation | Ch. 13 - 14; Ch. 18 (Hastie et al.)<br>Ch. 3.2 - 3.3 (Daumé III)<br>Ch. 5 (Welling)<br> Ch. 19.1 - 19.2; Ch. 23 (Shalev-Shwartz & Ben-David)<br>[Stanford PCA notes](http://cs229.stanford.edu/notes/cs229-notes10.pdf) | |
+19  | 11/5  | Prototype methods + Challenges with High-dimensional Data + Demensionality Reduction | KNN, Curse of dimensionality, sparse representation | Ch. 13 - 14; Ch. 18 (Hastie et al.)<br>Ch. 3.2 - 3.3 (Daumé III)<br>Ch. 5 (Welling)<br> Ch. 19.1 - 19.2; Ch. 23 (Shalev-Shwartz & Ben-David)<br>[Stanford PCA notes](http://cs229.stanford.edu/notes/cs229-notes10.pdf) | **Homework #5 out (Due 11/18)** |
 20  | 11/10  | Dimensionality Reduction | Principal component analysis, locally-linear embedding, manifold learning | Ch. 14 (Hastie et al.) | |
 21  | 11/12  | Clustering + Mixture modeling | K-means, spectral clustering, expectation maximization | Ch. 14 (Hastie et al.) |  |
-22  | 11/17  | Reinforcement Learning | Markov Decision Process | | |
-23  | 11/19  | Reinforcement Learning | Q-Learning |
+22  | 11/17  | Reinforcement Learning | Markov Decision Process | | | Replaced with lecture video or guest lecture (Instructor has business trip) |
+23  | 11/19  | Reinforcement Learning | Q-Learning | | | Replaced with lecture video or guest lecture (Instructor has business trip) |
 24  | 11/24  | Bayesian Network | Probabilistic Graphical Model |
-25  | 11/26  | Filtering + Time-series Analysis | Kalman Filter, Hidden Markov Model |
+25  | 11/26  | Filtering + Time-series Analysis | Kalman Filter, Hidden Markov Model | | | Replaced with lecture video or guest lecture (Instructor has business trip)|
 21  | 12/1  | TBD | |
 27  | 12/3  | Ethics in AI | |
 28  | 12/8  | **Project Presentations** | | | **Final Report Due by exam day assigned by school** |
