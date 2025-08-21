@@ -1,6 +1,6 @@
 ---
 name: Yadhu Kartha
-image: images/members/ms-students/yadhu-kartha.jpg
+image: images/members/phd-students/yadhu-kartha.jpg
 role: phd-ml-gt
 alumni: false
 dnf: false
