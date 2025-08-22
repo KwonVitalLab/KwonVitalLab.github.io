@@ -387,6 +387,6 @@ The reading material listed below is optional and the lecture plan may deviate o
 25  | 11/26  | Filtering + Time-series Analysis | Kalman Filter, Hidden Markov Model | | | Replaced with lecture video or guest lecture (Instructor has business trip)|
 21  | 12/1  | TBD | |
 27  | 12/3  | Ethics in AI | |
-28  | 12/8  | **Project Presentations** | | | **Final Report Due by exam day assigned by school** |
+28  | 12/8  | **Project Presentations** | | | **Final Report Due by 12/15 ([exam day assigned by school](https://registrar.emory.edu/faculty-staff/exam-schedule/fall-2025.html))** |
 
 
