@@ -3,7 +3,7 @@ name: Nakul Shah
 image: images/members/undergrads/nakul-shah.jpeg
 role: undergrad-cs-gt
 alumni: false
-dnf: false
+dnf: true
 aliases:
   - Nakul Shah
 links:

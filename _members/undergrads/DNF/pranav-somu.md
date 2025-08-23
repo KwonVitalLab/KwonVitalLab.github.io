@@ -3,7 +3,7 @@ name: Pranav Somu
 image: images/members/undergrads/pranav-somu.jpg
 role: undergrad-cs-gt
 alumni: false
-dnf: false
+dnf: true
 aliases:
   - Pranav Somu
 links:

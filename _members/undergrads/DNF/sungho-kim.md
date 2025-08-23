@@ -3,7 +3,7 @@ name: Sungho Kim
 image: images/members/undergrads/sungho-kim.png
 role: undergrad-cs-emory
 alumni: false
-dnf: false
+dnf: true
 aliases:
   - Sungho Kim
 links:
