@@ -3,7 +3,7 @@ name: Advay Balakrishnan
 image: images/members/undergrads/advay-balakrishnan.png
 role: undergrad-cs-gt
 alumni: false
-dnf: false
+dnf: true
 aliases:
   - Advay Balakrishnan
 links:
