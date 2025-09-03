@@ -3,7 +3,7 @@ name: Abhya Reddy Ambati
 image: images/members/ms-students/abhya-ambati.jpg
 role: masters-cs-emory
 alumni: false
-dnf: false
+dnf: true
 aliases:
   - Abhya Reddy Ambati
 links:
