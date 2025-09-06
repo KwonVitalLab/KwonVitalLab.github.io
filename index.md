@@ -18,6 +18,9 @@ Our mission is to develop **Edge Computing**, **Computer Vision**, and **Machine
 Our previous and current sponsors or collaborators include:
 {:.center}
 
+<!-- Shepherd Center -->
+{% include portrait.html name="Shepherd Center" lookup="https://shepherd.org/" image="images/sponsors/shepherd-vertical-logo.webp" style="small" %}
+
 <!-- GA CTSA -->
 {% include portrait.html name="Shriners Childresn's" lookup="https://www.shrinerschildrens.org/en" image="images/sponsors/sc_logo_vert_3c.png" style="small" %}
 
