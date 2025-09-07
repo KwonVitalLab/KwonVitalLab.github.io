@@ -12,6 +12,29 @@ Our mission is to develop **Edge Computing**, **Computer Vision**, and **Machine
 
 {% include section.html %}
 
+## News $\mathtt{\&}$ Talks $\mathtt{\&}$ Media
+{:.center}
+
+<style>
+td, th {
+   border: none!important;
+}
+</style>
+| 2025/09/03 | : 🏆 We received a pilot award from [Shriners Hospital for Children's](https://www.shrinerschildrens.org/en)! We will be developing a smartphone-based AI system for accessible and scalable gait screening for children with Cerebral Palsy. We will continue to innovate AI for children's health living in low-resourced communities!
+| 2025/08/15 | : 🎉 [Lauhitya Reddy's](https://kwonvitallab.github.io/members/phd-students/lauhitya-reddy.html) abstract, "Integrating Clinician Insights into Markerless Gait Analysis: Toward AI-Driven, Interpretable Gait Assessment", is accepted to present in a press conference on AI/Machine Learning at the [Society for Neuroscience (SfN)](https://www.sfn.org/). Out of over 10,000 abstracts submitted to the meeting, fewer than 50 are being offered this prestigious opportunity of speaking directly to the media. Congratulations! What a start to your PhD journey!
+| 2025/06/06 | : 🎉 We have four abstracts accepted to [American Medical Informatics Association (AMIA) Annual Meeting 2025](https://amia.org/education-events/amia-2025-annual-symposium). They include 1 podium (Dharini Rabhavan) and 3 posters ([Merna Bibars](https://kwonvitallab.github.io/members/phd-students/merna-bibars.html), [Timothy Odonga](https://kwonvitallab.github.io/members/phd-students/timothy-odonga.html), and Joshua). Congratulations!
+
+{%
+  include button.html
+  type="link"
+  icon=""
+  text="... Past news"
+  link="news"
+%}
+
+{% include section.html %}
+
+
 ## Acknowledgments
 {:.center}
 
