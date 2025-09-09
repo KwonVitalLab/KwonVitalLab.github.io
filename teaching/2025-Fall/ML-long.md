@@ -113,10 +113,10 @@ Final grades may be curved up so that the class mean falls at least in a B range
   Homework assignments will help students develop analytical and programming skills. A homework assignment testing prerequisite material will be assigned on the first day to identify students who are not prepared for the course.
 
 
-  There will be *5 graded homework* spaced over the first 2/3 of the semester and 1 final project (more details in later sections). The homework is typically due in 10-14 days.
+  There will be *4 graded homework* spaced over the first 2/3 of the semester and 1 final project (more details in later sections). The homework is typically due in 14-21 days.
 
 
-  Homework is due electronically at 11:59 PM ET on the date specified. Each student receives six 24-hour “late days” that can be used on any of the 5 homework throughout the semester. No more than 3 late days may be used on any single homework. If you have no more late days remaining, you will receive zero credit for any late homework. Additional extensions on homework will be granted with appropriate documentation.
+  Homework is due electronically at 11:59 PM ET on the date specified. Each student receives six 24-hour “late days” that can be used on any of the 4 homework throughout the semester. No more than 3 late days may be used on any single homework. If you have no more late days remaining, you will receive zero credit for any late homework. Additional extensions on homework will be granted with appropriate documentation.
 
 
   <!-- Solutions for written homework will be reviewed in class after all students submit homework, including late submissions. -->
@@ -362,24 +362,24 @@ The reading material listed below is optional and the lecture plan may deviate o
 | | 9/1  | Labor Day | | |
 2  | 9/3  | Intro to Optimization | | Convex optimization notes [Part I](http://cs229.stanford.edu/section/cs229-cvxopt.pdf) and [II](http://cs229.stanford.edu/section/cs229-cvxopt2.pdf) from Stanford's machine learning class<br>Rosenberg's [abridged notes](https://davidrosenberg.github.io/mlcourse/Notes/convex-optimization.pdf)|
 3  | 9/8  | Intro to Statistics, Probability, and Random Variables | Random variables, probability density functions, conditional and joint distributions, Bayes rule | Handouts |
-4  | 9/10  | Statistical Decision Theory + Linear Regression | Mapping machine learning problems to statistical concepts, Regression, ridge regression | Ch 1 -2; Ch 3.1 - 3.4 (Hastie et al.)<br>Ch. 17.1 - 17.2 [(Barber)](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/171216.pdf)<br>Prof. Carlos Carvalho's [MLR Slides](http://faculty.mccombs.utexas.edu/carlos.carvalho/teaching/Section4.pdf) | **Homework #1 out (Due 9/23)** |
-5  | 9/15  | Linear Regression + Naive Bayes | LASSO regression, elastic net regression | |   |
+4  | 9/10  | Statistical Decision Theory + Linear Regression | Mapping machine learning problems to statistical concepts, Regression, ridge regression | Ch 1 -2; Ch 3.1 - 3.4 (Hastie et al.)<br>Ch. 17.1 - 17.2 [(Barber)](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/171216.pdf)<br>Prof. Carlos Carvalho's [MLR Slides](http://faculty.mccombs.utexas.edu/carlos.carvalho/teaching/Section4.pdf) | |
+5  | 9/15  | Linear Regression + Naive Bayes | LASSO regression, elastic net regression | | **Homework #1 out (Due 9/28)**  |
 6  | 9/17  | Linear Classification | logistic regression, LDA, QDA | Ch 2.1 - 2.4; Ch 4.1 - 4.4 (Hastie et al.) |
 7  | 9/22  | Linear Classification + Bias-Variance Tradeoff | Training & test error, conditional and expected test error, bias-variance decomposition and tradeoff, training error optimism | Ch 7.2 - 7.3 (Hastie et al.)<br>Ch. 5.9 (Daumé III) |
-8  | 9/24  | Model Assessment + Error Measures | Validation as an estimation problem, cross validation, bias and variance of cross validation schemes, Error measures, class imbalance, ROC analysis, precision-recall | Ch. 7.10 (Hastie et al.)<br>Ch. 2.5 - 2.6 (Daumé III)| **Homework #2 out (Due 10/7)** |
-9  | 9/29  | Model Selection | Effective number of parameters, Akaike and Bayes information criterion | Ch. 7 (Hastie et al.)<br>Ch. 5.5 - 5.6 (Daumé III) |  |
+8  | 9/24  | Model Assessment + Error Measures | Validation as an estimation problem, cross validation, bias and variance of cross validation schemes, Error measures, class imbalance, ROC analysis, precision-recall | Ch. 7.10 (Hastie et al.)<br>Ch. 2.5 - 2.6 (Daumé III)| |
+9  | 9/29  | Model Selection | Effective number of parameters, Akaike and Bayes information criterion | Ch. 7 (Hastie et al.)<br>Ch. 5.5 - 5.6 (Daumé III) | **Homework #2 out (Due 10/19)** |
 10 | 10/1  | Practical Issues | Preparing data, labeling issues, interpretation  | Ch. 9 -10 (Hastie et al.) | **Project Proposal due 10/1** |
 11  | 10/6  | Decision Trees | Decision trees, boosting | Ch. 9.2 (Hastie et al.)<br> Ch. 1.3 (Daumé III) |
-12  | 10/8  | Perceptron + Support Vector Machines | Perceptron, SVM, kernel SVM | Ch. 12 (Hastie et al.)<br>Ch. 4; Ch. 11 (Daumé III)<br> Ch. 7 - 9 (Welling)<br>Ch. 15 (Shalev-Shwartz & Ben-David)<br>[Standford SVM notes](http://cs229.stanford.edu/notes/cs229-notes3.pdf)<br>[NYU SVM notes](https://davidrosenberg.github.io/ml2015/docs/svm-notes.pdf) | **Homework #3 out (Due 10/21)**  |
+12  | 10/8  | Perceptron + Support Vector Machines | Perceptron, SVM, kernel SVM | Ch. 12 (Hastie et al.)<br>Ch. 4; Ch. 11 (Daumé III)<br> Ch. 7 - 9 (Welling)<br>Ch. 15 (Shalev-Shwartz & Ben-David)<br>[Standford SVM notes](http://cs229.stanford.edu/notes/cs229-notes3.pdf)<br>[NYU SVM notes](https://davidrosenberg.github.io/ml2015/docs/svm-notes.pdf) |   |
 | | 10/13  | Fall Break | | |
 13  | 10/15  | Neural Networks | Architectures, gradient optimization, back propagation | Ch. 11 (Hastie et al.)<br>Ch. 1-3 [(Nielsen)](http://neuralnetworksanddeeplearning.com/index.html)<br>Ch. 20.1 - 20.3 (Shalev-Shwartz & Ben-David) | **Project Spotlight Slides Due 10/19** | Replaced with lecture video or guest lecture (Instructor has business trip) |
-14  | 10/20  | **Project Spotlight** + Neural Networks | | |  |
-15  | 10/22  | Additive Models + Bootstrap | ADABoost, gradient boosting | Ch. 7.11; Ch. 9.1 (Hastie et al.) | **Homework #4 out (Due 11/4)** |
+14  | 10/20  | **Project Spotlight** + Neural Networks | | | **Homework #3 out (Due 11/9)** |
+15  | 10/22  | Additive Models + Bootstrap | ADABoost, gradient boosting | Ch. 7.11; Ch. 9.1 (Hastie et al.) |  |
 16  | 10/27  | Boosting | | Ch. 10 (Hastie et al.) |  |
 17  | 10/29  | Random Forest | Ensemble methods, random forests | Ch. 15 - 16 (Hastie et al.)<br>Breiman's [paper](http://dl.acm.org/citation.cfm?id=570182) |  |
-18  | 11/3  |  Ensembles | | |
-19  | 11/5  | Prototype methods + Challenges with High-dimensional Data + Demensionality Reduction | KNN, Curse of dimensionality, sparse representation | Ch. 13 - 14; Ch. 18 (Hastie et al.)<br>Ch. 3.2 - 3.3 (Daumé III)<br>Ch. 5 (Welling)<br> Ch. 19.1 - 19.2; Ch. 23 (Shalev-Shwartz & Ben-David)<br>[Stanford PCA notes](http://cs229.stanford.edu/notes/cs229-notes10.pdf) | **Homework #5 out (Due 11/18)** |
-20  | 11/10  | Dimensionality Reduction | Principal component analysis, locally-linear embedding, manifold learning | Ch. 14 (Hastie et al.) | |
+18  | 11/3  |  Ensembles | | |  |
+19  | 11/5  | Prototype methods + Challenges with High-dimensional Data + Demensionality Reduction | KNN, Curse of dimensionality, sparse representation | Ch. 13 - 14; Ch. 18 (Hastie et al.)<br>Ch. 3.2 - 3.3 (Daumé III)<br>Ch. 5 (Welling)<br> Ch. 19.1 - 19.2; Ch. 23 (Shalev-Shwartz & Ben-David)<br>[Stanford PCA notes](http://cs229.stanford.edu/notes/cs229-notes10.pdf) |  |
+20  | 11/10  | Dimensionality Reduction | Principal component analysis, locally-linear embedding, manifold learning | Ch. 14 (Hastie et al.) | **Homework #4 out (Due 11/30)** |
 21  | 11/12  | Clustering + Mixture modeling | K-means, spectral clustering, expectation maximization | Ch. 14 (Hastie et al.) |  |
 22  | 11/17  | Reinforcement Learning | Markov Decision Process | | | Replaced with lecture video or guest lecture (Instructor has business trip) |
 23  | 11/19  | Reinforcement Learning | Q-Learning | | | Replaced with lecture video or guest lecture (Instructor has business trip) |
