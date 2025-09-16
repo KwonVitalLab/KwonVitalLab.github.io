@@ -1,3 +1,7 @@
+# Plos Digital Health - Trisha Mobile Vision Simulated Gait Impairment
+- id: doi:10.1371/journal.pdig.0001004
+  image: https://KwonVitalLab.github.io/images/publications/arXiv-2412.01056.jpg
+
 # medRxiv - Kitchen x wearable
 - id: doi:10.1101/2025.05.24.25328107
   image: https://KwonVitalLab.github.io/images/publications/Overview_Pipeline-kitchenXwearable.png
@@ -33,10 +37,6 @@
 # Arxiv - MGH x MCI x Zoom
 - id: arxiv:2412.14194
   image: https://KwonVitalLab.github.io/images/publications/arXiv-2412.14194.PNG
-
-# Arxiv - Trisha Mobile Vision Gait Impairment
-- id: arxiv:2412.01056
-  image: https://KwonVitalLab.github.io/images/publications/arXiv-2412.01056.jpg
 
 # Arxiv - TCFD Vision - Group & Binary
 - id: arxiv:2407.21691

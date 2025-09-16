@@ -1,5 +1,22 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1371/journal.pdig.0001004
+  title: Classifying simulated gait impairments using privacy-preserving explainable
+    artificial intelligence and mobile phone videos
+  authors:
+  - Lauhitya Reddy
+  - Ketan Anand
+  - Shoibolina Kaushik
+  - Corey Rodrigo
+  - J. Lucas McKay
+  - Trisha M. Kesar
+  - Hyeokhyen Kwon
+  publisher: PLOS Digital Health
+  date: '2025-09-16'
+  link: https://doi.org/g93vnz
+  image: https://KwonVitalLab.github.io/images/publications/arXiv-2412.01056.jpg
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1101/2025.05.24.25328107
   title: Quantifying Mild Cognitive Impairments in Older Adults Using Multi-modal
     Wearable Sensor Data in a Kitchen Environment
@@ -152,23 +169,6 @@
   date: '2025-01-13'
   link: https://arxiv.org/abs/2412.14194
   image: https://KwonVitalLab.github.io/images/publications/arXiv-2412.14194.PNG
-  plugin: sources.py
-  file: sources.yaml
-- id: arxiv:2412.01056
-  title: Classifying Simulated Gait Impairments using Privacy-preserving Explainable
-    Artificial Intelligence and Mobile Phone Videos
-  authors:
-  - Lauhitya Reddy
-  - Ketan Anand
-  - Shoibolina Kaushik
-  - Corey Rodrigo
-  - J. Lucas McKay
-  - Trisha M. Kesar
-  - Hyeokhyen Kwon
-  publisher: arXiv
-  date: '2024-12-03'
-  link: https://arxiv.org/abs/2412.01056
-  image: https://KwonVitalLab.github.io/images/publications/arXiv-2412.01056.jpg
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2407.21691
