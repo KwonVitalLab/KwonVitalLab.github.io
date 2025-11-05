@@ -45,7 +45,7 @@ Our previous and current sponsors or collaborators include:
 {% include portrait.html name="Shepherd Center" lookup="https://shepherd.org/" image="images/sponsors/shepherd-vertical-logo.webp" style="small" %}
 
 <!-- GA CTSA -->
-{% include portrait.html name="Shriners Childresn's" lookup="https://www.shrinerschildrens.org/en" image="images/sponsors/sc_logo_vert_3c.png" style="small" %}
+{% include portrait.html name="Shriners Children's" lookup="https://www.shrinerschildrens.org/en" image="images/sponsors/sc_logo_vert_3c.png" style="small" %}
 
 <!-- Shriners -->
 {% include portrait.html name="Georgia CTSA" lookup="https://georgiactsa.org/" image="images/sponsors/zf4iC9VF_400x400.jpg" style="small" %}
