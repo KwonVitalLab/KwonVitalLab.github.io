@@ -20,9 +20,9 @@ td, th {
    border: none!important;
 }
 </style>
+| 2025/10/13 | : 🎙 Dr. Kwon succeffully organized [10𝑡ℎ International Workshop on Mental Health and Well-being: From Research to Practice in Mental Healthcare](https://ubicomp-mental-health.github.io/) at Espoo, Finland hosted in [ACM international joint conference on Pervasive and Ubiquitous Computing/ACM International Symposium on Wearable Computing (UbiComp/ISWC)](https://www.ubicomp.org/ubicomp-iswc-2025/) at Espoo, Finland. |
 | 2025/09/19 | : 🎙 Dr. Kwon gave a talk at [The Sujata G. Krishnan Lectureship in Clinical and Translational Neuroscience](https://calendar.utrgv.edu/event/the-sujata-g-krishnan-lectureship-in-clinical-and-translational-neuroscience-presents-patient-oriented-artificial-intelligence-for-behavior-monitoring-with-edge-computing-by-dr-hyeokhyen-kwon) in [The University of Texas Rio Grande Valley (UTRGV)](https://www.utrgv.edu/) about "Patient-centered Artificial Intelligence for Behavioral Health with Edge Computing". |
 | 2025/09/16 | : 📖 Our paper on mobile computer vision systems for quantifying gait impairment is published in [Plos Digital Health](https://journals.plos.org/digitalhealth/article?id=10.1371/journal.pdig.0001004)! |
-| 2025/09/03 | : 🏆 We received a pilot award from [Shriners Hospital for Children's](https://www.shrinerschildrens.org/en)! We will be developing a smartphone-based AI system for accessible and scalable gait screening for children with Cerebral Palsy. We will continue to innovate AI for children's health living in low-resourced communities!
 
 {%
   include button.html
