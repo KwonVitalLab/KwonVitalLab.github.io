@@ -32,8 +32,8 @@
   image: https://KwonVitalLab.github.io/images/publications/Overview_Pipeline-kitchenXwearable.png
   plugin: sources.py
   file: sources.yaml
-- id: doi:10.1101/2025.05.21.25328033
-  title: 'Visual Accessibility through Open Shelving: Impacts on Cognitive Load, Motivation,
+- id: doi:10.1080/26892618.2025.2576213
+  title: 'Visual Accessibility Through Open Shelving: Impacts on Cognitive Load, Motivation,
     Physical Activity, and User Perception in Older Adults with Mild Cognitive Impairment'
   authors:
   - Ibrahim Bilau
@@ -42,9 +42,9 @@
   - Wendy Chau
   - Hyeokhyen Kwon
   - Eunhwa Yang
-  publisher: Cold Spring Harbor Laboratory
-  date: '2025-05-25'
-  link: https://doi.org/g9k83x
+  publisher: Journal of Aging and Environment
+  date: '2025-11-12'
+  link: https://doi.org/g996hd
   image: https://KwonVitalLab.github.io/images/publications/Kitchen_Space_Image.jpg
   plugin: sources.py
   file: sources.yaml
