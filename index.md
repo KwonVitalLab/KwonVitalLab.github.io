@@ -41,6 +41,9 @@ td, th {
 Our previous and current sponsors or collaborators include:
 {:.center}
 
+<!-- TCFD -->
+{% include portrait.html name="The Center for Discovery" lookup="https://thecenterfordiscovery.org/" image="images/sponsors/tcfd.png" style="small" %}
+
 <!-- Shepherd Center -->
 {% include portrait.html name="Shepherd Center" lookup="https://shepherd.org/" image="images/sponsors/shepherd-vertical-logo.webp" style="small" %}
 
@@ -49,7 +52,6 @@ Our previous and current sponsors or collaborators include:
 
 <!-- Shriners -->
 {% include portrait.html name="Georgia CTSA" lookup="https://georgiactsa.org/" image="images/sponsors/zf4iC9VF_400x400.jpg" style="small" %}
-
 
 <!-- NM4R -->
 {% include portrait.html name="National Center of Neuromodulation for Rehabilitation" lookup="https://chp.musc.edu/research/centers/nc-nm4r" image="images/sponsors/nm4r.png" style="small" %}
