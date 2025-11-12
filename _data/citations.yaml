@@ -150,11 +150,12 @@
   plugin: sources.py
   file: sources.yaml
 - id: arxiv:2412.14194
-  title: Detecting Cognitive Impairment and Psychological Well-being among Older Adults
-    Using Facial, Acoustic, Linguistic, and Cardiovascular Patterns Derived from Remote
-    Conversations
+  title: Feasibility of Detecting Cognitive Impairment and Psychological Well-being
+    among Older Adults Using Facial, Acoustic, Linguistic, and Cardiovascular Patterns
+    Derived from Remote Conversations
   authors:
   - Xiaofan Mu
+  - Merna Bibars
   - Salman Seyedi
   - Iris Zheng
   - Zifan Jiang
@@ -166,7 +167,7 @@
   - Hiroko H. Dodge
   - Hyeokhyen Kwon
   publisher: arXiv
-  date: '2025-01-13'
+  date: '2025-11-11'
   link: https://arxiv.org/abs/2412.14194
   image: https://KwonVitalLab.github.io/images/publications/arXiv-2412.14194.PNG
   plugin: sources.py
