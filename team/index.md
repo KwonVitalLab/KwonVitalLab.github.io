@@ -96,6 +96,16 @@ nav:
 
 {% capture content %}
 
+<!-- SfN 2025-->
+{% include figure.html image="images/conferences/sfn_2025/Image from iOS.jpg" width="100%" %}
+
+<!-- AMIA 2025-->
+{% include figure.html image="images/conferences/amia_2025/IMG_6374.jpg" width="100%" %}
+{% include figure.html image="images/conferences/amia_2025/IMG_6463.jpg" width="60%" %}
+{% include figure.html image="images/conferences/amia_2025/IMG_6502.jpg" width="60%" %}
+{% include figure.html image="images/conferences/amia_2025/IMG_6505.jpg" width="100%" %}
+
+<!-- BMI AWARD 2024 -->
 ![image]({{ "/images/awards/BMI Award - 2025/Xiaofan.JPEG" | relative_url }})
 
 ![image]({{ "/images/awards/BMI Award - 2025/Iris.JPEG" | relative_url }})
