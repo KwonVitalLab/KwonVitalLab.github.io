@@ -100,6 +100,7 @@ nav:
 {% include figure.html image="images/conferences/sfn_2025/Image from iOS.jpg" width="100%" %}
 
 <!-- AMIA 2025-->
+{% include figure.html image="images/conferences/amia_2025/PXL_20251118_213232052.RAW-01.COVER.jpg" width="100%" %}
 {% include figure.html image="images/conferences/amia_2025/IMG_6374.jpg" width="100%" %}
 {% include figure.html image="images/conferences/amia_2025/IMG_6463.jpg" width="60%" %}
 {% include figure.html image="images/conferences/amia_2025/IMG_6502.jpg" width="60%" %}
