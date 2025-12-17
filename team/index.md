@@ -75,6 +75,8 @@ nav:
 {% include portrait.html name="Ketan Anand (MS, GT ECE, 2024)<br>- Nvidia" image="images/members/ms-students/alumni/ketan-anand.JPG" style="small" %}
 
 <!-- Alumni: BS -->
+{% include portrait.html name="Bonwoo Koo (BS, KAIST ISyE; GT ISyE exchange 2025)<br>- MS in CS, KAIST" image="images/members/undergrads/alumni/bonwoo-koo.jpg" style="small" %}
+
 {% include portrait.html name="Rory Wu (BS, Emory Math and Biology, 2025)<br>- Ph.D in BME, Duke" image="images/members/undergrads/alumni/rory-wu.jpg" style="small" %}
 
 {% include portrait.html name="Claire Bae (BS, Emory CS, 2025)<br>- TBD" image="images/members/undergrads/alumni/claire-bae.png" style="small" %}
