@@ -1,5 +1,28 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1055/a-2744-9871
+  title: Review of Artificial Intelligence for Clinical Use in Alzheimer's Disease
+    and Related Dementias
+  authors:
+  - Andrew G. Breithaupt
+  - Alice Tang
+  - Emily W. Paolillo
+  - Merna Bibars
+  - Erik C. B. Johnson
+  - Rowan Saloner
+  - Katherine L. Possin
+  - Charles C. Windon
+  - Tanisha G. Hill-Jarrett
+  - Joseph Giorgio
+  - Andreas M. Rauschecker
+  - Hyeokhyen Kwon
+  - Jet M. J. Vonk
+  - Pedro Pinheiro-Chagas
+  publisher: Seminars in Neurology
+  date: '2025-11-28'
+  link: https://doi.org/hbh67c
+  plugin: sources.py
+  file: sources.yaml
 - id: arXiv:2510.04312
   title: 'CARE-PD: A Multi-Site Anonymized Clinical Dataset for Parkinson''s Disease
     Gait Assessment'
@@ -36,6 +59,8 @@
   date: '2025-10-07'
   link: https://arxiv.org/abs/2510.04312
   image: https://KwonVitalLab.github.io/images/publications/care-pd.png
+  tags:
+  - Accepted and presented at Neurips 2025
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1371/journal.pdig.0001004
@@ -187,7 +212,7 @@
   link: https://doi.org/g85cxm
   plugin: sources.py
   file: sources.yaml
-- id: arxiv:2412.14194
+- id: doi:10.1088/3049-477X/ae250c
   title: Feasibility of Detecting Cognitive Impairment and Psychological Well-being
     among Older Adults Using Facial, Acoustic, Linguistic, and Cardiovascular Patterns
     Derived from Remote Conversations
@@ -204,9 +229,9 @@
   - Gari D. Clifford
   - Hiroko H. Dodge
   - Hyeokhyen Kwon
-  publisher: arXiv
-  date: '2025-11-11'
-  link: https://arxiv.org/abs/2412.14194
+  publisher: 'Machine Learning: Health'
+  date: '2025-11-27'
+  link: https://doi.org/hbh67b
   image: https://KwonVitalLab.github.io/images/publications/arXiv-2412.14194.PNG
   plugin: sources.py
   file: sources.yaml

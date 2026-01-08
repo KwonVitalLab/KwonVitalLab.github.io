@@ -1,6 +1,11 @@
-# arxiv: CARE-PD
+# Semin Neurol - Review paper with Drew
+- id: doi:10.1055/a-2744-9871
+
+# nerips: CARE-PD
 - id: arXiv:2510.04312
   image: https://KwonVitalLab.github.io/images/publications/care-pd.png
+  tags:
+    - Accepted and presented at Neurips 2025
 
 # Plos Digital Health - Trisha Mobile Vision Simulated Gait Impairment
 - id: doi:10.1371/journal.pdig.0001004
@@ -38,8 +43,8 @@
 # Abmed Abbasi - LLM x Depression
 - id: doi:10.1145/3673906
 
-# Arxiv - MGH x MCI x Zoom
-- id: arxiv:2412.14194
+# IOP ML:Health - MGH x MCI x Zoom
+- id: doi:10.1088/3049-477X/ae250c
   image: https://KwonVitalLab.github.io/images/publications/arXiv-2412.14194.PNG
 
 # Arxiv - TCFD Vision - Group & Binary
