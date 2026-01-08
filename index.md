@@ -20,9 +20,9 @@ td, th {
    border: none!important;
 }
 </style>
+| 2025/12/22 | : Dr. Kwon co-founded [Center for Brain and Behavior AI for Neurohealth Science and Support (BRAINS)](https://med.emory.edu/departments/biomedical-informatics/research/brains/index.html) with Dr. Samaneh Nasiri, where Drs. Kwon and Nasiri will serve as Co-Directors. BRAINS is dedicated to advance clinically validated, patient-centered AI to accelerate innovation, data-driven assessment, and personalized care. The center includes faculty and support from Georgia Tech, Grady Healthcare, Morehouse School of Medicine, Children's Healthcare of Atlanta, and Emory Healthcare.
 | 2025/12/02-2025/12/07 | : 📖 Our paper on multi-site gait AI for Parkinson's Disease ([Care-PD](https://neurips2025.care-pd.ca/)) is accepted and presented at The Thirty-Ninth Annual Conference on Neural Information Processing Systems ([Neurips 2025](https://neurips.cc/)). This is an international collaboration project involving a large team from the University of Toronto, Vector Institute, KITE Research Institute-UHN, Delft University of Technology, CNRS-University of Strasbourg, UIUC, VinUniversity, Federal University of ABC, KU Leuven, Hasselt University, Emory, and the University of Bristol.|
 | 2025/11/15-2025/11/19 | : 🎙 🌌 We attended [Neuroscience 2025](https://www.sfn.org/meetings/neuroscience-2025) hosted by [Society of Neuroscience (SfN)](https://www.sfn.org/). We gave a talk at the AI/Machine Learning Press Conference on "Integrating Clinician Insights into Markerless Gait Analysis: Toward AI-Driven, Interpretable Gait Assessment". [Lauhitya Reddy](https://kwonvitallab.github.io/members/phd-students/lauhitya-reddy.html) also gave a poster presentation regarding the talk.
-| 2025/11/15-2025/11/19 | : 🎙 🌌 Lots of activities took place at the [American Medical Informatics Association (AMIA) Annual Meeting 2025](https://amia.org/education-events/amia-2025-annual-symposium). Dr. Kwon served as a steering committee at [Workgroup on Interactive Systems in Healthcare (WISH)](https://sites.google.com/view/wishamia2025/program?authuser=0) and a session chair at [S17: The Known Unknowns: Navigating Uncertainty in Clinical Machine Learning](https://amia.secure-platform.com/symposium/solicitations/102009/sessiongallery/schedule/items/94643) and [S68: The Visual Frontier: Navigating Biomedical Knowledge Through Different Lenses](https://amia.secure-platform.com/symposium/solicitations/102009/sessiongallery/schedule/items/94568). Dr. Kwon also gave a podium talk on "Quantifying Cognitive Decline and Balance in Older Adults with Mild Cognitive Impairment using Wearables in Clinical Environments" at [S91: The Informatics Kaleidoscope: Diverse Models for Precision, Prediction, and Population Impact](https://amia.secure-platform.com/symposium/solicitations/102009/sessiongallery/schedule/items/94613). We also presented three posters: "Accessible and Scalable Closed-loop Neuromotor Rehabilitation Using Mobile Computer Vision and Transcutaneous Vagus Nerve Stimulation" (by Joshua Posen), "Machine Learning of Remote Video Interviews for Quantification of Cognitive Impairment and Psychological Well-Being in Older Adults" (by [Merna Bibara](https://kwonvitallab.github.io/members/phd-students/merna-bibars.html)), and "On the Bias, Fairness and Bias Mitigation for a Wearable-based Freezing of Gait Detection in Parkinson’s Disease" (by [Timothy Odonga](https://kwonvitallab.github.io/members/phd-students/timothy-odonga.html); *Recognized with Inclusive Language*!). |
 
 {%
   include button.html
@@ -40,6 +40,9 @@ td, th {
 
 Our previous and current sponsors or collaborators include:
 {:.center}
+
+<!-- BRAINS -->
+{% include portrait.html name="Center for Brain and Behavior AI for Neurohealth Science and Support (BRAINS)" lookup="https://med.emory.edu/departments/biomedical-informatics/research/brains/index.html" image="images/sponsors/BRAINS-logo.png" style="small" %}
 
 <!-- TCFD -->
 {% include portrait.html name="The Center for Discovery" lookup="https://thecenterfordiscovery.org/" image="images/sponsors/tcfd.png" style="small" %}
