@@ -100,6 +100,8 @@ nav:
 
 {% capture content %}
 
+{% include figure.html image="images/socials/dinner-2025.12.jpg" width="100%" %}
+
 <!-- SfN 2025-->
 {% include figure.html image="images/conferences/sfn_2025/Image from iOS.jpg" width="100%" %}
 
