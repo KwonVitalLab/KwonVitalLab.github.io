@@ -2,7 +2,7 @@
 name: Yumeng Tan
 image: images/members/undergrads/yumeng-tan.jpg
 role: undergrad-qqs-bio-emory
-alumni: false
+alumni: true
 dnf: false
 aliases:
   - Yumeng Tan
