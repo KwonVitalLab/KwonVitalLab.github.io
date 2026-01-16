@@ -3,7 +3,7 @@ name: Sivesh Kannan
 image: images/members/ms-students/sivesh-kannan.png
 role: masters-cs-gt
 alumni: false
-dnf: false
+dnf: true
 aliases:
   - Sivesh Kannan
 ---
