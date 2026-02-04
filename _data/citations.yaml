@@ -180,8 +180,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: arXiv:2502.09626
-  title: On the Bias, Fairness, and Bias Mitigation for a Wearable-based Freezing
-    of Gait Detection in Parkinson's Disease
+  title: Evidence for Phenotype-Driven Disparities in Freezing of Gait Detection and
+    Approaches to Bias Mitigation
   authors:
   - Timothy Odonga
   - Christine D. Esper
@@ -189,7 +189,7 @@
   - J. Lucas McKay
   - Hyeokhyen Kwon
   publisher: arXiv
-  date: '2025-02-17'
+  date: '2026-02-02'
   link: https://arxiv.org/abs/2502.09626
   image: https://KwonVitalLab.github.io/images/publications/arxiv-2502.09626.png
   plugin: sources.py
@@ -213,9 +213,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1088/3049-477X/ae250c
-  title: Feasibility of Detecting Cognitive Impairment and Psychological Well-being
-    among Older Adults Using Facial, Acoustic, Linguistic, and Cardiovascular Patterns
-    Derived from Remote Conversations
+  title: Detecting cognitive impairment and psychological well-being among older adults
   authors:
   - Xiaofan Mu
   - Merna Bibars
@@ -225,12 +223,12 @@
   - Liu Chen
   - Bolaji Omofojoye
   - Rachel Hershenberg
-  - Allan I. Levey
-  - Gari D. Clifford
-  - Hiroko H. Dodge
+  - Allan I Levey
+  - Gari D Clifford
+  - Hiroko H Dodge
   - Hyeokhyen Kwon
   publisher: 'Machine Learning: Health'
-  date: '2025-11-27'
+  date: '2026-01-21'
   link: https://doi.org/hbh67b
   image: https://KwonVitalLab.github.io/images/publications/arXiv-2412.14194.PNG
   plugin: sources.py
