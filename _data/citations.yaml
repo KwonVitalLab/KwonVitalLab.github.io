@@ -61,6 +61,9 @@
   image: https://KwonVitalLab.github.io/images/publications/care-pd.png
   tags:
   - Accepted and presented at Neurips 2025
+  buttons:
+  - type: website
+    link: https://neurips2025.care-pd.ca/
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1371/journal.pdig.0001004
@@ -89,7 +92,7 @@
   - Amy D. Rodriguez
   - Eunhwa Yang
   - Hyeokhyen Kwon
-  publisher: openRxiv
+  publisher: Cold Spring Harbor Laboratory
   date: '2025-05-25'
   link: https://doi.org/g9k83z
   image: https://KwonVitalLab.github.io/images/publications/Overview_Pipeline-kitchenXwearable.png
@@ -122,7 +125,7 @@
   - Milka Trajkova
   - Woon-Hong Yeo
   - Hyeokhyen Kwon
-  publisher: openRxiv
+  publisher: Cold Spring Harbor Laboratory
   date: '2025-05-23'
   link: https://doi.org/g9k6xz
   image: https://KwonVitalLab.github.io/images/publications/doi-10.1101-2025.05.23.25327218.png

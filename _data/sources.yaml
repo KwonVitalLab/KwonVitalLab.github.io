@@ -6,6 +6,9 @@
   image: https://KwonVitalLab.github.io/images/publications/care-pd.png
   tags:
     - Accepted and presented at Neurips 2025
+  buttons:
+    - type: website
+      link: https://neurips2025.care-pd.ca/
 
 # Plos Digital Health - Trisha Mobile Vision Simulated Gait Impairment
 - id: doi:10.1371/journal.pdig.0001004
