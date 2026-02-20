@@ -64,6 +64,8 @@ nav:
 {% include portrait.html name="Chaitra Hedge (Ph.D., GT ECE, 2023)<br>- Senior Data Scientist, Walmart" image="images/members/phd-students/alumni/chaitra-hedge.jpeg" style="small"%}
 
 <!-- Alumni: MS -->
+{% include portrait.html name="Sivesh Kannan (MS, GT CS, 2026)<br>- Ph.D. in ECE, GT" image="images/members/ms-students/alumni/sivesh-kannan.png" style="small" %}
+
 {% include portrait.html name="Xiaofan Mu (MS, Emory CS, 2025)<br>- TBD" image="images/members/ms-students/alumni/xiaofan-mu.png" style="small" %}
 
 {% include portrait.html name="Dharini Raghavan (MS, GT ECE, 2025)<br>- Ph.D in ECE, GT" image="images/members/ms-students/alumni/dharini-raghavan.JPG" style="small" %}
