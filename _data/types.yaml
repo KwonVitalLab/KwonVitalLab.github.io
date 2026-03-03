@@ -127,6 +127,10 @@ undergrad-physics-math-emory:
   icon: fa-solid fa-pen-nib
   description: Undergrad Student, Physics and Math, Emory
 
+undergrad-neuroscience-behavioral-biology-emory:
+  icon: fa-solid fa-pen-nib
+  description: Undergrad Student, Neuroscience and Behavioral Biology, Emory
+
 mascot:
   icon: fa-solid fa-dog
   description: Mascot
