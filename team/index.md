@@ -56,6 +56,8 @@ nav:
 {:.center}
 
 <!-- Alumni: Staff -->
+{% include portrait.html name="Rahul Islam (PostDoc, 2026)<br>- Entrepreneurial Fellow, Northwestern" image="images/members/postdocs/alumni/rahul-islam.png" style="small" %}
+
 {% include portrait.html name="Vaibhav Malhotra (MS, GT Robotics, 2023; Software Engineer, 2024)<br>- Amazon" image="images/members/engineer/alumni/vaibhav-malhotra.webp" style="small" %}
 
 {% include portrait.html name="Barun Das (MS, GT CS, 2023; Software Engineer, 2024)<br>- Autodesk" image="images/members/engineer/alumni/barun-das.jpg" style="small" %}

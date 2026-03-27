@@ -2,7 +2,7 @@
 name: Rahul Islam
 image: images/members/postdocs/rahul-islam.png
 role: postdoc
-alumni: false
+alumni: true
 aliases:
   - Rahul Islam
 links:
