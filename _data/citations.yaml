@@ -216,7 +216,9 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1088/3049-477X/ae250c
-  title: Detecting cognitive impairment and psychological well-being among older adults
+  title: Feasibility of detecting cognitive impairment and psychological well-being
+    among older adults using facial, acoustic, linguistic, and cardiovascular patterns
+    derived from remote conversations
   authors:
   - Xiaofan Mu
   - Merna Bibars
