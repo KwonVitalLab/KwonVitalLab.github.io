@@ -104,6 +104,11 @@ nav:
 
 {% capture content %}
 
+<!-- Spring 2026 Lab Social - Bowling -->
+{% include figure.html image="images/socials/spring2026-bowling/IMG_7703.JPG" width="100%" %}
+{% include figure.html image="images/socials/spring2026-bowling/IMG_8076.jpeg" width="100%" %}
+
+<!-- Fall 2025 Lab Dinner -->
 {% include figure.html image="images/socials/dinner-2025.12.jpg" width="100%" %}
 
 <!-- SfN 2025-->
