@@ -70,3 +70,6 @@ Our previous and current sponsors or collaborators include:
 
 <!-- Oracle -->
 {% include portrait.html name="Oracle Research" lookup="https://www.oracle.com/research/" image="images/sponsors/oracle.webp" style="small" %}
+
+<!-- Black Emory Impact Circle -->
+{% include portrait.html name="Black Emory Impact Circle" lookup="https://together.emory.edu/black-emory-impact-circle" image="images/sponsors/black_emory_impact_circle.png" style="small" %}
