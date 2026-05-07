@@ -3,7 +3,7 @@ name: Yaqi Liu
 image: images/members/ms-students/yaqi-liu.jpg
 role: masters-cs-gt
 alumni: false
-dnf: false
+dnf: true
 aliases:
   - Yaqi Liu
 ---
