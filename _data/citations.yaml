@@ -1,5 +1,26 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: arXiv:2605.11314
+  title: Quantifying Rodda and Graham Gait Classification from 3D Makerless Kinematics
+    derived from a Single-view Video in a Heterogeneous Pediatric Clinical Cohort
+  authors:
+  - Lauhitya Reddy
+  - Seth Donahue
+  - Jeremy Bauer
+  - Susan Sienko
+  - Anita Bagley
+  - Joseph Krzak
+  - Maura Eveld
+  - Karen Kruger
+  - Ross Chafetz
+  - Vedant Kulkarni
+  - Hyeokhyen Kwon
+  publisher: arXiv
+  date: '2026-05-13'
+  link: https://arxiv.org/abs/2605.11314
+  image: https://KwonVitalLab.github.io/images/publications/shriners_rodda.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1055/a-2744-9871
   title: Review of Artificial Intelligence for Clinical Use in Alzheimer's Disease
     and Related Dementias
@@ -84,8 +105,8 @@
   plugin: sources.py
   file: sources.yaml
 - id: doi:10.1101/2025.05.24.25328107
-  title: Quantifying Mild Cognitive Impairments in Older Adults Using Multi-modal
-    Wearable Sensor Data in a Kitchen Environment
+  title: Feasibility of Quantifying Mild Cognitive Impairment Using Multi-Modal Wearable
+    Sensors in a Kitchen Environment
   authors:
   - Bonwoo Koo
   - Ibrahim Bilau
