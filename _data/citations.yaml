@@ -1,5 +1,37 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: arXiv:2605.21421
+  title: 'AIGaitor: Privacy-preserving and cloud-free motion analysis for everyone,
+    using edge computing'
+  authors:
+  - Lauhitya Reddy
+  - Trisha M. Kesar
+  - Hyeokhyen Kwon
+  publisher: arXiv
+  date: '2026-05-21'
+  link: https://arxiv.org/abs/2605.21421
+  image: https://KwonVitalLab.github.io/images/publications/aigaitor.png
+  plugin: sources.py
+  file: sources.yaml
+- id: arXiv:2605.17618
+  title: Prediction of Challenging Behaviors Associated with Profound Autism in a
+    Classroom Setting Using Wearable Sensors
+  authors:
+  - Yadhu Kartha
+  - Conor Anderson
+  - Jenny Foster
+  - Theresa Hamlin
+  - Johanna Lantz
+  - Ryan Lay
+  - Juergen Hahn
+  - Gari D. Clifford
+  - Hyeokhyen Kwon
+  publisher: arXiv
+  date: '2026-05-21'
+  link: https://arxiv.org/abs/2605.17618
+  image: https://KwonVitalLab.github.io/images/publications/wearable-autism_prediction.png
+  plugin: sources.py
+  file: sources.yaml
 - id: arXiv:2605.11314
   title: Quantifying Rodda and Graham Gait Classification from 3D Makerless Kinematics
     derived from a Single-view Video in a Heterogeneous Pediatric Clinical Cohort
