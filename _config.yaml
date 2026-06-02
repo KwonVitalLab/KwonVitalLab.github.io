@@ -51,3 +51,7 @@ email: hyeokhyen.kwon@emory.edu
 github: KwonVitalLab
 twitter: KwonVitalLab
 # youtube: KwonVitalLab
+jekyll-spaceship:
+  mathjax-processor:
+    src:
+      - https://cdn.jsdelivr.net/npm/mathjax@4/tex-mml-chtml.js
