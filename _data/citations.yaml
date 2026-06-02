@@ -1,5 +1,23 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: arXiv:2606.00461
+  title: An explainable hierarchical self attention-based approach for tremor detection
+    in the time domain
+  authors:
+  - Timothy Odonga
+  - Jeanne M. Powell
+  - Mark Saad
+  - Richa Tripathi
+  - Christine D. Esper
+  - Stewart A. Factor
+  - Hyeokhyen Kwon
+  - J. Lucas Mckay
+  publisher: arXiv
+  date: '2026-06-02'
+  link: https://arxiv.org/abs/2606.00461
+  image: https://KwonVitalLab.github.io/images/publications/tremore_hierarchical.png
+  plugin: sources.py
+  file: sources.yaml
 - id: arXiv:2605.21421
   title: 'AIGaitor: Privacy-preserving and cloud-free motion analysis for everyone,
     using edge computing'
