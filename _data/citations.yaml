@@ -1,5 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.64898/2026.06.18.26355980
+  title: Wearable sensing for quantifying cognitive and balance functions in naturalistic
+    movements of older adults with mild cognitive impairment in therapeutic environments
+  authors:
+  - Jangwon Lim
+  - Rahul Islam
+  - Dharini Raghavan
+  - Bolaji Omofojoye
+  - Amy D. Rodriguez
+  - Yashar Kiarashi
+  - Rachel Hershenberg
+  - Gari D. Clifford
+  - Hyeokhyen Kwon
+  publisher: openRxiv
+  date: '2026-06-22'
+  link: https://doi.org/hb8jps
+  image: https://KwonVitalLab.github.io/images/publications/mci-wearable-moca-minibestest.png
+  plugin: sources.py
+  file: sources.yaml
 - id: arXiv:2606.00461
   title: An explainable hierarchical self attention-based approach for tremor detection
     in the time domain
@@ -51,7 +70,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: arXiv:2605.11314
-  title: Quantifying Rodda and Graham Gait Classification from 3D Makerless Kinematics
+  title: Quantifying Rodda and Graham Gait Classification from 3D Markerless Kinematics
     derived from a Single-view Video in a Heterogeneous Pediatric Clinical Cohort
   authors:
   - Lauhitya Reddy
@@ -66,7 +85,7 @@
   - Vedant Kulkarni
   - Hyeokhyen Kwon
   publisher: arXiv
-  date: '2026-05-22'
+  date: '2026-06-09'
   link: https://arxiv.org/abs/2605.11314
   image: https://KwonVitalLab.github.io/images/publications/shriners_rodda.png
   plugin: sources.py
