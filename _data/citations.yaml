@@ -45,7 +45,7 @@
   - Trisha M. Kesar
   - Hyeokhyen Kwon
   publisher: arXiv
-  date: '2026-05-21'
+  date: '2026-06-02'
   link: https://arxiv.org/abs/2605.21421
   image: https://KwonVitalLab.github.io/images/publications/aigaitor.png
   plugin: sources.py
@@ -70,7 +70,7 @@
   plugin: sources.py
   file: sources.yaml
 - id: arXiv:2605.11314
-  title: Quantifying Rodda and Graham Gait Classification from 3D Makerless Kinematics
+  title: Quantifying Rodda and Graham Gait Classification from 3D Markerless Kinematics
     derived from a Single-view Video in a Heterogeneous Pediatric Clinical Cohort
   authors:
   - Lauhitya Reddy
@@ -85,7 +85,7 @@
   - Vedant Kulkarni
   - Hyeokhyen Kwon
   publisher: arXiv
-  date: '2026-05-13'
+  date: '2026-06-09'
   link: https://arxiv.org/abs/2605.11314
   image: https://KwonVitalLab.github.io/images/publications/shriners_rodda.png
   plugin: sources.py
