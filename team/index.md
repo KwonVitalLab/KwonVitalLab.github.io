@@ -104,6 +104,13 @@ nav:
 
 {% capture content %}
 
+<!-- GCMAS 2026 -->
+{% include figure.html image="images/conferences/gcmas_2026/Image034.png" width="100%" %}
+{% include figure.html image="images/conferences/gcmas_2026/Image062.png" width="100%" %}
+{% include figure.html image="images/conferences/gcmas_2026/IMG_7819.JPG" width="100%" %}
+{% include figure.html image="images/conferences/gcmas_2026/IMG_7885.JPG" width="100%" %}
+{% include figure.html image="images/conferences/gcmas_2026/IMG_7895.JPG" width="100%" %}
+
 <!-- Spring 2026 Lab Social - Bowling -->
 {% include figure.html image="images/socials/spring2026-bowling/IMG_7703.JPG" width="100%" %}
 {% include figure.html image="images/socials/spring2026-bowling/IMG_8076.jpeg" width="100%" %}
