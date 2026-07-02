@@ -105,8 +105,8 @@ nav:
 {% capture content %}
 
 <!-- GCMAS 2026 -->
-{% include figure.html image="images/conferences/gcmas_2026/Image034.png" width="100%" %}
-{% include figure.html image="images/conferences/gcmas_2026/Image062.png" width="100%" %}
+{% include figure.html image="images/conferences/gcmas_2026/image034.png" width="100%" %}
+{% include figure.html image="images/conferences/gcmas_2026/image062.png" width="100%" %}
 {% include figure.html image="images/conferences/gcmas_2026/IMG_7819.JPG" width="100%" %}
 {% include figure.html image="images/conferences/gcmas_2026/IMG_7885.JPG" width="100%" %}
 {% include figure.html image="images/conferences/gcmas_2026/IMG_7895.JPG" width="100%" %}
