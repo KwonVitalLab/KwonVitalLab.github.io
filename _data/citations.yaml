@@ -1,5 +1,27 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1145/3786579.3799790
+  title: 'GenAI and Synthetic Data in Healthcare: Exploring the Design and Use of
+    AI-Generated Data for Interactive Health Systems'
+  authors:
+  - Steven R Rick
+  - Manas Satish Bedmutha
+  - Rosa I. Arriaga
+  - Munmun De Choudhury
+  - Charles Goldberg
+  - Azra Ismail
+  - Neha Kumar
+  - Hyeokhyen Kwon
+  - Wanda Pratt
+  - Angad Singh
+  - Andrew Wong
+  - Xuhai Xu
+  - Nadir Weibel
+  publisher: Proceedings of the 2026 ACM Interactive Health Conference
+  date: '2026-07-04'
+  link: https://doi.org/hcbgg9
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.64898/2026.06.18.26355980
   title: Wearable sensing for quantifying cognitive and balance functions in naturalistic
     movements of older adults with mild cognitive impairment in therapeutic environments
