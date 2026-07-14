@@ -104,6 +104,9 @@ nav:
 
 {% capture content %}
 
+<!-- IH 2026 -->
+{% include figure.html image="images/conferences/ih_2026/image0.jpeg" width="100%" %}
+
 <!-- GCMAS 2026 -->
 {% include figure.html image="images/conferences/gcmas_2026/image034.png" width="100%" %}
 {% include figure.html image="images/conferences/gcmas_2026/image062.png" width="100%" %}

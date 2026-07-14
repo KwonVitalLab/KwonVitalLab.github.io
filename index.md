@@ -20,9 +20,9 @@ td, th {
    border: none!important;
 }
 </style>
+| 2026/07/05 | : 🎙 Dr. Kwon organized a workshop at [ACM Interactive Health '26](https://ih.acm.org/) titled, "[GenAI and Synthetic Data in Healthcare: Exploring the Design and Use of AI-Generated Data for Interactive Health Systems](https://www.genai-synthetic.health/)" along with esteemed organizers in HCI and health research.
 | 2026/06/23 | : 📖 [Preprint](https://www.medrxiv.org/content/10.64898/2026.06.18.26355980v1) alert! We demonstrated that wearable-based behavior sensing in naturalistic/therapeutic environments can sense the cognitive impairment and fall risks in Mild Cognitive Impairment.
 | 2026/06/13 | : 🏆 [Lauhitya Reddy](https://kwonvitallab.github.io/members/phd-students/lauhitya-reddy.html) delivered an outstanding TED-style podium presentation that earned runner-up for the Best Podium Award at [Gait and Clinical Movement Anlaysis Society (GCMAS) Annual Meeting 2026](https://na.eventscloud.com/website/87479/home/). Check out the [preprint](https://arxiv.org/abs/2605.11314)! 
-| 2026/05/20 | : 📖 Preprint alert! We demonstrate *AIGaitor* — an on-device, end-to-end markerless motion analysis framework that runs entirely on an iPhone/iPad, without requiring cloud connectivity or external GPUs, integrating Markerless motion capture, deep learning–based gait classification, and an on-device LLM-powered interface. This work, posted on [Arxiv](https://arxiv.org/abs/2605.21421v1), is led by [Lauhitya Reddy](https://lauhitya.com/) with the excellent co-mentorship of [Dr. Trisha Kesar](https://med.emory.edu/directory/profile/?u=TKESAR) from [Emory Rehabilitation Medicine](https://med.emory.edu/departments/rehabilitation-medicine/index.html).
 
 {%
   include button.html
