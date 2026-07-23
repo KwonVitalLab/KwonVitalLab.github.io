@@ -3,6 +3,7 @@ name: Donggyu Lee
 image: images/members/visiting/donggyulee_pic.png
 role: visiting-associate-professor
 alumni: false
+dnf: true
 aliases:
   - Donggyu
 links:
