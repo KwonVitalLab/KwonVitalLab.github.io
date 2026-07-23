@@ -10,7 +10,7 @@ pi:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
-visiting-associate-professor:
+visiting-scholar-associate-professor:
   icon: fa-solid fa-glasses
   description: Visiting Associate Professor, BMI, Emory
 
@@ -130,6 +130,10 @@ undergrad-physics-math-emory:
 undergrad-neuroscience-behavioral-biology-emory:
   icon: fa-solid fa-pen-nib
   description: Undergrad Student, Neuroscience and Behavioral Biology, Emory
+
+visiting-student:
+  icon: fa-solid fa-glasses
+  description: Visiting Student, BMI, Emory
 
 mascot:
   icon: fa-solid fa-dog
