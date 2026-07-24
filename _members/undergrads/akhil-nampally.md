@@ -13,7 +13,7 @@ links:
   website-profile: https://akhilnam.dev/
 ---
 
-aditya.dutta [at] emory.edu
+anampally3 [at] gatech.edu
 
 Undergrad Student, School of Computer Science, College of Computing, Georgia Institute of Technology
 
