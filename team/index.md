@@ -26,7 +26,7 @@ nav:
 {% include section.html size="wide" %}
 
 <!-- Visiting Scholar -->
-{% include list.html data="members" component="portrait" filters="role: visiting, alumni: false" %}
+{% include list.html data="members" component="portrait" filters="role: visiting-scholar, alumni: false, dnf:false" %}
 
 <!-- Research Scientist -->
 {% include list.html data="members" component="portrait" filters="role: research-scientist, alumni: false" %}
@@ -46,8 +46,11 @@ nav:
 <!-- MS Students -->
 {% include list.html data="members" component="portrait" filters="role: masters, alumni: false, dnf:false" %}
 
-<!-- Undergrad students -->
+<!-- Undergrad Student -->
 {% include list.html data="members" component="portrait" filters="role: undergrad, alumni: false, dnf:false" %}
+
+<!-- Visiting Student -->
+{% include list.html data="members" component="portrait" filters="role: visiting-student, alumni: false, dnf:false" %}
 
 
 <!-- Alumni -->
