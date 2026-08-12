@@ -3,7 +3,7 @@ name: Paulo Condori Pinedo
 image: images/members/ms-students/Paulo-Condori-Pinedo.jpeg
 role: masters-cs-emory
 alumni: false
-dnf: false
+dnf: true
 aliases:
   - Paulo Pinedo
 links:
