@@ -111,14 +111,14 @@ nav:
 {% include figure.html image="images/conferences/tcfd_2026/JW207936-scaled.jpg" width="100%" %}
 
 <!-- IH 2026 -->
-{% include figure.html image="images/conferences/ih_2026/image0.jpeg" width="100%" %}
+{% include figure.html image="images/conferences/ih_2026/image0.jpeg" width="87%" %}
 
 <!-- GCMAS 2026 -->
 {% include figure.html image="images/conferences/gcmas_2026/image034.png" width="100%" %}
 {% include figure.html image="images/conferences/gcmas_2026/image062.png" width="100%" %}
 {% include figure.html image="images/conferences/gcmas_2026/IMG_7819.JPG" width="100%" %}
 {% include figure.html image="images/conferences/gcmas_2026/IMG_7885.JPG" width="100%" %}
-{% include figure.html image="images/conferences/gcmas_2026/IMG_7895.JPG" width="100%" %}
+{% include figure.html image="images/conferences/gcmas_2026/IMG_7895.JPG" width="60%" %}
 
 <!-- Spring 2026 Lab Social - Bowling -->
 {% include figure.html image="images/socials/spring2026-bowling/IMG_7703.JPG" width="100%" %}
