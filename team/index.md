@@ -107,6 +107,9 @@ nav:
 
 {% capture content %}
 
+<!-- TCFD 2026 -->
+{% include figure.html image="images/conferences/tcfd_2026/JW207936-scaled.jpg" width="100%" %}
+
 <!-- IH 2026 -->
 {% include figure.html image="images/conferences/ih_2026/image0.jpeg" width="100%" %}
 
