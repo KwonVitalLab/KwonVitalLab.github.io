@@ -75,7 +75,7 @@ nav:
 
 {% include portrait.html name="Dharini Raghavan (MS, GT ECE, 2025)<br>- Ph.D in ECE, GT" image="images/members/ms-students/alumni/dharini-raghavan.JPG" style="small" %}
 
-{% include portrait.html name="Scarlett Duan (MS, Emory CS, 2024)<br>- Amazon" image="images/members/ms-students/alumni/scarlett-duan.JPG" style="small" %}
+{% include portrait.html name="Scarlett Duan (MS, Emory CS, 2024)<br>- Google" image="images/members/ms-students/alumni/scarlett-duan.JPG" style="small" %}
 
 {% include portrait.html name="Arvind Ramesh (MS, GT ECE, 2024)<br>- Qualcomm" image="images/members/ms-students/alumni/arvind-ramesh.jpg" style="small" %}
 
