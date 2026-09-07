@@ -1,5 +1,21 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: arXiv:2608.30857
+  title: 'TAMI: Temporally Aligned, Missingness-Aware, and Interpretable Multimodal
+    Fusion for Mental Health Assessment in Older Adults with Mild Cognitive Impairment'
+  authors:
+  - Merna Bibars
+  - Bolaji Omofojoye
+  - Allan I. Levey
+  - Rachel Hershenberg
+  - Gari D. Clifford
+  - Hyeokhyen Kwon
+  publisher: arXiv
+  date: '2026-09-01'
+  link: https://arxiv.org/abs/2608.30857
+  image: https://KwonVitalLab.github.io/images/publications/tami_merna.png
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1145/3786579.3799790
   title: 'GenAI and Synthetic Data in Healthcare: Exploring the Design and Use of
     AI-Generated Data for Interactive Health Systems'
