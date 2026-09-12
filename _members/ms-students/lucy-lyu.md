@@ -10,7 +10,7 @@ links:
   linkedin: shutong-lyu-71848622a
 ---
 
-xiaofan.mu [at] emory.edu
+shutong.lyu [at] emory.edu
 
 Master Student, Department of Computer Science, Laney Graduate School, Emory University
 
