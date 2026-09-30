@@ -1,11 +1,16 @@
 ---
 ---
 
-<!-- {% capture recruiting %}
-Currently, we are actively recruiting <u>1 - 2 Ph.D. students</u> from *[Emory CS](https://computerscience.emory.edu/graduate/admissions/index.html)* and *[GT ML](https://ml.gatech.edu/phd/admissions)* programs. Please contact [Dr. Kwon](mailto:hyeokhyen.kwon@gatech.edu) or apply for those programs, if you are interested in **Computer Vision**, **Ubiquitous Computing**, and **Machine Learning** techniques for **Health Analytics**.
+{% capture recruiting %}
+Currently, we are actively recruiting <u>1 Ph.D. students</u> and <u>1 PostDoc</u>, who is interested in **Multimodal & Continual Learning/Computer Vision/Human Activity Recognition for Real-World Clinical AI for Pakinson's Disease**. These positions are part of a [five-year NIH R01-funded study](https://reporter.nih.gov/search/xVlknvaiXkeJCod3gizSLw/project-details/11450678) beginning September 2026.
+
+For [Ph.D. application](https://kwonvitallab.github.io/career/#phd-student), please check *[Emory CS](https://computerscience.emory.edu/graduate-phd/csi-phd-programs.html#row4)* and *[GT ML/BME](https://ml.gatech.edu/admissions)* programs. 
+
+For [PostDoc application](https://kwonvitallab.github.io/career/#postdoc), please apply through the [Emory Career](https://faculty-emory.icims.com/jobs/172904/post-doctoral-fellow/job). 
+<!-- Please contact [Dr. Kwon](mailto:hyeokhyen.kwon@gatech.edu) or apply for those programs, if you are interested in **Computer Vision**, **Ubiquitous Computing**, and **Machine Learning** techniques for **Health Analytics**. -->
 {% endcapture %}
 {% capture content %} {{ recruiting }}{% endcapture %}
-{% include alert.html type="tip" content=content %} -->
+{% include alert.html type="tip" content=content %}
 
 Computational Beha**Vi**or and Heal**T**h **A**na**L**ytics (**ViTAL**) Lab strives to develop **Patient-centered Artificial Intelligence (AI) systems** that are *Scalable*, *Accessible*, and *Ethical* to effectively improve the **Healthcare** system. 
 Our mission is to develop **Edge Computing**, **Computer Vision**, and **Machine Learning** systems using distributed ambient, mobile, and wearable devices to monitor patients' conditions in hospitals or everyday life. We are also invested in *deploying* and *testing* the developed AI systems in real-world clinical and daily living environments, actively collaborating with *stakeholders* in healthcare.
