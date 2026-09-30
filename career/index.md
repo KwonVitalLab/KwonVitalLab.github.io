@@ -71,7 +71,7 @@ Excellent scientific writing ability and strong oral communication skills. The a
 Candidates are required to have a strong background in at least one of the following areas: Biomedical Engineering, Biomedical Informatics, Computer Science, Electrical and Computer Engineering, Mathematics, or a related field.
 
 - Experience with large volumes of video, speech, or time-series sensor data analytics is essential
-- Experience with multi-person tracking systems is a strong plus 
+- Experience with multi-person tracking systems and human activity recognition is a strong plus 
 - Experience with multi-view or distributed camera networks and 3D human pose or motion analysis is a strong plus
 - Any experience in machine learning on edge computing devices, such as Raspberry Pi, Arduino, and mobile/wearable devices is a strong plus 
 - Any experience in multi-modal recognition systems is preferred
