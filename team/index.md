@@ -107,6 +107,9 @@ nav:
 
 {% capture content %}
 
+<!-- MLSP 2026 -->
+{% include figure.html image="images/conferences/mlsp_2026/mlsp2026.jpg" width="100%" %}
+
 <!-- TCFD 2026 -->
 {% include figure.html image="images/conferences/tcfd_2026/JW207936-scaled.jpg" width="100%" %}
 
