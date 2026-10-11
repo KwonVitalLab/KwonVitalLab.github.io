@@ -2,7 +2,7 @@
 ---
 
 {% capture recruiting %}
-Currently, we are actively recruiting <u>Ph.D. students</u> and <u>PostDocs</u> in two topics.
+Currently, we are actively recruiting <u>Ph.D. students</u> and <u>PostDocs</u> in two topics. At Emory, you’ll have the opportunity to work with *world-class clinicians*, access *massive multimodal clinical datasets*, and conduct *high-impact, real-world research*.
 
 🔹 Multimodal Human Activity Recognition for neuropsychiatric conditions across diverse populations (infants, children, older adults, etc.)  <br>
 🔹 Stakeholder-Centered AI Clinics, designing and implementing AI-driven systems in clinical settings (neurology, pediatrics, psychiatry, and beyond)
