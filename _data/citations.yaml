@@ -315,12 +315,15 @@
     Approaches to Bias Mitigation
   authors:
   - Timothy Odonga
+  - Jeanne M. Powell
+  - Claire Bae
+  - Yumeng Tan
   - Christine D. Esper
   - Stewart A. Factor
   - J. Lucas McKay
   - Hyeokhyen Kwon
   publisher: arXiv
-  date: '2026-02-02'
+  date: '2026-10-20'
   link: https://arxiv.org/abs/2502.09626
   image: https://KwonVitalLab.github.io/images/publications/arxiv-2502.09626.png
   plugin: sources.py
