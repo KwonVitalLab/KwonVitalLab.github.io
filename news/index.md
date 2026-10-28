@@ -13,6 +13,7 @@ td, th {
    border: none!important;
 }
 </style>
+| 2026/10/28 |: 🎙 Dr. Kwon gave a lecture at the PGY-2 Psychiatry Residency Seminar in Emory Psychiatry about "A New Frontier in Brain Health: Patient-oriented Artificial Intelligence and Ubiquitous Behavior Sensing."
 | 2026/10/24 |: 🎙 Dr. Kwon was invited to speak at the [KSEA & KWiSE Joint Annual Conference 2026](https://drive.google.com/file/d/1dR3S32w0LxtSj0GBKP8MEyMvONfrIBsm/view) in Atlanta, GA. He gave a talk on "A New Frontier in Brain Health: Patient-oriented Artificial Intelligence and Ubiquitous Behavior Sensing."
 | 2026/10/11-2026/10/15 | : 🎙 Dr. Kwon attended [UbiComp/ISWC 2026](https://www.ubicomp.org/ubicomp-iswc-2026/) in Shanghai, China. He served as a co-lead in organizing the [Ubicomp Mental Health Workshop 2026](https://ubicomp-mental-health.github.io/) and a session chair for [Session D1 – "Recognizing Unseen Activities"](https://www.ubicomp.org/ubicomp-iswc-2026/accepted-papers/#session-D1).
 | 2026/09/28-2026/10/01 | : 🎙 Dr. Kwon is serving as a Co-chair of the Technical Program Committee for [2026 IEEE International Workshop on Machine Learning for Signal Processing (MLSP)](https://mlsp26.ieeesps.org/), hosted in Atlanta, GA.
