@@ -13,6 +13,7 @@ td, th {
    border: none!important;
 }
 </style>
+| 2026/11/04-2026/11/05 | 🎙 Dr. Kwon and his team ([Lauhitya Reddy](https://kwonvitallab.github.io/members/phd-students/lauhitya-reddy.html) and [Seuyoung Chung](https://kwonvitallab.github.io/members/visiting/seuyoung-chung.html)) presented a talk and Demo of SEMGaitor (an edge AI model for gait analysis on smartphones for cerebral palsy) at Shriners' Orthopedics Annual Research Meeting in Atlanta, GA.
 | 2026/10/28 |: 🎙 Dr. Kwon gave a lecture at the PGY-2 Psychiatry Residency Seminar in Emory Psychiatry about "A New Frontier in Brain Health: Patient-oriented Artificial Intelligence and Ubiquitous Behavior Sensing."
 | 2026/10/24 |: 🎙 Dr. Kwon was invited to speak at the [KSEA & KWiSE Joint Annual Conference 2026](https://drive.google.com/file/d/1dR3S32w0LxtSj0GBKP8MEyMvONfrIBsm/view) in Atlanta, GA. He gave a talk on "A New Frontier in Brain Health: Patient-oriented Artificial Intelligence and Ubiquitous Behavior Sensing."
 | 2026/10/11-2026/10/15 | : 🎙 Dr. Kwon attended [UbiComp/ISWC 2026](https://www.ubicomp.org/ubicomp-iswc-2026/) in Shanghai, China. He served as a co-lead in organizing the [Ubicomp Mental Health Workshop 2026](https://ubicomp-mental-health.github.io/) and a session chair for [Session D1 – "Recognizing Unseen Activities"](https://www.ubicomp.org/ubicomp-iswc-2026/accepted-papers/#session-D1).
