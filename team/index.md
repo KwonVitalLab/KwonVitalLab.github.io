@@ -107,6 +107,22 @@ nav:
 
 {% capture content %}
 
+<!-- AMIA 2026 -->
+{% include figure.html image="images/conferences/amia_2026/de9ea2cb-e9ce-4eaf-a4dd-ea442167c3d6.JPG" width="60%" %}
+{% include figure.html image="images/conferences/amia_2026/Image.jpeg" width="100%" %}
+{% include figure.html image="images/conferences/amia_2026/IMG_5790.JPEG" width="100%" %}
+{% include figure.html image="images/conferences/amia_2026/IMG_6365.JPEG" width="100%" %}
+{% include figure.html image="images/conferences/amia_2026/IMG_8200.png" width="80%" %}
+{% include figure.html image="images/conferences/amia_2026/IMG_8877.JPG" width="60%" %}
+{% include figure.html image="images/conferences/amia_2026/IMG_8922.JPG" width="60%" %}
+{% include figure.html image="images/conferences/amia_2026/WhatsApp Image 2026-11-09 at 07.41.36.jpeg" width="60%" %}
+
+
+<!-- SCRI 2026 -->
+{% include figure.html image="images/conferences/scri_2026/40446E70-F860-4520-9CAD-1A56AFD6ACAC.png" width="60%" %}
+{% include figure.html image="images/conferences/scri_2026/IMG_4696.png" width="100%" %}
+{% include figure.html image="images/conferences/scri_2026/IMG_9105 (1).png" width="100%" %}
+
 <!-- MLSP 2026 -->
 {% include figure.html image="images/conferences/mlsp_2026/mlsp2026.jpg" width="100%" %}
 
