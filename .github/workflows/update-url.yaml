@@ -1,14 +1,14 @@
 name: update-url
-run-name: update site after url change
+run-name: Update site after URL change
 
 on:
-  # run when called from another workflow
+  # called by on-pages
   workflow_call:
     outputs:
-      changed:
-        value: ${{ jobs.update-url.outputs.changed }}
+      files-changed:
+        value: ${{ jobs.update-url.outputs.files-changed }}
 
-  # run if user manually requests it
+  # run manually by user
   workflow_dispatch:
 
 permissions:
@@ -19,20 +19,15 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Print contexts
-        uses: crazy-max/ghaction-dump-context@v1
-
-      - name: Get Pages url
+      - name: Get Pages URL
         id: pages
-        uses: actions/configure-pages@v2
-        with:
-          enablement: false
+        uses: actions/configure-pages@v6
 
-      - name: Checkout branch contents
-        uses: actions/checkout@v3
+      - name: Checkout main branch contents
+        uses: actions/checkout@v7
 
-      - name: Update readme
-        uses: actions/github-script@v6
+      - name: Update README
+        uses: actions/github-script@v9
         with:
           script: |
             const { readFileSync, writeFileSync } = require("fs");
@@ -49,18 +44,18 @@ jobs:
               contents = `Visit ${replace} 🚀\n\n` + contents;
             writeFileSync(file, contents);
 
-      - name: Check if readme changed
-        id: changed
-        uses: tj-actions/verify-changed-files@v13
+      - name: Check if README changed
+        id: files-changed
+        uses: tj-actions/verify-changed-files@v20
         with:
           files: |
             README.md
 
       - name: Commit changed files
-        if: steps.changed.outputs.files_changed == 'true'
-        uses: stefanzweifel/git-auto-commit-action@v4
+        if: steps.files-changed.outputs.files_changed == 'true'
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
-          commit_message: "Update url"
+          commit_message: "Update URL"
 
     outputs:
-      changed: ${{ steps.changed.outputs.files_changed }}
+      files-changed: ${{ steps.files-changed.outputs.files_changed }}
