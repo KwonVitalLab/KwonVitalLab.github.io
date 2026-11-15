@@ -5,6 +5,7 @@ header: null
 footer: null
 header-dark: false
 footer-dark: false
+prrofer: false
 links:
   email: hyeokhyen.kwon@emory.edu
   orcid: 0000-0002-5693-3278
@@ -51,6 +52,8 @@ email: hyeokhyen.kwon@emory.edu
 github: KwonVitalLab
 twitter: KwonVitalLab
 # youtube: KwonVitalLab
+
+# configure jekyll spaceship
 jekyll-spaceship:
   mathjax-processor:
     src:
