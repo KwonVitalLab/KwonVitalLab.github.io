@@ -20,38 +20,37 @@ nav:
 {% include section.html size="wide" %}
 
 <!-- Director -->
-{% include list.html data="members" component="portrait" filters="role: director" %}
+{% include list.html data="members" component="portrait" filter="role =~ /director/" %}
 
 <!-- Members -->
 {% include section.html size="wide" %}
 
 <!-- Visiting Scholar -->
-{% include list.html data="members" component="portrait" filters="role: visiting-scholar, alumni: false, dnf:false" %}
+{% include list.html data="members" component="portrait" filter="role =~ /visiting-scholar/ and alumni != true and dnf != true" %}
 
 <!-- Research Scientist -->
-{% include list.html data="members" component="portrait" filters="role: research-scientist, alumni: false" %}
+{% include list.html data="members" component="portrait" filter="role =~ /research-scientist/ and alumni != true" %}
 
 <!-- PostDocs -->
-{% include list.html data="members" component="portrait" filters="role: postdoc, alumni: false" %}
+{% include list.html data="members" component="portrait" filter="role =~ /postdoc/ and alumni != true" %}
 
 <!-- Clinical Research Coordinator -->
-{% include list.html data="members" component="portrait" filters="role: clinical-reseaerch-coordinator, alumni: false" %}
+{% include list.html data="members" component="portrait" filter="role =~ /clinical-research-coordinator/ and alumni != true" %}
 
 <!-- Software Engineers -->
-{% include list.html data="members" component="portrait" filters="role: software-engineer, alumni: false" %}
+{% include list.html data="members" component="portrait" filter="role =~ /software-engineer/ and alumni != true" %}
 
 <!-- PhD Students -->
-{% include list.html data="members" component="portrait" filters="role: phd, alumni: false, dnf:false" %}
+{% include list.html data="members" component="portrait" filter="role =~ /phd/ and alumni != true and dnf != true" %}
 
 <!-- MS Students -->
-{% include list.html data="members" component="portrait" filters="role: masters, alumni: false, dnf:false" %}
+{% include list.html data="members" component="portrait" filter="role =~ /masters/ and alumni != true and dnf != true" %}
 
 <!-- Undergrad Student -->
-{% include list.html data="members" component="portrait" filters="role: undergrad, alumni: false, dnf:false" %}
+{% include list.html data="members" component="portrait" filter="role =~ /undergrad/ and alumni != true and dnf != true" %}
 
 <!-- Visiting Student -->
-{% include list.html data="members" component="portrait" filters="role: visiting-student, alumni: false, dnf:false" %}
-
+{% include list.html data="members" component="portrait" filter="role =~ /visiting-student/ and alumni != true and dnf != true" %}
 
 <!-- Alumni -->
 {% include section.html size="wide" %}
