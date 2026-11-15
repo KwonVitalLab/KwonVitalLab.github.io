@@ -1,5 +1,24 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: 10.18653/v1/2026.acl-demo.14
+  title: 'Dash-M5H: An Interactive Dashboard for Multi-Modal, Multi-Model Mental Health
+    Assessment'
+  authors:
+  - Raymond Alavo
+  - Xinyuan Zhang
+  - Gemza Ademaj
+  - Junhui Cai
+  - Hyeokhyen Kwon
+  - Robert Cotes
+  - Gari D. Clifford
+  - Ahmed Abbasi
+  publisher: 'Proceedings of the 64th Annual Meeting of the Association for Computational
+    Linguistics (Volume 3: System Demonstrations)'
+  date: '2026-01-01'
+  link: https://doi.org/hcskmf
+  image: https://KwonVitalLab.github.io/images/publications/dash-m5h.png
+  plugin: sources.py
+  file: sources.yaml
 - id: arXiv:2608.30857
   title: 'TAMI: Temporally Aligned, Missingness-Aware, and Interpretable Multimodal
     Fusion for Mental Health Assessment in Older Adults with Mild Cognitive Impairment'
