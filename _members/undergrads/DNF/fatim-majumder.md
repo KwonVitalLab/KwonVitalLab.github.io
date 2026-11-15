@@ -2,6 +2,8 @@
 name: Fatim Majumder
 image: images/members/fatim-majumder.jpg
 role: dnf-undergrads
+alumni: false
+dnf: true
 aliases:
   - Fatim Majumder
 ---
