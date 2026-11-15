@@ -1,7 +1,7 @@
 ---
 name: Bolaji Omofojoye
 image: images/members/crc/bolaji-omofojoye.png
-role: clinical-reseaerch-coordinator
+role: clinical-research-coordinator
 alumni: false
 aliases:
   - Bolaji Omofojoye
